@@ -1,0 +1,20 @@
+{
+  "equipments": [
+    {
+      "nom_equipement": "RouteurPrincipal",
+      "adresse_ip": "172.20.10.5",
+      "communaute_snmp": "public"
+    },
+    {
+      "nom_equipement": "ServeurWeb",
+      "adresse_ip": "172.20.10.5",
+      "communaute_snmp": "public"
+    },
+    {
+      "nom_equipement": "ServeurWeb2",
+      "adresse_ip": "172.20.10.5",
+      "communaute_snmp": "public"
+    }
+  ]
+}
+
