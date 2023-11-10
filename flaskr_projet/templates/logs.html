@@ -1,0 +1,16 @@
+{% extends "layout.html" %}
+{% block title %} Logs {% endblock %}
+
+{% block content %}
+    <div class="container">
+        <h1 class="mt-2 mb-4">Logs</h1>
+
+
+        <ul>
+            {% for line in log_lines %}
+                <li>{{ line }}</li>
+            {% endfor %}
+        </ul>
+    </div>
+{% endblock %}
+

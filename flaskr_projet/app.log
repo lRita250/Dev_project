@@ -1,0 +1,1892 @@
+2023-11-01 16:51:19,237 [INFO] -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2023-11-01 16:51:28,887 [INFO] - 127.0.0.1 - - [01/Nov/2023 16:51:28] "GET /equipements HTTP/1.1" 200 -
+2023-11-01 16:51:29,408 [INFO] - 127.0.0.1 - - [01/Nov/2023 16:51:29] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -2023-11-01 16:52:31,505 [INFO] -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2023-11-01 16:52:33,614 [INFO] - 127.0.0.1 - - [01/Nov/2023 16:52:33] "GET /logs HTTP/1.1" 200 -
+2023-11-01 16:52:34,306 [INFO] - 127.0.0.1 - - [01/Nov/2023 16:52:34] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2023-11-01 16:52:53,705 [INFO] -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2023-11-01 16:52:54,939 [INFO] - 127.0.0.1 - - [01/Nov/2023 16:52:54] "GET /logs HTTP/1.1" 200 -
+2023-11-01 16:52:55,706 [INFO] - 127.0.0.1 - - [01/Nov/2023 16:52:55] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2023-11-01 16:53:18,216 [INFO] -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2023-11-01 16:53:25,685 [INFO] - 127.0.0.1 - - [01/Nov/2023 16:53:25] "GET /logs HTTP/1.1" 200 -
+2023-11-01 16:53:26,459 [INFO] - 127.0.0.1 - - [01/Nov/2023 16:53:26] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2023-11-01 16:55:02,552 [INFO] -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2023-11-01 16:55:03,996 [INFO] - 127.0.0.1 - - [01/Nov/2023 16:55:03] "GET /logs HTTP/1.1" 200 -
+2023-11-01 16:55:04,495 [INFO] - 127.0.0.1 - - [01/Nov/2023 16:55:04] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2023-11-01 16:57:57,375 [INFO] -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2023-11-01 16:57:59,853 [INFO] - 127.0.0.1 - - [01/Nov/2023 16:57:59] "[35m[1mGET /logs HTTP/1.1[0m" 500 -
+2023-11-01 16:58:00,188 [INFO] - 127.0.0.1 - - [01/Nov/2023 16:58:00] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2023-11-01 16:58:13,535 [INFO] -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2023-11-01 16:58:15,250 [INFO] - 127.0.0.1 - - [01/Nov/2023 16:58:15] "GET /equipements HTTP/1.1" 200 -
+2023-11-01 16:58:15,678 [INFO] - 127.0.0.1 - - [01/Nov/2023 16:58:15] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2023-11-01 16:58:16,904 [INFO] - 127.0.0.1 - - [01/Nov/2023 16:58:16] "GET /logs HTTP/1.1" 200 -
+2023-11-01 16:58:57,249 [INFO] - 127.0.0.1 - - [01/Nov/2023 16:58:57] "GET /logs HTTP/1.1" 200 -
+2023-11-01 16:58:57,726 [INFO] - 127.0.0.1 - - [01/Nov/2023 16:58:57] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2023-11-01 17:01:57,547 [INFO] -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2023-11-01 17:02:02,310 [INFO] - 127.0.0.1 - - [01/Nov/2023 17:02:02] "GET /logs HTTP/1.1" 200 -
+2023-11-01 17:02:02,745 [INFO] - 127.0.0.1 - - [01/Nov/2023 17:02:02] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2023-11-01 17:02:05,452 [INFO] - 127.0.0.1 - - [01/Nov/2023 17:02:05] "GET / HTTP/1.1" 200 -
+2023-11-01 17:02:07,395 [INFO] - 127.0.0.1 - - [01/Nov/2023 17:02:07] "GET /logs HTTP/1.1" 200 -
+2023-11-01 17:02:30,788 [INFO] -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2023-11-01 17:02:33,048 [INFO] - 127.0.0.1 - - [01/Nov/2023 17:02:33] "GET /logs HTTP/1.1" 200 -
+2023-11-01 17:02:33,516 [INFO] - 127.0.0.1 - - [01/Nov/2023 17:02:33] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2023-11-01 17:02:44,459 [INFO] - 127.0.0.1 - - [01/Nov/2023 17:02:44] "GET /equipements HTTP/1.1" 200 -
+2023-11-01 17:02:47,103 [INFO] - 127.0.0.1 - - [01/Nov/2023 17:02:47] "GET /logs HTTP/1.1" 200 -
+2023-11-01 17:02:50,854 [INFO] - 127.0.0.1 - - [01/Nov/2023 17:02:50] "GET / HTTP/1.1" 200 -
+2023-11-01 17:02:52,265 [INFO] - 127.0.0.1 - - [01/Nov/2023 17:02:52] "GET /equipements HTTP/1.1" 200 -
+2023-11-01 17:02:53,055 [INFO] - 127.0.0.1 - - [01/Nov/2023 17:02:53] "GET /equipements HTTP/1.1" 200 -
+2023-11-01 17:02:54,828 [INFO] - 127.0.0.1 - - [01/Nov/2023 17:02:54] "GET / HTTP/1.1" 200 -
+2023-11-01 17:02:56,069 [INFO] - 127.0.0.1 - - [01/Nov/2023 17:02:56] "GET /equipements HTTP/1.1" 200 -
+2023-11-01 17:02:56,512 [INFO] - 127.0.0.1 - - [01/Nov/2023 17:02:56] "GET /logs HTTP/1.1" 200 -
+2023-11-01 17:03:06,488 [INFO] - 127.0.0.1 - - [01/Nov/2023 17:03:06] "GET /logs HTTP/1.1" 200 -
+2023-11-01 17:03:06,934 [INFO] - 127.0.0.1 - - [01/Nov/2023 17:03:06] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2023-11-01 17:03:17,944 [INFO] - 127.0.0.1 - - [01/Nov/2023 17:03:17] "GET / HTTP/1.1" 200 -
+2023-11-01 17:03:25,729 [INFO] -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2023-11-01 17:09:28,951 [INFO] -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2023-11-01 17:09:31,223 [INFO] - 127.0.0.1 - - [01/Nov/2023 17:09:31] "GET / HTTP/1.1" 200 -
+2023-11-01 17:09:31,666 [INFO] - 127.0.0.1 - - [01/Nov/2023 17:09:31] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2023-11-01 17:09:35,108 [INFO] - 127.0.0.1 - - [01/Nov/2023 17:09:35] "[32mGET /interoger HTTP/1.1[0m" 302 -
+2023-11-01 17:09:35,413 [INFO] - 127.0.0.1 - - [01/Nov/2023 17:09:35] "GET / HTTP/1.1" 200 -
+2023-11-01 17:10:16,139 [INFO] -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2023-11-01 17:10:17,382 [INFO] - 127.0.0.1 - - [01/Nov/2023 17:10:17] "GET / HTTP/1.1" 200 -
+2023-11-01 17:10:17,849 [INFO] - 127.0.0.1 - - [01/Nov/2023 17:10:17] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2023-11-01 17:10:21,034 [INFO] - Supervision de l'équipement : Router1
+2023-11-01 17:10:27,248 [ERROR] - Erreur lors de l'interrogation de la sonde SNMP à 192.168.1.1: No SNMP response received before timeout
+2023-11-01 17:10:27,249 [INFO] - Supervision de l'équipement : Switch1
+2023-11-01 17:10:33,437 [ERROR] - Erreur lors de l'interrogation de la sonde SNMP à 192.168.1.2: No SNMP response received before timeout
+2023-11-01 17:10:33,439 [INFO] - Supervision de l'équipement : Router2
+2023-11-01 17:10:39,621 [ERROR] - Erreur lors de l'interrogation de la sonde SNMP à 192.168.1.3: No SNMP response received before timeout
+2023-11-01 17:10:39,623 [INFO] - Supervision de l'équipement : Switch2
+2023-11-01 17:10:45,620 [INFO] - 127.0.0.1 - - [01/Nov/2023 17:10:45] "GET /logs HTTP/1.1" 200 -
+2023-11-01 17:10:45,836 [ERROR] - Erreur lors de l'interrogation de la sonde SNMP à 192.168.1.200: No SNMP response received before timeout
+2023-11-01 17:10:45,838 [INFO] - 127.0.0.1 - - [01/Nov/2023 17:10:45] "[32mGET /interoger HTTP/1.1[0m" 302 -
+2023-11-01 17:11:06,008 [INFO] - 127.0.0.1 - - [01/Nov/2023 17:11:06] "GET / HTTP/1.1" 200 -
+2023-11-01 17:11:34,182 [INFO] - 127.0.0.1 - - [01/Nov/2023 17:11:34] "GET /equipements HTTP/1.1" 200 -
+2023-11-01 17:11:37,402 [INFO] - 127.0.0.1 - - [01/Nov/2023 17:11:37] "GET /equipements/Router1/edit HTTP/1.1" 200 -
+2023-11-01 17:13:21,641 [INFO] - 127.0.0.1 - - [01/Nov/2023 17:13:21] "GET /equipements HTTP/1.1" 200 -
+2023-11-01 17:13:22,080 [INFO] - 127.0.0.1 - - [01/Nov/2023 17:13:22] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2023-11-01 17:13:26,026 [INFO] -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2023-11-01 17:13:27,172 [INFO] - 127.0.0.1 - - [01/Nov/2023 17:13:27] "GET /equipements HTTP/1.1" 200 -
+2023-11-01 17:13:27,581 [INFO] - 127.0.0.1 - - [01/Nov/2023 17:13:27] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2023-11-01 17:13:32,384 [INFO] - 127.0.0.1 - - [01/Nov/2023 17:13:32] "GET / HTTP/1.1" 200 -
+2023-11-01 17:13:34,508 [INFO] - Supervision de l'équipement : Router1
+2023-11-01 17:13:40,720 [ERROR] - Erreur lors de l'interrogation de la sonde SNMP à 192.168.141.176: No SNMP response received before timeout
+2023-11-01 17:13:40,722 [INFO] - 127.0.0.1 - - [01/Nov/2023 17:13:40] "[32mGET /interoger HTTP/1.1[0m" 302 -
+2023-11-01 17:13:41,109 [INFO] - 127.0.0.1 - - [01/Nov/2023 17:13:41] "GET / HTTP/1.1" 200 -
+2023-11-01 17:13:56,206 [INFO] -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2023-11-01 17:13:57,757 [INFO] - 127.0.0.1 - - [01/Nov/2023 17:13:57] "GET / HTTP/1.1" 200 -
+2023-11-01 17:13:58,202 [INFO] - 127.0.0.1 - - [01/Nov/2023 17:13:58] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2023-11-01 17:14:00,363 [INFO] - Supervision de l'équipement : Router1
+2023-11-01 17:14:00,575 [ERROR] - Une erreur s'est produite lors de l'interrogation de la sonde: poll error: Traceback (most recent call last):
+;  File "/home/user/.local/lib/python3.6/site-packages/pysnmp/carrier/asyncore/dispatch.py", line 46, in runDispatcher
+    use_poll=True, map=self.__sockMap, count=1)
+;  File "/usr/lib/python3.6/asyncore.py", line 207, in loop
+    poll_fun(timeout, map)
+;  File "/usr/lib/python3.6/asyncore.py", line 188, in poll2
+    readwrite(obj, flags)
+;  File "/usr/lib/python3.6/asyncore.py", line 123, in readwrite
+    obj.handle_error()
+;  File "/usr/lib/python3.6/asyncore.py", line 108, in readwrite
+    obj.handle_read_event()
+;  File "/usr/lib/python3.6/asyncore.py", line 423, in handle_read_event
+    self.handle_read()
+;  File "/home/user/.local/lib/python3.6/site-packages/pysnmp/carrier/asyncore/dgram/base.py", line 170, in handle_read
+    self._cbFun(self, transportAddress, incomingMessage)
+;  File "/home/user/.local/lib/python3.6/site-packages/pysnmp/carrier/base.py", line 85, in _cbFun
+    self, transportDomain, transportAddress, incomingMessage
+;  File "/home/user/.local/lib/python3.6/site-packages/pysnmp/entity/engine.py", line 152, in __receiveMessageCbFun
+    self, transportDomain, transportAddress, wholeMsg
+;  File "/home/user/.local/lib/python3.6/site-packages/pysnmp/proto/rfc3412.py", line 291, in receiveMessage
+    msgVersion = verdec.decodeMessageVersion(wholeMsg)
+;  File "/home/user/.local/lib/python3.6/site-packages/pysnmp/proto/api/verdec.py", line 17, in decodeMessageVersion
+    recursiveFlag=False, substrateFun=lambda a, b, c: (a, b[:c])
+;  File "/home/user/.local/lib/python3.6/site-packages/pyasn1/codec/ber/decoder.py", line 2003, in __call__
+    for asn1Object in streamingDecoder:
+;  File "/home/user/.local/lib/python3.6/site-packages/pyasn1/codec/ber/decoder.py", line 1919, in __iter__
+    self._substrate, self._asn1Spec, **self._options):
+;  File "/home/user/.local/lib/python3.6/site-packages/pyasn1/codec/ber/decoder.py", line 1781, in __call__
+    self, substrateFun, **options):
+;  File "/home/user/.local/lib/python3.6/site-packages/pyasn1/codec/ber/decoder.py", line 654, in valueDecoder
+    for chunk in substrateFun(asn1Object, substrate, length, options):
+;TypeError: <lambda>() takes 3 positional arguments but 4 were given
+caused by <class 'TypeError'>: <lambda>() takes 3 positional arguments but 4 were given
+2023-11-01 17:14:00,577 [INFO] - 127.0.0.1 - - [01/Nov/2023 17:14:00] "[32mGET /interoger HTTP/1.1[0m" 302 -
+2023-11-01 17:14:00,869 [INFO] - 127.0.0.1 - - [01/Nov/2023 17:14:00] "GET / HTTP/1.1" 200 -
+2023-11-01 17:14:18,600 [INFO] -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2023-11-01 17:14:24,297 [INFO] - 127.0.0.1 - - [01/Nov/2023 17:14:24] "GET / HTTP/1.1" 200 -
+2023-11-01 17:14:24,802 [INFO] - 127.0.0.1 - - [01/Nov/2023 17:14:24] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2023-11-01 17:14:27,382 [INFO] - Supervision de l'équipement : Router1
+2023-11-01 17:14:27,571 [ERROR] - Une erreur s'est produite lors de l'interrogation de la sonde: poll error: Traceback (most recent call last):
+;  File "/home/user/.local/lib/python3.6/site-packages/pysnmp/carrier/asyncore/dispatch.py", line 46, in runDispatcher
+    use_poll=True, map=self.__sockMap, count=1)
+;  File "/usr/lib/python3.6/asyncore.py", line 207, in loop
+    poll_fun(timeout, map)
+;  File "/usr/lib/python3.6/asyncore.py", line 188, in poll2
+    readwrite(obj, flags)
+;  File "/usr/lib/python3.6/asyncore.py", line 123, in readwrite
+    obj.handle_error()
+;  File "/usr/lib/python3.6/asyncore.py", line 108, in readwrite
+    obj.handle_read_event()
+;  File "/usr/lib/python3.6/asyncore.py", line 423, in handle_read_event
+    self.handle_read()
+;  File "/home/user/.local/lib/python3.6/site-packages/pysnmp/carrier/asyncore/dgram/base.py", line 170, in handle_read
+    self._cbFun(self, transportAddress, incomingMessage)
+;  File "/home/user/.local/lib/python3.6/site-packages/pysnmp/carrier/base.py", line 85, in _cbFun
+    self, transportDomain, transportAddress, incomingMessage
+;  File "/home/user/.local/lib/python3.6/site-packages/pysnmp/entity/engine.py", line 152, in __receiveMessageCbFun
+    self, transportDomain, transportAddress, wholeMsg
+;  File "/home/user/.local/lib/python3.6/site-packages/pysnmp/proto/rfc3412.py", line 291, in receiveMessage
+    msgVersion = verdec.decodeMessageVersion(wholeMsg)
+;  File "/home/user/.local/lib/python3.6/site-packages/pysnmp/proto/api/verdec.py", line 17, in decodeMessageVersion
+    recursiveFlag=False, substrateFun=lambda a, b, c: (a, b[:c])
+;  File "/home/user/.local/lib/python3.6/site-packages/pyasn1/codec/ber/decoder.py", line 2003, in __call__
+    for asn1Object in streamingDecoder:
+;  File "/home/user/.local/lib/python3.6/site-packages/pyasn1/codec/ber/decoder.py", line 1919, in __iter__
+    self._substrate, self._asn1Spec, **self._options):
+;  File "/home/user/.local/lib/python3.6/site-packages/pyasn1/codec/ber/decoder.py", line 1781, in __call__
+    self, substrateFun, **options):
+;  File "/home/user/.local/lib/python3.6/site-packages/pyasn1/codec/ber/decoder.py", line 654, in valueDecoder
+    for chunk in substrateFun(asn1Object, substrate, length, options):
+;TypeError: <lambda>() takes 3 positional arguments but 4 were given
+caused by <class 'TypeError'>: <lambda>() takes 3 positional arguments but 4 were given
+2023-11-01 17:14:27,573 [INFO] - 127.0.0.1 - - [01/Nov/2023 17:14:27] "[32mGET /interoger HTTP/1.1[0m" 302 -
+2023-11-01 17:14:27,902 [INFO] - 127.0.0.1 - - [01/Nov/2023 17:14:27] "GET / HTTP/1.1" 200 -
+2023-11-01 17:15:02,604 [INFO] -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2023-11-01 17:15:06,550 [INFO] - Supervision de l'équipement : Router1
+2023-11-01 17:15:06,739 [ERROR] - Une erreur s'est produite lors de l'interrogation de la sonde: poll error: Traceback (most recent call last):
+;  File "/home/user/.local/lib/python3.6/site-packages/pysnmp/carrier/asyncore/dispatch.py", line 46, in runDispatcher
+    use_poll=True, map=self.__sockMap, count=1)
+;  File "/usr/lib/python3.6/asyncore.py", line 207, in loop
+    poll_fun(timeout, map)
+;  File "/usr/lib/python3.6/asyncore.py", line 188, in poll2
+    readwrite(obj, flags)
+;  File "/usr/lib/python3.6/asyncore.py", line 123, in readwrite
+    obj.handle_error()
+;  File "/usr/lib/python3.6/asyncore.py", line 108, in readwrite
+    obj.handle_read_event()
+;  File "/usr/lib/python3.6/asyncore.py", line 423, in handle_read_event
+    self.handle_read()
+;  File "/home/user/.local/lib/python3.6/site-packages/pysnmp/carrier/asyncore/dgram/base.py", line 170, in handle_read
+    self._cbFun(self, transportAddress, incomingMessage)
+;  File "/home/user/.local/lib/python3.6/site-packages/pysnmp/carrier/base.py", line 85, in _cbFun
+    self, transportDomain, transportAddress, incomingMessage
+;  File "/home/user/.local/lib/python3.6/site-packages/pysnmp/entity/engine.py", line 152, in __receiveMessageCbFun
+    self, transportDomain, transportAddress, wholeMsg
+;  File "/home/user/.local/lib/python3.6/site-packages/pysnmp/proto/rfc3412.py", line 291, in receiveMessage
+    msgVersion = verdec.decodeMessageVersion(wholeMsg)
+;  File "/home/user/.local/lib/python3.6/site-packages/pysnmp/proto/api/verdec.py", line 17, in decodeMessageVersion
+    recursiveFlag=False, substrateFun=lambda a, b, c: (a, b[:c])
+;  File "/home/user/.local/lib/python3.6/site-packages/pyasn1/codec/ber/decoder.py", line 2003, in __call__
+    for asn1Object in streamingDecoder:
+;  File "/home/user/.local/lib/python3.6/site-packages/pyasn1/codec/ber/decoder.py", line 1919, in __iter__
+    self._substrate, self._asn1Spec, **self._options):
+;  File "/home/user/.local/lib/python3.6/site-packages/pyasn1/codec/ber/decoder.py", line 1781, in __call__
+    self, substrateFun, **options):
+;  File "/home/user/.local/lib/python3.6/site-packages/pyasn1/codec/ber/decoder.py", line 654, in valueDecoder
+    for chunk in substrateFun(asn1Object, substrate, length, options):
+;TypeError: <lambda>() takes 3 positional arguments but 4 were given
+caused by <class 'TypeError'>: <lambda>() takes 3 positional arguments but 4 were given
+2023-11-01 17:15:06,742 [INFO] - 127.0.0.1 - - [01/Nov/2023 17:15:06] "[32mGET /interoger HTTP/1.1[0m" 302 -
+2023-11-01 17:15:07,059 [INFO] - 127.0.0.1 - - [01/Nov/2023 17:15:07] "GET / HTTP/1.1" 200 -
+2023-11-01 18:51:14,415 [INFO] - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-11-01 18:51:14,417 [INFO] - [33mPress CTRL+C to quit[0m
+2023-11-01 18:51:20,670 [INFO] - 127.0.0.1 - - [01/Nov/2023 18:51:20] "GET / HTTP/1.1" 200 -
+2023-11-01 18:51:21,064 [INFO] - 127.0.0.1 - - [01/Nov/2023 18:51:21] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2023-11-01 18:51:26,342 [INFO] - 127.0.0.1 - - [01/Nov/2023 18:51:26] "GET / HTTP/1.1" 200 -
+2023-11-01 18:51:27,583 [INFO] - 127.0.0.1 - - [01/Nov/2023 18:51:27] "GET /equipements HTTP/1.1" 200 -
+2023-11-01 18:51:30,493 [INFO] - 127.0.0.1 - - [01/Nov/2023 18:51:30] "GET / HTTP/1.1" 200 -
+2023-11-01 18:51:31,920 [INFO] - Supervision de l'équipement : Router1
+2023-11-01 18:51:38,685 [ERROR] - Erreur lors de l'interrogation de la sonde SNMP à 192.168.176.2: No SNMP response received before timeout
+2023-11-01 18:51:38,687 [INFO] - 127.0.0.1 - - [01/Nov/2023 18:51:38] "[32mGET /interoger HTTP/1.1[0m" 302 -
+2023-11-01 18:51:38,703 [INFO] - 127.0.0.1 - - [01/Nov/2023 18:51:38] "GET / HTTP/1.1" 200 -
+2023-11-01 19:08:16,052 [INFO] - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-11-01 19:08:16,054 [INFO] - [33mPress CTRL+C to quit[0m
+2023-11-01 19:08:21,033 [INFO] - 127.0.0.1 - - [01/Nov/2023 19:08:21] "GET / HTTP/1.1" 200 -
+2023-11-01 19:08:22,552 [INFO] - Supervision de l'équipement : Router1
+2023-11-01 19:08:28,874 [ERROR] - Erreur lors de l'interrogation de la sonde SNMP à 192.168.176.2: No SNMP response received before timeout
+2023-11-01 19:08:28,877 [INFO] - 127.0.0.1 - - [01/Nov/2023 19:08:28] "[32mGET /interoger HTTP/1.1[0m" 302 -
+2023-11-01 19:08:28,891 [INFO] - 127.0.0.1 - - [01/Nov/2023 19:08:28] "GET / HTTP/1.1" 200 -
+2023-11-01 19:34:12,380 [INFO] - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-11-01 19:34:12,384 [INFO] - [33mPress CTRL+C to quit[0m
+2023-11-01 19:34:16,248 [INFO] - 127.0.0.1 - - [01/Nov/2023 19:34:16] "GET / HTTP/1.1" 200 -
+2023-11-01 19:34:22,123 [INFO] - Supervision de l'équipement : Router1
+2023-11-01 19:34:28,394 [ERROR] - Erreur lors de l'interrogation de la sonde SNMP à 192.168.176.2: No SNMP response received before timeout
+2023-11-01 19:34:28,396 [INFO] - 127.0.0.1 - - [01/Nov/2023 19:34:28] "[32mGET /interoger HTTP/1.1[0m" 302 -
+2023-11-01 19:34:28,411 [INFO] - 127.0.0.1 - - [01/Nov/2023 19:34:28] "GET / HTTP/1.1" 200 -
+2023-11-01 19:34:52,069 [INFO] - 127.0.0.1 - - [01/Nov/2023 19:34:52] "GET /equipements HTTP/1.1" 200 -
+2023-11-01 19:34:54,570 [INFO] - 127.0.0.1 - - [01/Nov/2023 19:34:54] "GET /equipements/add HTTP/1.1" 200 -
+2023-11-01 19:35:56,831 [INFO] - 127.0.0.1 - - [01/Nov/2023 19:35:56] "[32mPOST /equipements/add HTTP/1.1[0m" 302 -
+2023-11-01 19:35:56,848 [INFO] - 127.0.0.1 - - [01/Nov/2023 19:35:56] "GET /equipements HTTP/1.1" 200 -
+2023-11-01 19:36:00,260 [INFO] - 127.0.0.1 - - [01/Nov/2023 19:36:00] "GET /equipements HTTP/1.1" 200 -
+2023-11-01 19:36:05,166 [INFO] - 127.0.0.1 - - [01/Nov/2023 19:36:05] "GET / HTTP/1.1" 200 -
+2023-11-01 19:36:06,943 [INFO] - Supervision de l'équipement : Router1
+2023-11-01 19:36:13,760 [ERROR] - Erreur lors de l'interrogation de la sonde SNMP à 192.168.176.2: No SNMP response received before timeout
+2023-11-01 19:36:13,762 [INFO] - Supervision de l'équipement : TEst
+2023-11-01 19:36:14,573 [INFO] - Réponse de la sonde SNMP à 172.20.10.4: SNMPv2-SMI::mib-2.2.2.1.2.4 = ether4
+2023-11-01 19:36:14,575 [INFO] - 127.0.0.1 - - [01/Nov/2023 19:36:14] "[32mGET /interoger HTTP/1.1[0m" 302 -
+2023-11-01 19:36:14,588 [INFO] - 127.0.0.1 - - [01/Nov/2023 19:36:14] "GET / HTTP/1.1" 200 -
+2023-11-01 19:36:51,385 [INFO] - 127.0.0.1 - - [01/Nov/2023 19:36:51] "GET /equipements HTTP/1.1" 200 -
+2023-11-01 19:36:53,987 [INFO] - 127.0.0.1 - - [01/Nov/2023 19:36:53] "GET /equipements/Router1/edit HTTP/1.1" 200 -
+2023-11-01 19:37:06,662 [INFO] - 127.0.0.1 - - [01/Nov/2023 19:37:06] "[32mPOST /equipements/Router1/edit HTTP/1.1[0m" 302 -
+2023-11-01 19:37:06,678 [INFO] - 127.0.0.1 - - [01/Nov/2023 19:37:06] "GET /equipements HTTP/1.1" 200 -
+2023-11-01 19:37:28,176 [INFO] - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-11-01 19:37:28,179 [INFO] - [33mPress CTRL+C to quit[0m
+2023-11-01 19:37:41,297 [INFO] - 127.0.0.1 - - [01/Nov/2023 19:37:41] "GET / HTTP/1.1" 200 -
+2023-11-01 19:37:42,763 [INFO] - Supervision de l'équipement : Router1
+2023-11-01 19:37:49,530 [ERROR] - Erreur lors de l'interrogation de la sonde SNMP à 192.168.176.2: No SNMP response received before timeout
+2023-11-01 19:37:49,533 [INFO] - 127.0.0.1 - - [01/Nov/2023 19:37:49] "[32mGET /interoger HTTP/1.1[0m" 302 -
+2023-11-01 19:37:49,547 [INFO] - 127.0.0.1 - - [01/Nov/2023 19:37:49] "GET / HTTP/1.1" 200 -
+2023-11-01 19:38:26,906 [INFO] - 127.0.0.1 - - [01/Nov/2023 19:38:26] "GET /equipements HTTP/1.1" 200 -
+2023-11-01 19:38:30,556 [INFO] - 127.0.0.1 - - [01/Nov/2023 19:38:30] "GET /equipements/add HTTP/1.1" 200 -
+2023-11-01 19:42:10,671 [INFO] - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-11-01 19:42:10,672 [INFO] - [33mPress CTRL+C to quit[0m
+2023-11-01 19:42:29,588 [INFO] - 127.0.0.1 - - [01/Nov/2023 19:42:29] "GET / HTTP/1.1" 200 -
+2023-11-01 19:42:36,034 [INFO] - 127.0.0.1 - - [01/Nov/2023 19:42:36] "GET /logs HTTP/1.1" 200 -
+2023-11-01 19:42:38,788 [INFO] - 127.0.0.1 - - [01/Nov/2023 19:42:38] "GET /equipements HTTP/1.1" 200 -
+2023-11-01 19:42:40,268 [INFO] - 127.0.0.1 - - [01/Nov/2023 19:42:40] "GET / HTTP/1.1" 200 -
+2023-11-01 19:42:41,990 [INFO] - Supervision de l'équipement : Routeur1
+2023-11-01 19:42:42,257 [INFO] - Réponse de la sonde SNMP à 172.20.10.4: SNMPv2-SMI::mib-2.2.2.1.2.4 = ether4
+2023-11-01 19:42:42,258 [INFO] - 127.0.0.1 - - [01/Nov/2023 19:42:42] "[32mGET /interoger HTTP/1.1[0m" 302 -
+2023-11-01 19:42:42,267 [INFO] - 127.0.0.1 - - [01/Nov/2023 19:42:42] "GET / HTTP/1.1" 200 -
+2023-11-01 19:47:56,652 [INFO] - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-11-01 19:47:56,653 [INFO] - [33mPress CTRL+C to quit[0m
+2023-11-01 19:47:59,480 [INFO] - Supervision de l'équipement : Routeur1
+2023-11-01 19:47:59,810 [INFO] - Réponse de la sonde SNMP à 172.20.10.4: SNMPv2-SMI::mib-2.2.2.1.2.4 = ether4
+2023-11-01 19:47:59,812 [INFO] - 127.0.0.1 - - [01/Nov/2023 19:47:59] "[32mGET /interoger HTTP/1.1[0m" 302 -
+2023-11-01 19:47:59,820 [INFO] - 127.0.0.1 - - [01/Nov/2023 19:47:59] "GET / HTTP/1.1" 200 -
+2023-11-01 19:48:09,245 [INFO] - 127.0.0.1 - - [01/Nov/2023 19:48:09] "GET / HTTP/1.1" 200 -
+2023-11-01 19:48:11,209 [INFO] - Supervision de l'équipement : Routeur1
+2023-11-01 19:48:11,483 [INFO] - Réponse de la sonde SNMP à 172.20.10.4: SNMPv2-SMI::mib-2.2.2.1.2.4 = ether4
+2023-11-01 19:48:11,485 [INFO] - 127.0.0.1 - - [01/Nov/2023 19:48:11] "[32mGET /interoger HTTP/1.1[0m" 302 -
+2023-11-01 19:48:11,492 [INFO] - 127.0.0.1 - - [01/Nov/2023 19:48:11] "GET / HTTP/1.1" 200 -
+2023-11-01 19:49:02,100 [INFO] - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-11-01 19:49:02,101 [INFO] - [33mPress CTRL+C to quit[0m
+2023-11-01 19:49:04,499 [INFO] - Supervision de l'équipement : Routeur1
+2023-11-01 19:49:04,803 [INFO] - Réponse de la sonde SNMP à 172.20.10.4: SNMPv2-SMI::mib-2.2.2.1.2.4 = ether4
+2023-11-01 19:49:04,805 [INFO] - 127.0.0.1 - - [01/Nov/2023 19:49:04] "[32mGET /interoger HTTP/1.1[0m" 302 -
+2023-11-01 19:49:04,814 [INFO] - 127.0.0.1 - - [01/Nov/2023 19:49:04] "GET / HTTP/1.1" 200 -
+2023-11-01 19:49:12,060 [INFO] - Supervision de l'équipement : Routeur1
+2023-11-01 19:49:12,358 [INFO] - Réponse de la sonde SNMP à 172.20.10.4: SNMPv2-SMI::mib-2.2.2.1.2.4 = ether4
+2023-11-01 19:49:12,358 [INFO] - 127.0.0.1 - - [01/Nov/2023 19:49:12] "[32mGET /interoger HTTP/1.1[0m" 302 -
+2023-11-01 19:49:12,368 [INFO] - 127.0.0.1 - - [01/Nov/2023 19:49:12] "GET / HTTP/1.1" 200 -
+2023-11-10 11:47:26,776 [INFO] - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-11-10 11:47:26,777 [INFO] - [33mPress CTRL+C to quit[0m
+2023-11-10 11:47:31,599 [INFO] - 127.0.0.1 - - [10/Nov/2023 11:47:31] "GET / HTTP/1.1" 200 -
+2023-11-10 11:47:31,826 [INFO] - 127.0.0.1 - - [10/Nov/2023 11:47:31] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2023-11-10 11:47:46,003 [INFO] - 127.0.0.1 - - [10/Nov/2023 11:47:46] "GET / HTTP/1.1" 200 -
+2023-11-10 11:47:47,152 [INFO] - 127.0.0.1 - - [10/Nov/2023 11:47:47] "GET /equipements HTTP/1.1" 200 -
+2023-11-10 11:47:53,796 [INFO] - 127.0.0.1 - - [10/Nov/2023 11:47:53] "GET /logs HTTP/1.1" 200 -
+2023-11-10 11:48:31,096 [INFO] - 127.0.0.1 - - [10/Nov/2023 11:48:31] "GET / HTTP/1.1" 200 -
+2023-11-10 11:48:32,474 [INFO] - Supervision de l'équipement : Routeur1
+2023-11-10 11:48:38,803 [ERROR] - Erreur lors de l'interrogation de la sonde SNMP à 172.20.10.4: No SNMP response received before timeout
+2023-11-10 11:48:38,804 [INFO] - 127.0.0.1 - - [10/Nov/2023 11:48:38] "[32mGET /interoger HTTP/1.1[0m" 302 -
+2023-11-10 11:48:38,813 [INFO] - 127.0.0.1 - - [10/Nov/2023 11:48:38] "GET / HTTP/1.1" 200 -
+2023-11-10 11:48:43,755 [INFO] - 127.0.0.1 - - [10/Nov/2023 11:48:43] "GET /logs HTTP/1.1" 200 -
+2023-11-10 11:49:05,285 [INFO] - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5001
+2023-11-10 11:49:05,286 [INFO] - [33mPress CTRL+C to quit[0m
+2023-11-10 11:49:05,288 [INFO] -  * Restarting with stat
+2023-11-10 11:49:18,229 [INFO] - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-11-10 11:49:18,229 [INFO] - [33mPress CTRL+C to quit[0m
+2023-11-10 11:49:22,523 [INFO] - 127.0.0.1 - - [10/Nov/2023 11:49:22] "GET / HTTP/1.1" 200 -
+2023-11-10 11:49:26,406 [INFO] - Supervision de l'équipement : Routeur1
+2023-11-10 11:49:26,526 [INFO] - Réponse de la sonde SNMP à 172.20.10.5: SNMPv2-SMI::mib-2.2.2.1.2.4 = ether4
+2023-11-10 11:49:26,527 [INFO] - 127.0.0.1 - - [10/Nov/2023 11:49:26] "[32mGET /interoger HTTP/1.1[0m" 302 -
+2023-11-10 11:49:26,533 [INFO] - 127.0.0.1 - - [10/Nov/2023 11:49:26] "GET / HTTP/1.1" 200 -
+2023-11-10 11:49:28,200 [INFO] - 127.0.0.1 - - [10/Nov/2023 11:49:28] "GET /logs HTTP/1.1" 200 -
+2023-11-10 11:49:40,981 [INFO] - 127.0.0.1 - - [10/Nov/2023 11:49:40] "GET / HTTP/1.1" 200 -
+2023-11-10 11:49:43,994 [INFO] - Supervision de l'équipement : Routeur1
+2023-11-10 11:49:44,134 [INFO] - Réponse de la sonde SNMP à 172.20.10.5: SNMPv2-SMI::mib-2.2.2.1.2.4 = ether4
+2023-11-10 11:49:44,135 [INFO] - 127.0.0.1 - - [10/Nov/2023 11:49:44] "[32mGET /interoger HTTP/1.1[0m" 302 -
+2023-11-10 11:49:44,141 [INFO] - 127.0.0.1 - - [10/Nov/2023 11:49:44] "GET / HTTP/1.1" 200 -
+2023-11-10 11:49:47,010 [INFO] - 127.0.0.1 - - [10/Nov/2023 11:49:47] "GET /logs HTTP/1.1" 200 -
+2023-11-10 11:50:04,822 [INFO] - 127.0.0.1 - - [10/Nov/2023 11:50:04] "GET / HTTP/1.1" 200 -
+2023-11-10 11:50:06,724 [INFO] - Supervision de l'équipement : Routeur1
+2023-11-10 11:50:07,022 [INFO] - Réponse de la sonde SNMP à 172.20.10.5: SNMPv2-SMI::mib-2.2.2.1.2.4 = ether4
+2023-11-10 11:50:07,023 [INFO] - 127.0.0.1 - - [10/Nov/2023 11:50:07] "[32mGET /interoger HTTP/1.1[0m" 302 -
+2023-11-10 11:50:07,028 [INFO] - 127.0.0.1 - - [10/Nov/2023 11:50:07] "GET / HTTP/1.1" 200 -
+2023-11-10 11:50:08,130 [INFO] - 127.0.0.1 - - [10/Nov/2023 11:50:08] "GET /logs HTTP/1.1" 200 -
+2023-11-10 11:50:15,841 [INFO] - 127.0.0.1 - - [10/Nov/2023 11:50:15] "GET / HTTP/1.1" 200 -
+2023-11-10 11:50:23,463 [INFO] - 127.0.0.1 - - [10/Nov/2023 11:50:23] "GET /equipements HTTP/1.1" 200 -
+2023-11-10 11:50:26,362 [INFO] - 127.0.0.1 - - [10/Nov/2023 11:50:26] "GET / HTTP/1.1" 200 -
+2023-11-10 11:55:38,335 [INFO] - 127.0.0.1 - - [10/Nov/2023 11:55:38] "GET /equipements HTTP/1.1" 200 -
+2023-11-10 11:56:30,377 [INFO] - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-11-10 11:56:30,377 [INFO] - [33mPress CTRL+C to quit[0m
+2023-11-10 11:56:32,850 [INFO] - 127.0.0.1 - - [10/Nov/2023 11:56:32] "GET / HTTP/1.1" 200 -
+2023-11-10 11:56:36,507 [INFO] - 127.0.0.1 - - [10/Nov/2023 11:56:36] "GET /equipements HTTP/1.1" 200 -
+2023-11-10 11:56:41,575 [INFO] - 127.0.0.1 - - [10/Nov/2023 11:56:41] "GET /logs HTTP/1.1" 200 -
+2023-11-10 11:56:50,917 [INFO] - 127.0.0.1 - - [10/Nov/2023 11:56:50] "GET / HTTP/1.1" 200 -
+2023-11-10 11:56:52,165 [INFO] - Supervision de l'équipement : Routeur1
+2023-11-10 11:56:52,329 [INFO] - Réponse de la sonde SNMP à 172.20.10.5: SNMPv2-SMI::mib-2.2.2.1.2.4 = ether4
+2023-11-10 11:56:52,329 [INFO] - Supervision de l'équipement : Routeur2
+2023-11-10 11:56:52,467 [INFO] - Réponse de la sonde SNMP à 172.20.10.6: SNMPv2-SMI::mib-2.2.2.1.6.2 = 0x080027f017ed
+2023-11-10 11:56:52,468 [INFO] - 127.0.0.1 - - [10/Nov/2023 11:56:52] "[32mGET /interoger HTTP/1.1[0m" 302 -
+2023-11-10 11:56:52,475 [INFO] - 127.0.0.1 - - [10/Nov/2023 11:56:52] "GET / HTTP/1.1" 200 -
+2023-11-10 11:56:54,735 [INFO] - 127.0.0.1 - - [10/Nov/2023 11:56:54] "GET /equipements HTTP/1.1" 200 -
+2023-11-10 11:56:55,930 [INFO] - 127.0.0.1 - - [10/Nov/2023 11:56:55] "GET /logs HTTP/1.1" 200 -
+2023-11-10 11:57:48,003 [INFO] - 127.0.0.1 - - [10/Nov/2023 11:57:48] "GET / HTTP/1.1" 200 -
+2023-11-10 11:57:54,767 [INFO] - Supervision de l'équipement : Routeur1
+2023-11-10 11:57:54,919 [INFO] - Réponse de la sonde SNMP à 172.20.10.5: SNMPv2-SMI::mib-2.2.2.1.2.4 = ether4
+2023-11-10 11:57:54,919 [INFO] - Supervision de l'équipement : Routeur2
+2023-11-10 11:57:55,136 [INFO] - Réponse de la sonde SNMP à 172.20.10.6: SNMPv2-SMI::mib-2.2.2.1.6.2 = 0x080027f017ed
+2023-11-10 11:57:55,137 [INFO] - 127.0.0.1 - - [10/Nov/2023 11:57:55] "[32mGET /interoger HTTP/1.1[0m" 302 -
+2023-11-10 11:57:55,143 [INFO] - 127.0.0.1 - - [10/Nov/2023 11:57:55] "GET / HTTP/1.1" 200 -
+2023-11-10 11:57:56,893 [INFO] - 127.0.0.1 - - [10/Nov/2023 11:57:56] "GET /logs HTTP/1.1" 200 -
+2023-11-10 11:58:11,152 [INFO] - 127.0.0.1 - - [10/Nov/2023 11:58:11] "GET / HTTP/1.1" 200 -
+2023-11-10 11:58:13,823 [INFO] - 127.0.0.1 - - [10/Nov/2023 11:58:13] "GET /equipements HTTP/1.1" 200 -
+2023-11-10 11:58:27,774 [INFO] - 127.0.0.1 - - [10/Nov/2023 11:58:27] "GET /equipements/add HTTP/1.1" 200 -
+2023-11-10 11:59:08,986 [INFO] - 127.0.0.1 - - [10/Nov/2023 11:59:08] "[32mPOST /equipements/add HTTP/1.1[0m" 302 -
+2023-11-10 11:59:08,994 [INFO] - 127.0.0.1 - - [10/Nov/2023 11:59:08] "GET /equipements HTTP/1.1" 200 -
+2023-11-10 11:59:14,994 [INFO] - 127.0.0.1 - - [10/Nov/2023 11:59:14] "GET /equipements/switch/edit HTTP/1.1" 200 -
+2023-11-10 11:59:20,950 [INFO] - 127.0.0.1 - - [10/Nov/2023 11:59:20] "[32mPOST /equipements/switch/edit HTTP/1.1[0m" 302 -
+2023-11-10 11:59:20,955 [INFO] - 127.0.0.1 - - [10/Nov/2023 11:59:20] "GET /equipements HTTP/1.1" 200 -
+2023-11-10 11:59:24,450 [INFO] - 127.0.0.1 - - [10/Nov/2023 11:59:24] "[32mPOST /equipements/switch/delete HTTP/1.1[0m" 302 -
+2023-11-10 11:59:24,454 [INFO] - 127.0.0.1 - - [10/Nov/2023 11:59:24] "GET /equipements HTTP/1.1" 200 -
+2023-11-10 11:59:31,349 [INFO] - 127.0.0.1 - - [10/Nov/2023 11:59:31] "GET / HTTP/1.1" 200 -
+2023-11-10 11:59:37,198 [INFO] - 127.0.0.1 - - [10/Nov/2023 11:59:37] "GET /logs HTTP/1.1" 200 -
+2023-11-10 11:59:43,095 [INFO] - 127.0.0.1 - - [10/Nov/2023 11:59:43] "GET / HTTP/1.1" 200 -
+2023-11-10 11:59:44,476 [INFO] - Supervision de l'équipement : Routeur1
+2023-11-10 11:59:44,632 [INFO] - Réponse de la sonde SNMP à 172.20.10.5: SNMPv2-SMI::mib-2.2.2.1.2.4 = ether4
+2023-11-10 11:59:44,632 [INFO] - Supervision de l'équipement : Routeur2
+2023-11-10 11:59:44,808 [INFO] - Réponse de la sonde SNMP à 172.20.10.6: SNMPv2-SMI::mib-2.2.2.1.6.2 = 0x080027f017ed
+2023-11-10 11:59:44,809 [INFO] - 127.0.0.1 - - [10/Nov/2023 11:59:44] "[32mGET /interoger HTTP/1.1[0m" 302 -
+2023-11-10 11:59:44,815 [INFO] - 127.0.0.1 - - [10/Nov/2023 11:59:44] "GET / HTTP/1.1" 200 -
+2023-11-10 11:59:46,648 [INFO] - 127.0.0.1 - - [10/Nov/2023 11:59:46] "GET /logs HTTP/1.1" 200 -
+2023-11-10 12:02:38,305 [INFO] - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5001
+2023-11-10 12:02:38,305 [INFO] - [33mPress CTRL+C to quit[0m
+2023-11-10 12:02:38,307 [INFO] -  * Restarting with stat
+2023-11-10 12:02:39,925 [INFO] - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-11-10 12:02:39,925 [INFO] - [33mPress CTRL+C to quit[0m
+2023-11-10 12:02:41,976 [INFO] - 127.0.0.1 - - [10/Nov/2023 12:02:41] "GET / HTTP/1.1" 200 -
+2023-11-10 12:02:51,408 [INFO] - 127.0.0.1 - - [10/Nov/2023 12:02:51] "GET /equipements HTTP/1.1" 200 -
+2023-11-10 12:02:53,440 [INFO] - 127.0.0.1 - - [10/Nov/2023 12:02:53] "GET /equipements/add HTTP/1.1" 200 -
+2023-11-10 12:03:04,526 [INFO] - 127.0.0.1 - - [10/Nov/2023 12:03:04] "[32mPOST /equipements/add HTTP/1.1[0m" 302 -
+2023-11-10 12:03:04,533 [INFO] - 127.0.0.1 - - [10/Nov/2023 12:03:04] "GET /equipements HTTP/1.1" 200 -
+2023-11-10 12:03:16,054 [INFO] - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5001
+2023-11-10 12:03:16,055 [INFO] - [33mPress CTRL+C to quit[0m
+2023-11-10 12:03:16,056 [INFO] -  * Restarting with stat
+2023-11-10 12:03:18,524 [INFO] - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-11-10 12:03:18,524 [INFO] - [33mPress CTRL+C to quit[0m
+2023-11-10 12:03:20,545 [INFO] - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5001
+2023-11-10 12:03:20,546 [INFO] - [33mPress CTRL+C to quit[0m
+2023-11-10 12:03:20,547 [INFO] -  * Restarting with stat
+2023-11-10 12:03:23,738 [INFO] - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-11-10 12:03:23,739 [INFO] - [33mPress CTRL+C to quit[0m
+2023-11-10 12:03:26,597 [INFO] - 127.0.0.1 - - [10/Nov/2023 12:03:26] "GET / HTTP/1.1" 200 -
+2023-11-10 12:03:28,205 [INFO] - 127.0.0.1 - - [10/Nov/2023 12:03:28] "GET /equipements HTTP/1.1" 200 -
+2023-11-10 12:03:41,135 [INFO] - 127.0.0.1 - - [10/Nov/2023 12:03:41] "[32mPOST /equipements/test/delete HTTP/1.1[0m" 302 -
+2023-11-10 12:03:41,140 [INFO] - 127.0.0.1 - - [10/Nov/2023 12:03:41] "GET /equipements HTTP/1.1" 200 -
+2023-11-10 12:03:46,653 [INFO] - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5001
+2023-11-10 12:03:46,654 [INFO] - [33mPress CTRL+C to quit[0m
+2023-11-10 12:03:46,656 [INFO] -  * Restarting with stat
+2023-11-10 12:04:06,658 [INFO] - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-11-10 12:04:06,659 [INFO] - [33mPress CTRL+C to quit[0m
+2023-11-10 12:04:21,602 [INFO] - 127.0.0.1 - - [10/Nov/2023 12:04:21] "GET /equipements/add HTTP/1.1" 200 -
+2023-11-10 12:06:06,522 [INFO] - 127.0.0.1 - - [10/Nov/2023 12:06:06] "GET /equipements HTTP/1.1" 200 -
+2023-11-10 12:06:08,679 [INFO] - 127.0.0.1 - - [10/Nov/2023 12:06:08] "GET /equipements/add HTTP/1.1" 200 -
+2023-11-10 12:06:17,665 [WARNING] -  * Debugger is active!
+2023-11-10 12:06:17,679 [INFO] -  * Debugger PIN: 884-336-623
+2023-11-10 12:06:17,701 [INFO] - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5001
+2023-11-10 12:06:17,701 [INFO] - [33mPress CTRL+C to quit[0m
+2023-11-10 12:06:17,703 [INFO] -  * Restarting with stat
+2023-11-10 12:06:22,477 [INFO] - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-11-10 12:06:22,478 [INFO] - [33mPress CTRL+C to quit[0m
+2023-11-10 12:06:24,903 [INFO] - 127.0.0.1 - - [10/Nov/2023 12:06:24] "GET / HTTP/1.1" 200 -
+2023-11-10 12:06:25,106 [INFO] - 127.0.0.1 - - [10/Nov/2023 12:06:25] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2023-11-10 12:06:27,042 [INFO] - 127.0.0.1 - - [10/Nov/2023 12:06:27] "GET /equipements HTTP/1.1" 200 -
+2023-11-10 12:06:28,234 [INFO] - 127.0.0.1 - - [10/Nov/2023 12:06:28] "GET /equipements/add HTTP/1.1" 200 -
+2023-11-10 12:06:41,976 [INFO] - 127.0.0.1 - - [10/Nov/2023 12:06:41] "GET / HTTP/1.1" 200 -
+2023-11-10 12:06:47,469 [INFO] - 127.0.0.1 - - [10/Nov/2023 12:06:47] "GET / HTTP/1.1" 200 -
+2023-11-10 12:11:05,623 [INFO] - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-11-10 12:11:05,623 [INFO] - [33mPress CTRL+C to quit[0m
+2023-11-10 12:11:09,871 [INFO] - 127.0.0.1 - - [10/Nov/2023 12:11:09] "GET / HTTP/1.1" 200 -
+2023-11-10 12:11:14,629 [INFO] - 127.0.0.1 - - [10/Nov/2023 12:11:14] "GET /logs HTTP/1.1" 200 -
+2023-11-10 12:11:24,926 [INFO] - 127.0.0.1 - - [10/Nov/2023 12:11:24] "GET /logs HTTP/1.1" 200 -
+2023-11-10 12:11:28,333 [INFO] - 127.0.0.1 - - [10/Nov/2023 12:11:28] "GET / HTTP/1.1" 200 -
+2023-11-10 12:11:30,397 [INFO] - Supervision de l'équipement : Routeur1
+2023-11-10 12:11:30,541 [INFO] - Réponse de la sonde SNMP à 172.20.10.5: SNMPv2-SMI::mib-2.2.2.1.2.4 = ether4
+2023-11-10 12:11:30,542 [INFO] - Supervision de l'équipement : Routeur2
+2023-11-10 12:11:30,715 [INFO] - Réponse de la sonde SNMP à 172.20.10.6: SNMPv2-SMI::mib-2.2.2.1.6.2 = 0x080027f017ed
+2023-11-10 12:11:30,716 [INFO] - 127.0.0.1 - - [10/Nov/2023 12:11:30] "[32mGET /interoger HTTP/1.1[0m" 302 -
+2023-11-10 12:11:30,722 [INFO] - 127.0.0.1 - - [10/Nov/2023 12:11:30] "GET / HTTP/1.1" 200 -
+2023-11-10 12:11:32,066 [INFO] - 127.0.0.1 - - [10/Nov/2023 12:11:32] "GET /logs HTTP/1.1" 200 -
+2023-11-10 12:22:36,159 [INFO] - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-11-10 12:22:36,160 [INFO] - [33mPress CTRL+C to quit[0m
+2023-11-10 12:22:38,558 [INFO] - 127.0.0.1 - - [10/Nov/2023 12:22:38] "GET / HTTP/1.1" 200 -
+2023-11-10 12:22:40,772 [INFO] - Supervision de l'équipement : Routeur1
+2023-11-10 12:22:40,875 [INFO] - Réponse de la sonde SNMP à 172.20.10.5: SNMPv2-SMI::mib-2.2.2.1.2.4 = ether4
+2023-11-10 12:22:40,876 [INFO] - Supervision de l'équipement : Routeur2
+2023-11-10 12:22:40,960 [INFO] - Réponse de la sonde SNMP à 172.20.10.6: SNMPv2-SMI::mib-2.2.2.1.6.2 = 0x080027f017ed
+2023-11-10 12:22:40,961 [INFO] - 127.0.0.1 - - [10/Nov/2023 12:22:40] "[32mGET /interoger HTTP/1.1[0m" 302 -
+2023-11-10 12:22:40,966 [INFO] - 127.0.0.1 - - [10/Nov/2023 12:22:40] "GET / HTTP/1.1" 200 -
+2023-11-10 12:22:45,011 [INFO] - 127.0.0.1 - - [10/Nov/2023 12:22:45] "GET /logs HTTP/1.1" 200 -
+2023-11-10 12:22:49,146 [INFO] - 127.0.0.1 - - [10/Nov/2023 12:22:49] "GET /equipements HTTP/1.1" 200 -
+2023-11-10 12:24:56,772 [INFO] - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5001
+2023-11-10 12:24:56,773 [INFO] - [33mPress CTRL+C to quit[0m
+2023-11-10 12:24:56,774 [INFO] -  * Restarting with stat
+2023-11-10 12:24:58,338 [INFO] - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-11-10 12:24:58,339 [INFO] - [33mPress CTRL+C to quit[0m
+2023-11-10 12:25:00,069 [INFO] - 127.0.0.1 - - [10/Nov/2023 12:25:00] "GET / HTTP/1.1" 200 -
+2023-11-10 12:25:01,856 [ERROR] - Exception on /interoger [GET]
+Traceback (most recent call last):
+  File "C:\Users\sybin\AppData\Local\Programs\Python\Python39\lib\site-packages\flask\app.py", line 1455, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\sybin\AppData\Local\Programs\Python\Python39\lib\site-packages\flask\app.py", line 869, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\sybin\AppData\Local\Programs\Python\Python39\lib\site-packages\flask\app.py", line 867, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\sybin\AppData\Local\Programs\Python\Python39\lib\site-packages\flask\app.py", line 852, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "C:\Users\sybin\Desktop\flaskr_bilal\flaskr.py", line 125, in interoger
+    supervised_data = [{'id': e.id, 'name': e.name, 'status': 'OK'} for e in equipment_list]
+  File "C:\Users\sybin\Desktop\flaskr_bilal\flaskr.py", line 125, in <listcomp>
+    supervised_data = [{'id': e.id, 'name': e.name, 'status': 'OK'} for e in equipment_list]
+AttributeError: 'Equipement' object has no attribute 'id'
+2023-11-10 12:25:01,858 [INFO] - 127.0.0.1 - - [10/Nov/2023 12:25:01] "[35m[1mGET /interoger HTTP/1.1[0m" 500 -
+2023-11-10 12:26:55,124 [INFO] - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-11-10 12:26:55,125 [INFO] - [33mPress CTRL+C to quit[0m
+2023-11-10 12:26:57,838 [INFO] - 127.0.0.1 - - [10/Nov/2023 12:26:57] "GET / HTTP/1.1" 200 -
+2023-11-10 12:26:59,603 [INFO] - Supervision de l'équipement : Routeur1
+2023-11-10 12:26:59,704 [INFO] - Réponse de la sonde SNMP à 172.20.10.5: SNMPv2-SMI::mib-2.2.2.1.2.4 = ether4
+2023-11-10 12:26:59,704 [ERROR] - Exception on /interoger [GET]
+Traceback (most recent call last):
+  File "C:\Users\sybin\AppData\Local\Programs\Python\Python39\lib\site-packages\flask\app.py", line 1455, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\sybin\AppData\Local\Programs\Python\Python39\lib\site-packages\flask\app.py", line 869, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\sybin\AppData\Local\Programs\Python\Python39\lib\site-packages\flask\app.py", line 867, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\sybin\AppData\Local\Programs\Python\Python39\lib\site-packages\flask\app.py", line 852, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "C:\Users\sybin\Desktop\flaskr_bilal\flaskr.py", line 118, in interoger_snmp
+    supervised_data = [{'id': e.id, 'name': e.name, 'status': 'OK'} for e in equipment_list]
+  File "C:\Users\sybin\Desktop\flaskr_bilal\flaskr.py", line 118, in <listcomp>
+    supervised_data = [{'id': e.id, 'name': e.name, 'status': 'OK'} for e in equipment_list]
+AttributeError: 'Equipement' object has no attribute 'id'
+2023-11-10 12:26:59,707 [INFO] - 127.0.0.1 - - [10/Nov/2023 12:26:59] "[35m[1mGET /interoger HTTP/1.1[0m" 500 -
+2023-11-10 12:27:59,670 [INFO] - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5001
+2023-11-10 12:27:59,671 [INFO] - [33mPress CTRL+C to quit[0m
+2023-11-10 12:27:59,672 [INFO] -  * Restarting with stat
+2023-11-10 14:00:35,082 [INFO] - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-11-10 14:00:35,084 [INFO] - [33mPress CTRL+C to quit[0m
+2023-11-10 14:00:39,280 [INFO] - 127.0.0.1 - - [10/Nov/2023 14:00:39] "GET / HTTP/1.1" 200 -
+2023-11-10 14:00:39,529 [INFO] - 127.0.0.1 - - [10/Nov/2023 14:00:39] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2023-11-10 14:23:20,550 [INFO] - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-11-10 14:23:20,550 [INFO] - [33mPress CTRL+C to quit[0m
+2023-11-10 14:23:22,854 [INFO] - 127.0.0.1 - - [10/Nov/2023 14:23:22] "GET / HTTP/1.1" 200 -
+2023-11-10 14:23:23,081 [INFO] - 127.0.0.1 - - [10/Nov/2023 14:23:23] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2023-11-10 14:23:25,322 [INFO] - 127.0.0.1 - - [10/Nov/2023 14:23:25] "GET /logs HTTP/1.1" 200 -
+2023-11-10 14:23:42,667 [INFO] - 127.0.0.1 - - [10/Nov/2023 14:23:42] "GET /equipements HTTP/1.1" 200 -
+2023-11-10 14:23:44,481 [INFO] - 127.0.0.1 - - [10/Nov/2023 14:23:44] "GET /equipements/Routeur1/edit HTTP/1.1" 200 -
+2023-11-10 14:24:04,837 [INFO] - 127.0.0.1 - - [10/Nov/2023 14:24:04] "[32mPOST /equipements/Routeur1/edit HTTP/1.1[0m" 302 -
+2023-11-10 14:24:04,843 [INFO] - 127.0.0.1 - - [10/Nov/2023 14:24:04] "GET /equipements HTTP/1.1" 200 -
+2023-11-10 14:24:07,149 [INFO] - 127.0.0.1 - - [10/Nov/2023 14:24:07] "GET / HTTP/1.1" 200 -
+2023-11-10 14:24:08,166 [INFO] - Supervision de l'équipement : Routeur1
+2023-11-10 14:24:08,482 [INFO] - Réponse de la sonde SNMP à 192.168.141.174: SNMPv2-SMI::mib-2.2.2.1.4.2 = 1500
+2023-11-10 14:24:08,482 [INFO] - Supervision de l'équipement : Routeur2
+2023-11-10 14:24:13,738 [INFO] - 127.0.0.1 - - [10/Nov/2023 14:24:13] "GET /logs HTTP/1.1" 200 -
+2023-11-10 14:24:14,632 [ERROR] - Erreur lors de l'interrogation de la sonde SNMP à 172.20.10.6: No SNMP response received before timeout
+2023-11-10 14:24:14,633 [INFO] - 127.0.0.1 - - [10/Nov/2023 14:24:14] "[32mGET /interoger HTTP/1.1[0m" 302 -
+2023-11-10 14:30:37,616 [INFO] - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5001
+2023-11-10 14:30:37,617 [INFO] - [33mPress CTRL+C to quit[0m
+2023-11-10 14:30:37,619 [INFO] -  * Restarting with stat
+2023-11-10 15:13:28,611 [INFO] - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-11-10 15:13:28,612 [INFO] - [33mPress CTRL+C to quit[0m
+2023-11-10 15:13:32,824 [INFO] - 127.0.0.1 - - [10/Nov/2023 15:13:32] "GET / HTTP/1.1" 200 -
+2023-11-10 15:13:39,424 [INFO] - Supervision de l'équipement : Routeur1
+2023-11-10 15:13:39,664 [INFO] - Réponse de la sonde SNMP à 192.168.141.174: SNMPv2-SMI::mib-2.2.2.1.4.2 = 1500
+2023-11-10 15:13:39,664 [INFO] - Supervision de l'équipement : Routeur2
+2023-11-10 15:13:44,049 [INFO] - 127.0.0.1 - - [10/Nov/2023 15:13:44] "GET /equipements HTTP/1.1" 200 -
+2023-11-10 15:13:45,862 [ERROR] - Erreur lors de l'interrogation de la sonde SNMP à 172.20.10.6: No SNMP response received before timeout
+2023-11-10 15:13:45,865 [INFO] - 127.0.0.1 - - [10/Nov/2023 15:13:45] "[32mGET /interoger HTTP/1.1[0m" 302 -
+2023-11-10 15:13:48,964 [INFO] - 127.0.0.1 - - [10/Nov/2023 15:13:48] "GET /logs HTTP/1.1" 200 -
+2023-11-10 15:14:24,515 [INFO] - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5005
+2023-11-10 15:14:24,515 [INFO] - [33mPress CTRL+C to quit[0m
+2023-11-10 15:14:24,519 [INFO] -  * Restarting with stat
+2023-11-10 15:18:19,862 [INFO] - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-11-10 15:18:19,862 [INFO] - [33mPress CTRL+C to quit[0m
+2023-11-10 15:18:22,024 [INFO] - 127.0.0.1 - - [10/Nov/2023 15:18:22] "GET / HTTP/1.1" 200 -
+2023-11-10 15:18:22,285 [INFO] - 127.0.0.1 - - [10/Nov/2023 15:18:22] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2023-11-10 15:18:28,141 [INFO] - Supervision de l'équipement : Routeur1
+2023-11-10 15:18:28,242 [INFO] - Réponse de la sonde SNMP à 192.168.141.174: SNMPv2-SMI::mib-2.2.2.1.4.2 = 1500
+2023-11-10 15:18:28,243 [INFO] - Supervision de l'équipement : Routeur2
+2023-11-10 15:18:29,902 [INFO] - 127.0.0.1 - - [10/Nov/2023 15:18:29] "GET /logs HTTP/1.1" 200 -
+2023-11-10 15:18:34,331 [ERROR] - Erreur lors de l'interrogation de la sonde SNMP à 172.20.10.6: No SNMP response received before timeout
+2023-11-10 15:18:34,332 [INFO] - 127.0.0.1 - - [10/Nov/2023 15:18:34] "[32mGET /interoger HTTP/1.1[0m" 302 -
+2023-11-10 15:18:40,919 [INFO] - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5001
+2023-11-10 15:18:40,920 [INFO] - [33mPress CTRL+C to quit[0m
+2023-11-10 15:18:40,922 [INFO] -  * Restarting with stat
+2023-11-10 15:20:09,477 [INFO] - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-11-10 15:20:09,477 [INFO] - [33mPress CTRL+C to quit[0m
+2023-11-10 15:20:11,366 [INFO] - 127.0.0.1 - - [10/Nov/2023 15:20:11] "GET / HTTP/1.1" 200 -
+2023-11-10 15:20:11,630 [INFO] - 127.0.0.1 - - [10/Nov/2023 15:20:11] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2023-11-10 15:20:17,536 [INFO] - Supervision de l'équipement : Routeur1
+2023-11-10 15:20:17,637 [INFO] - Réponse de la sonde SNMP à 192.168.141.174: SNMPv2-SMI::mib-2.2.2.1.4.2 = 1500
+2023-11-10 15:20:17,638 [INFO] - Supervision de l'équipement : Routeur2
+2023-11-10 15:20:20,247 [INFO] - 127.0.0.1 - - [10/Nov/2023 15:20:20] "GET /logs HTTP/1.1" 200 -
+2023-11-10 15:20:23,726 [ERROR] - Erreur lors de l'interrogation de la sonde SNMP à 172.20.10.6: No SNMP response received before timeout
+2023-11-10 15:20:23,726 [INFO] - Résultats de supervision : [{'name': 'Routeur1', 'value': None}, {'name': 'Routeur2', 'value': None}]
+2023-11-10 15:20:23,727 [INFO] - 127.0.0.1 - - [10/Nov/2023 15:20:23] "GET /interoger HTTP/1.1" 200 -
+2023-11-10 15:20:24,762 [INFO] - 127.0.0.1 - - [10/Nov/2023 15:20:24] "GET / HTTP/1.1" 200 -
+2023-11-10 15:20:26,638 [INFO] - Supervision de l'équipement : Routeur1
+2023-11-10 15:20:26,770 [INFO] - Réponse de la sonde SNMP à 192.168.141.174: SNMPv2-SMI::mib-2.2.2.1.4.2 = 1500
+2023-11-10 15:20:26,770 [INFO] - Supervision de l'équipement : Routeur2
+2023-11-10 15:20:29,707 [INFO] - 127.0.0.1 - - [10/Nov/2023 15:20:29] "GET /logs HTTP/1.1" 200 -
+2023-11-10 15:20:32,969 [ERROR] - Erreur lors de l'interrogation de la sonde SNMP à 172.20.10.6: No SNMP response received before timeout
+2023-11-10 15:20:32,970 [INFO] - Résultats de supervision : [{'name': 'Routeur1', 'value': None}, {'name': 'Routeur2', 'value': None}]
+2023-11-10 15:20:32,972 [INFO] - 127.0.0.1 - - [10/Nov/2023 15:20:32] "GET /interoger HTTP/1.1" 200 -
+2023-11-10 15:20:46,288 [INFO] - 127.0.0.1 - - [10/Nov/2023 15:20:46] "GET /equipements HTTP/1.1" 200 -
+2023-11-10 15:20:50,468 [INFO] - 127.0.0.1 - - [10/Nov/2023 15:20:50] "GET /equipements/Routeur2/edit HTTP/1.1" 200 -
+2023-11-10 15:21:19,554 [INFO] - 127.0.0.1 - - [10/Nov/2023 15:21:19] "[32mPOST /equipements/Routeur2/edit HTTP/1.1[0m" 302 -
+2023-11-10 15:21:19,559 [INFO] - 127.0.0.1 - - [10/Nov/2023 15:21:19] "GET /equipements HTTP/1.1" 200 -
+2023-11-10 15:21:22,137 [INFO] - 127.0.0.1 - - [10/Nov/2023 15:21:22] "GET / HTTP/1.1" 200 -
+2023-11-10 15:21:23,200 [INFO] - Supervision de l'équipement : Routeur1
+2023-11-10 15:21:23,342 [INFO] - Réponse de la sonde SNMP à 192.168.141.174: SNMPv2-SMI::mib-2.2.2.1.4.2 = 1500
+2023-11-10 15:21:23,343 [INFO] - Supervision de l'équipement : Routeur2
+2023-11-10 15:21:25,534 [INFO] - 127.0.0.1 - - [10/Nov/2023 15:21:25] "GET /logs HTTP/1.1" 200 -
+2023-11-10 15:21:29,483 [ERROR] - Erreur lors de l'interrogation de la sonde SNMP à 192.168.141.176: No SNMP response received before timeout
+2023-11-10 15:21:29,483 [INFO] - Résultats de supervision : [{'name': 'Routeur1', 'value': None}, {'name': 'Routeur2', 'value': None}]
+2023-11-10 15:21:29,484 [INFO] - 127.0.0.1 - - [10/Nov/2023 15:21:29] "GET /interoger HTTP/1.1" 200 -
+2023-11-10 15:22:09,540 [INFO] - 127.0.0.1 - - [10/Nov/2023 15:22:09] "GET /equipements HTTP/1.1" 200 -
+2023-11-10 15:22:13,517 [INFO] - 127.0.0.1 - - [10/Nov/2023 15:22:13] "GET /equipements/Routeur2/edit HTTP/1.1" 200 -
+2023-11-10 15:22:21,019 [INFO] - 127.0.0.1 - - [10/Nov/2023 15:22:21] "[32mPOST /equipements/Routeur2/edit HTTP/1.1[0m" 302 -
+2023-11-10 15:22:21,025 [INFO] - 127.0.0.1 - - [10/Nov/2023 15:22:21] "GET /equipements HTTP/1.1" 200 -
+2023-11-10 15:22:26,241 [INFO] - 127.0.0.1 - - [10/Nov/2023 15:22:26] "GET /equipements/Routeur2/edit HTTP/1.1" 200 -
+2023-11-10 15:22:31,249 [INFO] - 127.0.0.1 - - [10/Nov/2023 15:22:31] "[32mPOST /equipements/Routeur2/edit HTTP/1.1[0m" 302 -
+2023-11-10 15:22:31,255 [INFO] - 127.0.0.1 - - [10/Nov/2023 15:22:31] "GET /equipements HTTP/1.1" 200 -
+2023-11-10 15:22:33,286 [INFO] - 127.0.0.1 - - [10/Nov/2023 15:22:33] "GET / HTTP/1.1" 200 -
+2023-11-10 15:22:34,371 [INFO] - Supervision de l'équipement : Routeur1
+2023-11-10 15:22:34,530 [INFO] - Réponse de la sonde SNMP à 192.168.141.174: SNMPv2-SMI::mib-2.2.2.1.4.2 = 1500
+2023-11-10 15:22:34,531 [INFO] - Supervision de l'équipement : Routeur2
+2023-11-10 15:22:34,683 [INFO] - Réponse de la sonde SNMP à 192.168.141.179: SNMPv2-SMI::mib-2.2.2.1.4.2 = 1500
+2023-11-10 15:22:34,684 [INFO] - Résultats de supervision : [{'name': 'Routeur1', 'value': None}, {'name': 'Routeur2', 'value': None}]
+2023-11-10 15:22:34,685 [INFO] - 127.0.0.1 - - [10/Nov/2023 15:22:34] "GET /interoger HTTP/1.1" 200 -
+2023-11-10 15:22:35,993 [INFO] - 127.0.0.1 - - [10/Nov/2023 15:22:35] "GET /logs HTTP/1.1" 200 -
+2023-11-10 15:22:40,814 [INFO] - 127.0.0.1 - - [10/Nov/2023 15:22:40] "GET / HTTP/1.1" 200 -
+2023-11-10 15:22:43,583 [INFO] - Supervision de l'équipement : Routeur1
+2023-11-10 15:22:43,741 [INFO] - Réponse de la sonde SNMP à 192.168.141.174: SNMPv2-SMI::mib-2.2.2.1.4.2 = 1500
+2023-11-10 15:22:43,742 [INFO] - Supervision de l'équipement : Routeur2
+2023-11-10 15:22:43,913 [INFO] - Réponse de la sonde SNMP à 192.168.141.179: SNMPv2-SMI::mib-2.2.2.1.4.2 = 1500
+2023-11-10 15:22:43,914 [INFO] - Résultats de supervision : [{'name': 'Routeur1', 'value': None}, {'name': 'Routeur2', 'value': None}]
+2023-11-10 15:22:43,915 [INFO] - 127.0.0.1 - - [10/Nov/2023 15:22:43] "GET /interoger HTTP/1.1" 200 -
+2023-11-10 15:22:48,280 [INFO] - 127.0.0.1 - - [10/Nov/2023 15:22:48] "GET /logs HTTP/1.1" 200 -
+2023-11-10 15:22:49,245 [INFO] - 127.0.0.1 - - [10/Nov/2023 15:22:49] "GET / HTTP/1.1" 200 -
+2023-11-10 15:22:50,734 [INFO] - Supervision de l'équipement : Routeur1
+2023-11-10 15:22:50,883 [INFO] - Réponse de la sonde SNMP à 192.168.141.174: SNMPv2-SMI::mib-2.2.2.1.4.2 = 1500
+2023-11-10 15:22:50,884 [INFO] - Supervision de l'équipement : Routeur2
+2023-11-10 15:22:51,027 [INFO] - Réponse de la sonde SNMP à 192.168.141.179: SNMPv2-SMI::mib-2.2.2.1.4.2 = 1500
+2023-11-10 15:22:51,028 [INFO] - Résultats de supervision : [{'name': 'Routeur1', 'value': None}, {'name': 'Routeur2', 'value': None}]
+2023-11-10 15:22:51,029 [INFO] - 127.0.0.1 - - [10/Nov/2023 15:22:51] "GET /interoger HTTP/1.1" 200 -
+2023-11-10 15:23:06,481 [INFO] - 127.0.0.1 - - [10/Nov/2023 15:23:06] "GET /logs HTTP/1.1" 200 -
+2023-11-10 15:23:32,013 [INFO] - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5001
+2023-11-10 15:23:32,014 [INFO] - [33mPress CTRL+C to quit[0m
+2023-11-10 15:23:32,015 [INFO] -  * Restarting with stat
+2023-11-10 15:23:33,626 [INFO] - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-11-10 15:23:33,628 [INFO] - [33mPress CTRL+C to quit[0m
+2023-11-10 15:23:35,784 [INFO] - 127.0.0.1 - - [10/Nov/2023 15:23:35] "GET / HTTP/1.1" 200 -
+2023-11-10 15:23:37,795 [INFO] - Supervision de l'équipement : Routeur1
+2023-11-10 15:23:37,898 [INFO] - Réponse de la sonde SNMP à 192.168.141.174: SNMPv2-SMI::mib-2.2.2.1.4.2 = 1500
+2023-11-10 15:23:37,899 [INFO] - Supervision de l'équipement : Routeur2
+2023-11-10 15:23:37,982 [INFO] - Réponse de la sonde SNMP à 192.168.141.179: SNMPv2-SMI::mib-2.2.2.1.4.2 = 1500
+2023-11-10 15:23:37,983 [INFO] - Résultats de supervision : [{'name': 'Routeur1', 'value': None}, {'name': 'Routeur2', 'value': None}]
+2023-11-10 15:23:37,984 [INFO] - 127.0.0.1 - - [10/Nov/2023 15:23:37] "GET /interoger HTTP/1.1" 200 -
+2023-11-10 15:24:02,836 [INFO] - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5001
+2023-11-10 15:24:02,837 [INFO] - [33mPress CTRL+C to quit[0m
+2023-11-10 15:24:02,840 [INFO] -  * Restarting with stat
+2023-11-10 15:24:15,093 [INFO] - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-11-10 15:24:15,094 [INFO] - [33mPress CTRL+C to quit[0m
+2023-11-10 15:24:18,697 [INFO] - Supervision de l'équipement : Routeur1
+2023-11-10 15:24:18,807 [INFO] - Réponse de la sonde SNMP à 192.168.141.174: SNMPv2-SMI::mib-2.2.2.1.4.2 = 1500
+2023-11-10 15:24:18,808 [INFO] - Supervision de l'équipement : Routeur2
+2023-11-10 15:24:18,910 [INFO] - Réponse de la sonde SNMP à 192.168.141.179: SNMPv2-SMI::mib-2.2.2.1.4.2 = 1500
+2023-11-10 15:24:18,911 [INFO] - Résultats de supervision : [{'name': 'Routeur1', 'value': None}, {'name': 'Routeur2', 'value': None}]
+2023-11-10 15:24:18,916 [INFO] - 127.0.0.1 - - [10/Nov/2023 15:24:18] "GET /interoger HTTP/1.1" 200 -
+2023-11-10 15:24:47,023 [INFO] - Supervision de l'équipement : Routeur1
+2023-11-10 15:24:47,108 [INFO] - Réponse de la sonde SNMP à 192.168.141.174: SNMPv2-SMI::mib-2.2.2.1.4.2 = 1500
+2023-11-10 15:24:47,109 [INFO] - Supervision de l'équipement : Routeur2
+2023-11-10 15:24:47,215 [INFO] - Réponse de la sonde SNMP à 192.168.141.179: SNMPv2-SMI::mib-2.2.2.1.4.2 = 1500
+2023-11-10 15:24:47,216 [INFO] - Résultats de supervision : [{'name': 'Routeur1', 'value': None}, {'name': 'Routeur2', 'value': None}]
+2023-11-10 15:24:47,217 [INFO] - 127.0.0.1 - - [10/Nov/2023 15:24:47] "GET /interoger HTTP/1.1" 200 -
+2023-11-10 15:24:48,512 [INFO] - Supervision de l'équipement : Routeur1
+2023-11-10 15:24:48,601 [INFO] - Réponse de la sonde SNMP à 192.168.141.174: SNMPv2-SMI::mib-2.2.2.1.4.2 = 1500
+2023-11-10 15:24:48,601 [INFO] - Supervision de l'équipement : Routeur2
+2023-11-10 15:24:48,689 [INFO] - Réponse de la sonde SNMP à 192.168.141.179: SNMPv2-SMI::mib-2.2.2.1.4.2 = 1500
+2023-11-10 15:24:48,690 [INFO] - Résultats de supervision : [{'name': 'Routeur1', 'value': None}, {'name': 'Routeur2', 'value': None}]
+2023-11-10 15:24:48,691 [INFO] - 127.0.0.1 - - [10/Nov/2023 15:24:48] "GET /interoger HTTP/1.1" 200 -
+2023-11-10 15:24:58,037 [INFO] - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5001
+2023-11-10 15:24:58,037 [INFO] - [33mPress CTRL+C to quit[0m
+2023-11-10 15:24:58,038 [INFO] -  * Restarting with stat
+2023-11-10 15:25:02,164 [INFO] - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-11-10 15:25:02,169 [INFO] - [33mPress CTRL+C to quit[0m
+2023-11-10 15:25:04,932 [INFO] - 127.0.0.1 - - [10/Nov/2023 15:25:04] "GET / HTTP/1.1" 200 -
+2023-11-10 15:25:08,087 [INFO] - Supervision de l'équipement : Routeur1
+2023-11-10 15:25:08,187 [INFO] - Réponse de la sonde SNMP à 192.168.141.174: SNMPv2-SMI::mib-2.2.2.1.4.2 = 1500
+2023-11-10 15:25:08,189 [INFO] - Supervision de l'équipement : Routeur2
+2023-11-10 15:25:08,270 [INFO] - Réponse de la sonde SNMP à 192.168.141.179: SNMPv2-SMI::mib-2.2.2.1.4.2 = 1500
+2023-11-10 15:25:08,271 [INFO] - Résultats de supervision : [{'name': 'Routeur1', 'value': None}, {'name': 'Routeur2', 'value': None}]
+2023-11-10 15:25:08,272 [INFO] - 127.0.0.1 - - [10/Nov/2023 15:25:08] "GET /interoger HTTP/1.1" 200 -
+2023-11-10 15:33:01,571 [INFO] - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5001
+2023-11-10 15:33:01,571 [INFO] - [33mPress CTRL+C to quit[0m
+2023-11-10 15:33:01,572 [INFO] -  * Restarting with stat
+2023-11-10 15:33:03,718 [INFO] - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-11-10 15:33:03,719 [INFO] - [33mPress CTRL+C to quit[0m
+2023-11-10 15:33:05,601 [INFO] - 127.0.0.1 - - [10/Nov/2023 15:33:05] "GET / HTTP/1.1" 200 -
+2023-11-10 15:33:07,979 [INFO] - Supervision de l'équipement : Routeur1
+2023-11-10 15:33:08,080 [INFO] - Réponse de la sonde SNMP à 192.168.141.174: SNMPv2-SMI::mib-2.2.2.1.4.2 = 1500
+2023-11-10 15:33:08,081 [INFO] - Supervision de l'équipement : Routeur2
+2023-11-10 15:33:08,166 [INFO] - Réponse de la sonde SNMP à 192.168.141.179: SNMPv2-SMI::mib-2.2.2.1.4.2 = 1500
+2023-11-10 15:33:08,167 [INFO] - Résultats de supervision : [{'name': 'Routeur1', 'value': '1500'}, {'name': 'Routeur2', 'value': '1500'}]
+2023-11-10 15:33:08,168 [INFO] - 127.0.0.1 - - [10/Nov/2023 15:33:08] "GET /interoger HTTP/1.1" 200 -
+2023-11-10 15:33:14,702 [INFO] - 127.0.0.1 - - [10/Nov/2023 15:33:14] "GET /logs HTTP/1.1" 200 -
+2023-11-10 15:33:31,291 [INFO] - 127.0.0.1 - - [10/Nov/2023 15:33:31] "GET / HTTP/1.1" 200 -
+2023-11-10 15:33:37,293 [INFO] - Supervision de l'équipement : Routeur1
+2023-11-10 15:33:37,417 [INFO] - Réponse de la sonde SNMP à 192.168.141.174: SNMPv2-SMI::mib-2.2.2.1.4.2 = 1500
+2023-11-10 15:33:37,417 [INFO] - Supervision de l'équipement : Routeur2
+2023-11-10 15:33:37,612 [INFO] - Réponse de la sonde SNMP à 192.168.141.179: SNMPv2-SMI::mib-2.2.2.1.4.2 = 1500
+2023-11-10 15:33:37,613 [INFO] - Résultats de supervision : [{'name': 'Routeur1', 'value': '1500'}, {'name': 'Routeur2', 'value': '1500'}]
+2023-11-10 15:33:37,613 [INFO] - 127.0.0.1 - - [10/Nov/2023 15:33:37] "GET /interoger HTTP/1.1" 200 -
+2023-11-10 15:33:51,854 [INFO] - 127.0.0.1 - - [10/Nov/2023 15:33:51] "GET /equipements HTTP/1.1" 200 -
+2023-11-10 15:34:08,348 [INFO] - 127.0.0.1 - - [10/Nov/2023 15:34:08] "GET /equipements/add HTTP/1.1" 200 -
+2023-11-10 15:34:42,736 [INFO] - 127.0.0.1 - - [10/Nov/2023 15:34:42] "GET / HTTP/1.1" 200 -
+2023-11-10 15:34:44,275 [INFO] - 127.0.0.1 - - [10/Nov/2023 15:34:44] "GET /equipements HTTP/1.1" 200 -
+2023-11-10 15:34:53,453 [INFO] - 127.0.0.1 - - [10/Nov/2023 15:34:53] "[32mPOST /equipements/add HTTP/1.1[0m" 302 -
+2023-11-10 15:34:53,460 [INFO] - 127.0.0.1 - - [10/Nov/2023 15:34:53] "GET /equipements HTTP/1.1" 200 -
+2023-11-10 15:34:55,807 [INFO] - 127.0.0.1 - - [10/Nov/2023 15:34:55] "GET /equipements/add HTTP/1.1" 200 -
+2023-11-10 15:35:01,261 [INFO] - 127.0.0.1 - - [10/Nov/2023 15:35:01] "GET / HTTP/1.1" 200 -
+2023-11-10 15:35:02,334 [INFO] - Supervision de l'équipement : Routeur1
+2023-11-10 15:35:02,478 [INFO] - Réponse de la sonde SNMP à 192.168.141.174: SNMPv2-SMI::mib-2.2.2.1.4.2 = 1500
+2023-11-10 15:35:02,479 [INFO] - Supervision de l'équipement : Routeur2
+2023-11-10 15:35:02,619 [INFO] - Réponse de la sonde SNMP à 192.168.141.179: SNMPv2-SMI::mib-2.2.2.1.4.2 = 1500
+2023-11-10 15:35:02,620 [INFO] - Supervision de l'équipement : Rw
+2023-11-10 15:35:08,787 [ERROR] - Erreur lors de l'interrogation de la sonde SNMP à 192.168.141.1: No SNMP response received before timeout
+2023-11-10 15:35:08,789 [INFO] - Résultats de supervision : [{'name': 'Routeur1', 'value': '1500'}, {'name': 'Routeur2', 'value': '1500'}, {'name': 'Rw', 'value': None}]
+2023-11-10 15:35:08,789 [INFO] - 127.0.0.1 - - [10/Nov/2023 15:35:08] "GET /interoger HTTP/1.1" 200 -
+2023-11-10 15:35:29,149 [INFO] - 127.0.0.1 - - [10/Nov/2023 15:35:29] "GET /equipements HTTP/1.1" 200 -
+2023-11-10 15:35:32,269 [INFO] - 127.0.0.1 - - [10/Nov/2023 15:35:32] "GET /logs HTTP/1.1" 200 -
+2023-11-10 15:36:37,375 [INFO] - 127.0.0.1 - - [10/Nov/2023 15:36:37] "GET /equipements HTTP/1.1" 200 -
+2023-11-10 15:36:45,411 [INFO] - 127.0.0.1 - - [10/Nov/2023 15:36:45] "GET / HTTP/1.1" 200 -
+2023-11-10 15:36:47,293 [INFO] - 127.0.0.1 - - [10/Nov/2023 15:36:47] "GET /equipements HTTP/1.1" 200 -
+2023-11-10 15:40:28,047 [INFO] - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-11-10 15:40:28,048 [INFO] - [33mPress CTRL+C to quit[0m
+2023-11-10 15:40:29,874 [INFO] - 127.0.0.1 - - [10/Nov/2023 15:40:29] "GET / HTTP/1.1" 200 -
+2023-11-10 15:40:30,086 [INFO] - 127.0.0.1 - - [10/Nov/2023 15:40:30] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2023-11-10 15:40:31,750 [INFO] - Supervision de l'équipement : Routeur1
+2023-11-10 15:40:31,851 [INFO] - Réponse de la sonde SNMP à 192.168.141.174: SNMPv2-SMI::mib-2.2.2.1.4.2 = 1500
+2023-11-10 15:40:31,853 [INFO] - Supervision de l'équipement : Routeur2
+2023-11-10 15:40:31,938 [INFO] - Réponse de la sonde SNMP à 192.168.141.179: SNMPv2-SMI::mib-2.2.2.1.4.2 = 1500
+2023-11-10 15:40:31,939 [INFO] - Supervision de l'équipement : Rw
+2023-11-10 15:40:38,022 [ERROR] - Erreur lors de l'interrogation de la sonde SNMP à 192.168.141.1: No SNMP response received before timeout
+2023-11-10 15:40:38,023 [INFO] - Résultats de supervision : [{'name': 'Routeur1', 'value': '1500'}, {'name': 'Routeur2', 'value': '1500'}, {'name': 'Rw', 'value': None}]
+2023-11-10 15:40:38,024 [INFO] - 127.0.0.1 - - [10/Nov/2023 15:40:38] "GET /interoger HTTP/1.1" 200 -
+2023-11-10 15:40:39,232 [INFO] - 127.0.0.1 - - [10/Nov/2023 15:40:39] "GET /equipements HTTP/1.1" 200 -
+2023-11-10 15:40:40,887 [INFO] - 127.0.0.1 - - [10/Nov/2023 15:40:40] "GET /equipements/Routeur1/edit HTTP/1.1" 200 -
+2023-11-10 15:40:44,425 [INFO] - 127.0.0.1 - - [10/Nov/2023 15:40:44] "[32mPOST /equipements/Routeur1/edit HTTP/1.1[0m" 302 -
+2023-11-10 15:40:44,430 [INFO] - 127.0.0.1 - - [10/Nov/2023 15:40:44] "GET /equipements HTTP/1.1" 200 -
+2023-11-10 15:40:54,037 [INFO] - 127.0.0.1 - - [10/Nov/2023 15:40:54] "GET /equipements/Rw/edit HTTP/1.1" 200 -
+2023-11-10 15:41:24,390 [INFO] - 127.0.0.1 - - [10/Nov/2023 15:41:24] "[32mPOST /equipements/Rw/edit HTTP/1.1[0m" 302 -
+2023-11-10 15:41:24,395 [INFO] - 127.0.0.1 - - [10/Nov/2023 15:41:24] "GET /equipements HTTP/1.1" 200 -
+2023-11-10 15:41:27,985 [INFO] - 127.0.0.1 - - [10/Nov/2023 15:41:27] "GET / HTTP/1.1" 200 -
+2023-11-10 15:41:29,180 [INFO] - Supervision de l'équipement : Routeur1
+2023-11-10 15:41:29,298 [INFO] - Réponse de la sonde SNMP à 192.168.141.174: SNMPv2-SMI::mib-2.31.1.1.1.11.3 = 35321
+2023-11-10 15:41:29,299 [INFO] - Supervision de l'équipement : Routeur2
+2023-11-10 15:41:29,456 [INFO] - Réponse de la sonde SNMP à 192.168.141.179: SNMPv2-SMI::mib-2.2.2.1.4.2 = 1500
+2023-11-10 15:41:29,457 [INFO] - Supervision de l'équipement : Rw
+2023-11-10 15:41:29,601 [INFO] - Réponse de la sonde SNMP à 192.168.141.174: SNMPv2-SMI::mib-2.31.1.1.1.11.2 = 0
+2023-11-10 15:41:29,602 [INFO] - Résultats de supervision : [{'name': 'Routeur1', 'value': '35321'}, {'name': 'Routeur2', 'value': '1500'}, {'name': 'Rw', 'value': '0'}]
+2023-11-10 15:41:29,603 [INFO] - 127.0.0.1 - - [10/Nov/2023 15:41:29] "GET /interoger HTTP/1.1" 200 -
+2023-11-10 15:42:06,973 [INFO] - 127.0.0.1 - - [10/Nov/2023 15:42:06] "GET /equipements HTTP/1.1" 200 -
+2023-11-10 15:42:08,595 [INFO] - 127.0.0.1 - - [10/Nov/2023 15:42:08] "GET /equipements/Rw/edit HTTP/1.1" 200 -
+2023-11-10 15:42:12,202 [INFO] - 127.0.0.1 - - [10/Nov/2023 15:42:12] "[32mPOST /equipements/Rw/edit HTTP/1.1[0m" 302 -
+2023-11-10 15:42:12,208 [INFO] - 127.0.0.1 - - [10/Nov/2023 15:42:12] "GET /equipements HTTP/1.1" 200 -
+2023-11-10 15:42:14,621 [INFO] - 127.0.0.1 - - [10/Nov/2023 15:42:14] "GET / HTTP/1.1" 200 -
+2023-11-10 15:42:15,764 [INFO] - Supervision de l'équipement : Routeur1
+2023-11-10 15:42:15,904 [INFO] - Réponse de la sonde SNMP à 192.168.141.174: SNMPv2-SMI::mib-2.31.1.1.1.11.3 = 35577
+2023-11-10 15:42:15,905 [INFO] - Supervision de l'équipement : Routeur2
+2023-11-10 15:42:16,091 [INFO] - Réponse de la sonde SNMP à 192.168.141.179: SNMPv2-SMI::mib-2.2.2.1.4.2 = 1500
+2023-11-10 15:42:16,092 [INFO] - Supervision de l'équipement : Rw
+2023-11-10 15:42:16,265 [INFO] - Réponse de la sonde SNMP à 192.168.141.174: SNMPv2-SMI::mib-2.31.1.1.1.11.1 = 0
+2023-11-10 15:42:16,267 [INFO] - Résultats de supervision : [{'name': 'Routeur1', 'value': '35577'}, {'name': 'Routeur2', 'value': '1500'}, {'name': 'Rw', 'value': '0'}]
+2023-11-10 15:42:16,267 [INFO] - 127.0.0.1 - - [10/Nov/2023 15:42:16] "GET /interoger HTTP/1.1" 200 -
+2023-11-10 15:42:22,849 [INFO] - 127.0.0.1 - - [10/Nov/2023 15:42:22] "GET /equipements HTTP/1.1" 200 -
+2023-11-10 15:42:26,795 [INFO] - 127.0.0.1 - - [10/Nov/2023 15:42:26] "GET /equipements/Rw/edit HTTP/1.1" 200 -
+2023-11-10 15:42:44,568 [INFO] - 127.0.0.1 - - [10/Nov/2023 15:42:44] "[32mPOST /equipements/Rw/edit HTTP/1.1[0m" 302 -
+2023-11-10 15:42:44,576 [INFO] - 127.0.0.1 - - [10/Nov/2023 15:42:44] "GET /equipements HTTP/1.1" 200 -
+2023-11-10 15:42:46,446 [INFO] - 127.0.0.1 - - [10/Nov/2023 15:42:46] "GET /equipements/add HTTP/1.1" 200 -
+2023-11-10 15:42:49,283 [INFO] - 127.0.0.1 - - [10/Nov/2023 15:42:49] "GET / HTTP/1.1" 200 -
+2023-11-10 15:42:50,265 [INFO] - Supervision de l'équipement : Routeur1
+2023-11-10 15:42:50,371 [INFO] - Réponse de la sonde SNMP à 192.168.141.174: SNMPv2-SMI::mib-2.31.1.1.1.11.3 = 35774
+2023-11-10 15:42:50,372 [INFO] - Supervision de l'équipement : Routeur2
+2023-11-10 15:42:50,524 [INFO] - Réponse de la sonde SNMP à 192.168.141.179: SNMPv2-SMI::mib-2.2.2.1.4.2 = 1500
+2023-11-10 15:42:50,525 [INFO] - Supervision de l'équipement : Rw
+2023-11-10 15:42:50,660 [INFO] - Réponse de la sonde SNMP à 192.168.141.174: SNMPv2-SMI::mib-2.31.1.1.1.7.3 = 73938
+2023-11-10 15:42:50,662 [INFO] - Résultats de supervision : [{'name': 'Routeur1', 'value': '35774'}, {'name': 'Routeur2', 'value': '1500'}, {'name': 'Rw', 'value': '73938'}]
+2023-11-10 15:42:50,663 [INFO] - 127.0.0.1 - - [10/Nov/2023 15:42:50] "GET /interoger HTTP/1.1" 200 -
+2023-11-10 15:42:54,826 [INFO] - Supervision de l'équipement : Routeur1
+2023-11-10 15:42:54,947 [INFO] - Réponse de la sonde SNMP à 192.168.141.174: SNMPv2-SMI::mib-2.31.1.1.1.11.3 = 35798
+2023-11-10 15:42:54,948 [INFO] - Supervision de l'équipement : Routeur2
+2023-11-10 15:42:55,071 [INFO] - Réponse de la sonde SNMP à 192.168.141.179: SNMPv2-SMI::mib-2.2.2.1.4.2 = 1500
+2023-11-10 15:42:55,072 [INFO] - Supervision de l'équipement : Rw
+2023-11-10 15:42:55,292 [INFO] - Réponse de la sonde SNMP à 192.168.141.174: SNMPv2-SMI::mib-2.31.1.1.1.7.3 = 74000
+2023-11-10 15:42:55,294 [INFO] - Résultats de supervision : [{'name': 'Routeur1', 'value': '35798'}, {'name': 'Routeur2', 'value': '1500'}, {'name': 'Rw', 'value': '74000'}]
+2023-11-10 15:42:55,295 [INFO] - 127.0.0.1 - - [10/Nov/2023 15:42:55] "GET /interoger HTTP/1.1" 200 -
+2023-11-10 15:42:57,209 [INFO] - Supervision de l'équipement : Routeur1
+2023-11-10 15:42:57,334 [INFO] - Réponse de la sonde SNMP à 192.168.141.174: SNMPv2-SMI::mib-2.31.1.1.1.11.3 = 35814
+2023-11-10 15:42:57,335 [INFO] - Supervision de l'équipement : Routeur2
+2023-11-10 15:42:57,459 [INFO] - Réponse de la sonde SNMP à 192.168.141.179: SNMPv2-SMI::mib-2.2.2.1.4.2 = 1500
+2023-11-10 15:42:57,460 [INFO] - Supervision de l'équipement : Rw
+2023-11-10 15:42:57,618 [INFO] - Réponse de la sonde SNMP à 192.168.141.174: SNMPv2-SMI::mib-2.31.1.1.1.7.3 = 74030
+2023-11-10 15:42:57,620 [INFO] - Résultats de supervision : [{'name': 'Routeur1', 'value': '35814'}, {'name': 'Routeur2', 'value': '1500'}, {'name': 'Rw', 'value': '74030'}]
+2023-11-10 15:42:57,620 [INFO] - 127.0.0.1 - - [10/Nov/2023 15:42:57] "GET /interoger HTTP/1.1" 200 -
+2023-11-10 15:42:58,773 [INFO] - Supervision de l'équipement : Routeur1
+2023-11-10 15:42:58,925 [INFO] - Réponse de la sonde SNMP à 192.168.141.174: SNMPv2-SMI::mib-2.31.1.1.1.11.3 = 35823
+2023-11-10 15:42:58,925 [INFO] - Supervision de l'équipement : Routeur2
+2023-11-10 15:42:59,071 [INFO] - Réponse de la sonde SNMP à 192.168.141.179: SNMPv2-SMI::mib-2.2.2.1.4.2 = 1500
+2023-11-10 15:42:59,072 [INFO] - Supervision de l'équipement : Rw
+2023-11-10 15:42:59,222 [INFO] - Réponse de la sonde SNMP à 192.168.141.174: SNMPv2-SMI::mib-2.31.1.1.1.7.3 = 74043
+2023-11-10 15:42:59,223 [INFO] - Résultats de supervision : [{'name': 'Routeur1', 'value': '35823'}, {'name': 'Routeur2', 'value': '1500'}, {'name': 'Rw', 'value': '74043'}]
+2023-11-10 15:42:59,223 [INFO] - 127.0.0.1 - - [10/Nov/2023 15:42:59] "GET /interoger HTTP/1.1" 200 -
+2023-11-10 15:42:59,962 [INFO] - Supervision de l'équipement : Routeur1
+2023-11-10 15:43:00,155 [INFO] - Réponse de la sonde SNMP à 192.168.141.174: SNMPv2-SMI::mib-2.31.1.1.1.11.3 = 35829
+2023-11-10 15:43:00,156 [INFO] - Supervision de l'équipement : Routeur2
+2023-11-10 15:43:00,273 [INFO] - Réponse de la sonde SNMP à 192.168.141.179: SNMPv2-SMI::mib-2.2.2.1.4.2 = 1500
+2023-11-10 15:43:00,274 [INFO] - Supervision de l'équipement : Rw
+2023-11-10 15:43:00,407 [INFO] - Réponse de la sonde SNMP à 192.168.141.174: SNMPv2-SMI::mib-2.31.1.1.1.7.3 = 74066
+2023-11-10 15:43:00,409 [INFO] - Résultats de supervision : [{'name': 'Routeur1', 'value': '35829'}, {'name': 'Routeur2', 'value': '1500'}, {'name': 'Rw', 'value': '74066'}]
+2023-11-10 15:43:00,409 [INFO] - 127.0.0.1 - - [10/Nov/2023 15:43:00] "GET /interoger HTTP/1.1" 200 -
+2023-11-10 15:43:28,755 [INFO] - Supervision de l'équipement : Routeur1
+2023-11-10 15:43:28,926 [INFO] - Réponse de la sonde SNMP à 192.168.141.174: SNMPv2-SMI::mib-2.31.1.1.1.11.3 = 35980
+2023-11-10 15:43:28,927 [INFO] - Supervision de l'équipement : Routeur2
+2023-11-10 15:43:29,034 [INFO] - Réponse de la sonde SNMP à 192.168.141.179: SNMPv2-SMI::mib-2.2.2.1.4.2 = 1500
+2023-11-10 15:43:29,035 [INFO] - Supervision de l'équipement : Rw
+2023-11-10 15:43:29,175 [INFO] - Réponse de la sonde SNMP à 192.168.141.174: SNMPv2-SMI::mib-2.31.1.1.1.7.3 = 74375
+2023-11-10 15:43:29,176 [INFO] - Résultats de supervision : [{'name': 'Routeur1', 'value': '35980'}, {'name': 'Routeur2', 'value': '1500'}, {'name': 'Rw', 'value': '74375'}]
+2023-11-10 15:43:29,177 [INFO] - 127.0.0.1 - - [10/Nov/2023 15:43:29] "GET /interoger HTTP/1.1" 200 -
+2023-11-10 15:44:28,218 [INFO] - 127.0.0.1 - - [10/Nov/2023 15:44:28] "GET /logs HTTP/1.1" 200 -
+2023-11-10 15:46:26,592 [INFO] - 127.0.0.1 - - [10/Nov/2023 15:46:26] "GET /equipements HTTP/1.1" 200 -
+2023-11-10 15:46:29,008 [INFO] - 127.0.0.1 - - [10/Nov/2023 15:46:29] "GET /equipements/Rw/edit HTTP/1.1" 200 -
+2023-11-10 15:46:32,189 [INFO] - 127.0.0.1 - - [10/Nov/2023 15:46:32] "[32mPOST /equipements/Rw/edit HTTP/1.1[0m" 302 -
+2023-11-10 15:46:32,195 [INFO] - 127.0.0.1 - - [10/Nov/2023 15:46:32] "GET /equipements HTTP/1.1" 200 -
+2023-11-10 15:46:34,020 [INFO] - 127.0.0.1 - - [10/Nov/2023 15:46:34] "GET / HTTP/1.1" 200 -
+2023-11-10 15:46:35,227 [INFO] - Supervision de l'équipement : Routeur1
+2023-11-10 15:46:35,348 [INFO] - Réponse de la sonde SNMP à 192.168.141.174: SNMPv2-SMI::mib-2.31.1.1.1.11.3 = 36997
+2023-11-10 15:46:35,349 [INFO] - Supervision de l'équipement : Routeur2
+2023-11-10 15:46:35,529 [INFO] - Réponse de la sonde SNMP à 192.168.141.179: SNMPv2-SMI::mib-2.2.2.1.4.2 = 1500
+2023-11-10 15:46:35,530 [INFO] - Supervision de l'équipement : Rw
+2023-11-10 15:46:35,689 [INFO] - Réponse de la sonde SNMP à 192.168.141.174: SNMPv2-SMI::mib-2.2.2.1.2.4 = ether4
+2023-11-10 15:46:35,690 [INFO] - Résultats de supervision : [{'name': 'Routeur1', 'value': '36997'}, {'name': 'Routeur2', 'value': '1500'}, {'name': 'Rw', 'value': 'ether4'}]
+2023-11-10 15:46:35,691 [INFO] - 127.0.0.1 - - [10/Nov/2023 15:46:35] "GET /interoger HTTP/1.1" 200 -
+2023-11-10 15:46:43,804 [INFO] - 127.0.0.1 - - [10/Nov/2023 15:46:43] "GET /equipements HTTP/1.1" 200 -
+2023-11-10 15:46:46,445 [INFO] - 127.0.0.1 - - [10/Nov/2023 15:46:46] "GET /equipements/Rw/edit HTTP/1.1" 200 -
+2023-11-10 15:47:05,227 [INFO] - 127.0.0.1 - - [10/Nov/2023 15:47:05] "[32mPOST /equipements/Rw/edit HTTP/1.1[0m" 302 -
+2023-11-10 15:47:05,232 [INFO] - 127.0.0.1 - - [10/Nov/2023 15:47:05] "GET /equipements HTTP/1.1" 200 -
+2023-11-10 15:47:06,954 [INFO] - 127.0.0.1 - - [10/Nov/2023 15:47:06] "GET / HTTP/1.1" 200 -
+2023-11-10 15:47:07,960 [INFO] - Supervision de l'équipement : Routeur1
+2023-11-10 15:47:08,100 [INFO] - Réponse de la sonde SNMP à 192.168.141.174: SNMPv2-SMI::mib-2.31.1.1.1.11.3 = 37174
+2023-11-10 15:47:08,101 [INFO] - Supervision de l'équipement : Routeur2
+2023-11-10 15:47:08,268 [INFO] - Réponse de la sonde SNMP à 192.168.141.179: SNMPv2-SMI::mib-2.2.2.1.4.2 = 1500
+2023-11-10 15:47:08,269 [INFO] - Supervision de l'équipement : Rw
+2023-11-10 15:47:08,446 [INFO] - Réponse de la sonde SNMP à 192.168.141.174: SNMPv2-SMI::mib-2.2.2.1.2.1 = ether1
+2023-11-10 15:47:08,447 [INFO] - Résultats de supervision : [{'name': 'Routeur1', 'value': '37174'}, {'name': 'Routeur2', 'value': '1500'}, {'name': 'Rw', 'value': 'ether1'}]
+2023-11-10 15:47:08,448 [INFO] - 127.0.0.1 - - [10/Nov/2023 15:47:08] "GET /interoger HTTP/1.1" 200 -
+2023-11-10 15:47:25,998 [INFO] - 127.0.0.1 - - [10/Nov/2023 15:47:25] "GET /equipements HTTP/1.1" 200 -
+2023-11-10 15:48:10,715 [INFO] - 127.0.0.1 - - [10/Nov/2023 15:48:10] "GET /equipements/Rw/edit HTTP/1.1" 200 -
+2023-11-10 15:48:14,679 [INFO] - 127.0.0.1 - - [10/Nov/2023 15:48:14] "[32mPOST /equipements/Rw/edit HTTP/1.1[0m" 302 -
+2023-11-10 15:48:14,683 [INFO] - 127.0.0.1 - - [10/Nov/2023 15:48:14] "GET /equipements HTTP/1.1" 200 -
+2023-11-10 15:48:16,123 [INFO] - 127.0.0.1 - - [10/Nov/2023 15:48:16] "GET / HTTP/1.1" 200 -
+2023-11-10 15:48:17,105 [INFO] - Supervision de l'équipement : Routeur1
+2023-11-10 15:48:17,240 [INFO] - Réponse de la sonde SNMP à 192.168.141.174: SNMPv2-SMI::mib-2.31.1.1.1.11.3 = 37552
+2023-11-10 15:48:17,241 [INFO] - Supervision de l'équipement : Routeur2
+2023-11-10 15:48:17,397 [INFO] - Réponse de la sonde SNMP à 192.168.141.179: SNMPv2-SMI::mib-2.2.2.1.4.2 = 1500
+2023-11-10 15:48:17,399 [INFO] - Supervision de l'équipement : Rw
+2023-11-10 15:48:17,567 [INFO] - Réponse de la sonde SNMP à 192.168.141.174: SNMPv2-SMI::mib-2.31.1.1.1.11.1 = 0
+2023-11-10 15:48:17,568 [INFO] - Résultats de supervision : [{'name': 'Routeur1', 'value': '37552'}, {'name': 'Routeur2', 'value': '1500'}, {'name': 'Rw', 'value': '0'}]
+2023-11-10 15:48:17,569 [INFO] - 127.0.0.1 - - [10/Nov/2023 15:48:17] "GET /interoger HTTP/1.1" 200 -
+2023-11-10 15:50:57,249 [INFO] - 127.0.0.1 - - [10/Nov/2023 15:50:57] "GET / HTTP/1.1" 200 -
+2023-11-10 15:50:58,742 [INFO] - Supervision de l'équipement : Routeur1
+2023-11-10 15:50:58,893 [INFO] - Réponse de la sonde SNMP à 192.168.141.174: SNMPv2-SMI::mib-2.31.1.1.1.11.3 = 38668
+2023-11-10 15:50:58,895 [INFO] - Supervision de l'équipement : Routeur2
+2023-11-10 15:50:59,033 [INFO] - Réponse de la sonde SNMP à 192.168.141.179: SNMPv2-SMI::mib-2.2.2.1.4.2 = 1500
+2023-11-10 15:50:59,034 [INFO] - Supervision de l'équipement : Rw
+2023-11-10 15:50:59,209 [INFO] - Réponse de la sonde SNMP à 192.168.141.174: SNMPv2-SMI::mib-2.31.1.1.1.11.1 = 19
+2023-11-10 15:50:59,210 [INFO] - Résultats de supervision : [{'name': 'Routeur1', 'value': '38668'}, {'name': 'Routeur2', 'value': '1500'}, {'name': 'Rw', 'value': '19'}]
+2023-11-10 15:50:59,210 [INFO] - 127.0.0.1 - - [10/Nov/2023 15:50:59] "GET /interoger HTTP/1.1" 200 -
+2023-11-10 15:51:08,061 [INFO] - 127.0.0.1 - - [10/Nov/2023 15:51:08] "GET /equipements HTTP/1.1" 200 -
+2023-11-10 15:51:33,618 [INFO] - 127.0.0.1 - - [10/Nov/2023 15:51:33] "GET / HTTP/1.1" 200 -
+2023-11-10 15:51:34,743 [INFO] - Supervision de l'équipement : Routeur1
+2023-11-10 15:51:34,878 [INFO] - Réponse de la sonde SNMP à 192.168.141.174: SNMPv2-SMI::mib-2.31.1.1.1.11.3 = 39201
+2023-11-10 15:51:34,879 [INFO] - Supervision de l'équipement : Routeur2
+2023-11-10 15:51:35,032 [INFO] - Réponse de la sonde SNMP à 192.168.141.179: SNMPv2-SMI::mib-2.2.2.1.4.2 = 1500
+2023-11-10 15:51:35,033 [INFO] - Supervision de l'équipement : Rw
+2023-11-10 15:51:35,246 [INFO] - Réponse de la sonde SNMP à 192.168.141.174: SNMPv2-SMI::mib-2.31.1.1.1.11.1 = 23
+2023-11-10 15:51:35,247 [INFO] - Résultats de supervision : [{'name': 'Routeur1', 'value': '39201'}, {'name': 'Routeur2', 'value': '1500'}, {'name': 'Rw', 'value': '23'}]
+2023-11-10 15:51:35,248 [INFO] - 127.0.0.1 - - [10/Nov/2023 15:51:35] "GET /interoger HTTP/1.1" 200 -
+2023-11-10 15:51:36,453 [INFO] - Supervision de l'équipement : Routeur1
+2023-11-10 15:51:36,606 [INFO] - Réponse de la sonde SNMP à 192.168.141.174: SNMPv2-SMI::mib-2.31.1.1.1.11.3 = 39216
+2023-11-10 15:51:36,607 [INFO] - Supervision de l'équipement : Routeur2
+2023-11-10 15:51:36,730 [INFO] - Réponse de la sonde SNMP à 192.168.141.179: SNMPv2-SMI::mib-2.2.2.1.4.2 = 1500
+2023-11-10 15:51:36,731 [INFO] - Supervision de l'équipement : Rw
+2023-11-10 15:51:36,868 [INFO] - Réponse de la sonde SNMP à 192.168.141.174: SNMPv2-SMI::mib-2.31.1.1.1.11.1 = 23
+2023-11-10 15:51:36,869 [INFO] - Résultats de supervision : [{'name': 'Routeur1', 'value': '39216'}, {'name': 'Routeur2', 'value': '1500'}, {'name': 'Rw', 'value': '23'}]
+2023-11-10 15:51:36,870 [INFO] - 127.0.0.1 - - [10/Nov/2023 15:51:36] "GET /interoger HTTP/1.1" 200 -
+2023-11-10 15:51:37,606 [INFO] - Supervision de l'équipement : Routeur1
+2023-11-10 15:51:37,773 [INFO] - Réponse de la sonde SNMP à 192.168.141.174: SNMPv2-SMI::mib-2.31.1.1.1.11.3 = 39225
+2023-11-10 15:51:37,774 [INFO] - Supervision de l'équipement : Routeur2
+2023-11-10 15:51:37,901 [INFO] - Réponse de la sonde SNMP à 192.168.141.179: SNMPv2-SMI::mib-2.2.2.1.4.2 = 1500
+2023-11-10 15:51:37,903 [INFO] - Supervision de l'équipement : Rw
+2023-11-10 15:51:38,045 [INFO] - Réponse de la sonde SNMP à 192.168.141.174: SNMPv2-SMI::mib-2.31.1.1.1.11.1 = 23
+2023-11-10 15:51:38,046 [INFO] - Résultats de supervision : [{'name': 'Routeur1', 'value': '39225'}, {'name': 'Routeur2', 'value': '1500'}, {'name': 'Rw', 'value': '23'}]
+2023-11-10 15:51:38,047 [INFO] - 127.0.0.1 - - [10/Nov/2023 15:51:38] "GET /interoger HTTP/1.1" 200 -
+2023-11-10 15:51:38,972 [INFO] - Supervision de l'équipement : Routeur1
+2023-11-10 15:51:39,090 [INFO] - Réponse de la sonde SNMP à 192.168.141.174: SNMPv2-SMI::mib-2.31.1.1.1.11.3 = 39233
+2023-11-10 15:51:39,090 [INFO] - Supervision de l'équipement : Routeur2
+2023-11-10 15:51:39,239 [INFO] - Réponse de la sonde SNMP à 192.168.141.179: SNMPv2-SMI::mib-2.2.2.1.4.2 = 1500
+2023-11-10 15:51:39,240 [INFO] - Supervision de l'équipement : Rw
+2023-11-10 15:51:39,359 [INFO] - Réponse de la sonde SNMP à 192.168.141.174: SNMPv2-SMI::mib-2.31.1.1.1.11.1 = 23
+2023-11-10 15:51:39,360 [INFO] - Résultats de supervision : [{'name': 'Routeur1', 'value': '39233'}, {'name': 'Routeur2', 'value': '1500'}, {'name': 'Rw', 'value': '23'}]
+2023-11-10 15:51:39,360 [INFO] - 127.0.0.1 - - [10/Nov/2023 15:51:39] "GET /interoger HTTP/1.1" 200 -
+2023-11-10 15:51:44,747 [INFO] - Supervision de l'équipement : Routeur1
+2023-11-10 15:51:44,860 [INFO] - Réponse de la sonde SNMP à 192.168.141.174: SNMPv2-SMI::mib-2.31.1.1.1.11.3 = 39278
+2023-11-10 15:51:44,861 [INFO] - Supervision de l'équipement : Routeur2
+2023-11-10 15:51:45,006 [INFO] - Réponse de la sonde SNMP à 192.168.141.179: SNMPv2-SMI::mib-2.2.2.1.4.2 = 1500
+2023-11-10 15:51:45,008 [INFO] - Supervision de l'équipement : Rw
+2023-11-10 15:51:45,188 [INFO] - Réponse de la sonde SNMP à 192.168.141.174: SNMPv2-SMI::mib-2.31.1.1.1.11.1 = 23
+2023-11-10 15:51:45,188 [INFO] - Résultats de supervision : [{'name': 'Routeur1', 'value': '39278'}, {'name': 'Routeur2', 'value': '1500'}, {'name': 'Rw', 'value': '23'}]
+2023-11-10 15:51:45,190 [INFO] - 127.0.0.1 - - [10/Nov/2023 15:51:45] "GET /interoger HTTP/1.1" 200 -
+2023-11-10 15:51:48,240 [INFO] - Supervision de l'équipement : Routeur1
+2023-11-10 15:51:48,387 [INFO] - Réponse de la sonde SNMP à 192.168.141.174: SNMPv2-SMI::mib-2.31.1.1.1.11.3 = 39307
+2023-11-10 15:51:48,389 [INFO] - Supervision de l'équipement : Routeur2
+2023-11-10 15:51:48,525 [INFO] - Réponse de la sonde SNMP à 192.168.141.179: SNMPv2-SMI::mib-2.2.2.1.4.2 = 1500
+2023-11-10 15:51:48,526 [INFO] - Supervision de l'équipement : Rw
+2023-11-10 15:51:48,688 [INFO] - Réponse de la sonde SNMP à 192.168.141.174: SNMPv2-SMI::mib-2.31.1.1.1.11.1 = 23
+2023-11-10 15:51:48,690 [INFO] - Résultats de supervision : [{'name': 'Routeur1', 'value': '39307'}, {'name': 'Routeur2', 'value': '1500'}, {'name': 'Rw', 'value': '23'}]
+2023-11-10 15:51:48,690 [INFO] - 127.0.0.1 - - [10/Nov/2023 15:51:48] "GET /interoger HTTP/1.1" 200 -
+2023-11-10 15:51:54,741 [INFO] - Supervision de l'équipement : Routeur1
+2023-11-10 15:51:54,892 [INFO] - Réponse de la sonde SNMP à 192.168.141.174: SNMPv2-SMI::mib-2.31.1.1.1.11.3 = 39356
+2023-11-10 15:51:54,894 [INFO] - Supervision de l'équipement : Routeur2
+2023-11-10 15:51:55,034 [INFO] - Réponse de la sonde SNMP à 192.168.141.179: SNMPv2-SMI::mib-2.2.2.1.4.2 = 1500
+2023-11-10 15:51:55,034 [INFO] - Supervision de l'équipement : Rw
+2023-11-10 15:51:55,206 [INFO] - Réponse de la sonde SNMP à 192.168.141.174: SNMPv2-SMI::mib-2.31.1.1.1.11.1 = 23
+2023-11-10 15:51:55,206 [INFO] - Résultats de supervision : [{'name': 'Routeur1', 'value': '39356'}, {'name': 'Routeur2', 'value': '1500'}, {'name': 'Rw', 'value': '23'}]
+2023-11-10 15:51:55,207 [INFO] - 127.0.0.1 - - [10/Nov/2023 15:51:55] "GET /interoger HTTP/1.1" 200 -
+2023-11-10 15:51:56,057 [INFO] - 127.0.0.1 - - [10/Nov/2023 15:51:56] "GET /equipements HTTP/1.1" 200 -
+2023-11-10 15:52:11,400 [INFO] - 127.0.0.1 - - [10/Nov/2023 15:52:11] "GET /equipements/Routeur2/edit HTTP/1.1" 200 -
+2023-11-10 15:52:17,090 [INFO] - 127.0.0.1 - - [10/Nov/2023 15:52:17] "[32mPOST /equipements/Routeur2/edit HTTP/1.1[0m" 302 -
+2023-11-10 15:52:17,094 [INFO] - 127.0.0.1 - - [10/Nov/2023 15:52:17] "GET /equipements HTTP/1.1" 200 -
+2023-11-10 15:52:19,895 [INFO] - 127.0.0.1 - - [10/Nov/2023 15:52:19] "GET / HTTP/1.1" 200 -
+2023-11-10 15:52:21,128 [INFO] - Supervision de l'équipement : Routeur1
+2023-11-10 15:52:21,277 [INFO] - Réponse de la sonde SNMP à 192.168.141.174: SNMPv2-SMI::mib-2.31.1.1.1.11.3 = 39552
+2023-11-10 15:52:21,279 [INFO] - Supervision de l'équipement : Routeur2
+2023-11-10 15:52:21,416 [INFO] - Réponse de la sonde SNMP à 192.168.141.179: SNMPv2-SMI::mib-2.31.1.1.1.11.4 = 4255
+2023-11-10 15:52:21,417 [INFO] - Supervision de l'équipement : Rw
+2023-11-10 15:52:21,562 [INFO] - Réponse de la sonde SNMP à 192.168.141.174: SNMPv2-SMI::mib-2.31.1.1.1.11.1 = 27
+2023-11-10 15:52:21,563 [INFO] - Résultats de supervision : [{'name': 'Routeur1', 'value': '39552'}, {'name': 'Routeur2', 'value': '4255'}, {'name': 'Rw', 'value': '27'}]
+2023-11-10 15:52:21,564 [INFO] - 127.0.0.1 - - [10/Nov/2023 15:52:21] "GET /interoger HTTP/1.1" 200 -
+2023-11-10 15:52:28,859 [INFO] - 127.0.0.1 - - [10/Nov/2023 15:52:28] "GET /equipements HTTP/1.1" 200 -
+2023-11-10 15:58:05,047 [INFO] - 127.0.0.1 - - [10/Nov/2023 15:58:05] "GET /equipements/Routeur2/edit HTTP/1.1" 200 -
+2023-11-10 15:58:09,631 [INFO] - 127.0.0.1 - - [10/Nov/2023 15:58:09] "[32mPOST /equipements/Routeur2/edit HTTP/1.1[0m" 302 -
+2023-11-10 15:58:09,637 [INFO] - 127.0.0.1 - - [10/Nov/2023 15:58:09] "GET /equipements HTTP/1.1" 200 -
+2023-11-10 15:58:14,954 [INFO] - 127.0.0.1 - - [10/Nov/2023 15:58:14] "GET / HTTP/1.1" 200 -
+2023-11-10 15:58:15,972 [INFO] - Supervision de l'équipement : Routeur1
+2023-11-10 15:58:16,093 [INFO] - Réponse de la sonde SNMP à 192.168.141.174: SNMPv2-SMI::mib-2.31.1.1.1.11.3 = 42208
+2023-11-10 15:58:16,094 [INFO] - Supervision de l'équipement : Routeur2
+2023-11-10 15:58:16,248 [INFO] - Réponse de la sonde SNMP à 192.168.141.179: SNMPv2-SMI::mib-2.31.1.1.1.11.1 = 698
+2023-11-10 15:58:16,249 [INFO] - Supervision de l'équipement : Rw
+2023-11-10 15:58:16,394 [INFO] - Réponse de la sonde SNMP à 192.168.141.174: SNMPv2-SMI::mib-2.31.1.1.1.11.1 = 702
+2023-11-10 15:58:16,395 [INFO] - Résultats de supervision : [{'name': 'Routeur1', 'value': '42208'}, {'name': 'Routeur2', 'value': '698'}, {'name': 'Rw', 'value': '702'}]
+2023-11-10 15:58:16,396 [INFO] - 127.0.0.1 - - [10/Nov/2023 15:58:16] "GET /interoger HTTP/1.1" 200 -
+2023-11-10 15:58:59,209 [INFO] - 127.0.0.1 - - [10/Nov/2023 15:58:59] "GET /equipements HTTP/1.1" 200 -
+2023-11-10 16:00:54,794 [INFO] - 127.0.0.1 - - [10/Nov/2023 16:00:54] "GET / HTTP/1.1" 200 -
+2023-11-10 16:09:04,094 [INFO] - 127.0.0.1 - - [10/Nov/2023 16:09:04] "GET / HTTP/1.1" 200 -
+2023-11-10 16:09:41,864 [INFO] - 127.0.0.1 - - [10/Nov/2023 16:09:41] "GET / HTTP/1.1" 200 -
+2023-11-10 16:09:42,853 [INFO] - Supervision de l'équipement : Routeur1
+2023-11-10 16:09:43,013 [INFO] - Réponse de la sonde SNMP à 192.168.141.174: SNMPv2-SMI::mib-2.31.1.1.1.11.3 = 47350
+2023-11-10 16:09:43,014 [INFO] - Supervision de l'équipement : Routeur2
+2023-11-10 16:09:43,173 [INFO] - Réponse de la sonde SNMP à 192.168.141.179: SNMPv2-SMI::mib-2.31.1.1.1.11.1 = 1052
+2023-11-10 16:09:43,175 [INFO] - Supervision de l'équipement : Rw
+2023-11-10 16:09:43,303 [INFO] - Réponse de la sonde SNMP à 192.168.141.174: SNMPv2-SMI::mib-2.31.1.1.1.11.1 = 1052
+2023-11-10 16:09:43,305 [INFO] - Résultats de supervision : [{'name': 'Routeur1', 'value': '47350'}, {'name': 'Routeur2', 'value': '1052'}, {'name': 'Rw', 'value': '1052'}]
+2023-11-10 16:09:43,306 [INFO] - 127.0.0.1 - - [10/Nov/2023 16:09:43] "GET /interoger HTTP/1.1" 200 -
+2023-11-10 16:19:42,969 [INFO] - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5001
+2023-11-10 16:19:42,970 [INFO] - [33mPress CTRL+C to quit[0m
+2023-11-10 16:19:42,972 [INFO] -  * Restarting with stat
+2023-11-10 16:30:56,740 [INFO] - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-11-10 16:30:56,741 [INFO] - [33mPress CTRL+C to quit[0m
+2023-11-10 16:30:58,513 [INFO] - 127.0.0.1 - - [10/Nov/2023 16:30:58] "GET / HTTP/1.1" 200 -
+2023-11-10 16:31:04,760 [INFO] - Supervision de l'équipement : Routeur1
+2023-11-10 16:31:04,881 [INFO] - Réponse de la sonde SNMP à 192.168.141.174: SNMPv2-SMI::mib-2.31.1.1.1.11.3 = 56857
+2023-11-10 16:31:04,883 [INFO] - Supervision de l'équipement : Routeur2
+2023-11-10 16:31:04,978 [INFO] - Réponse de la sonde SNMP à 192.168.141.179: SNMPv2-SMI::mib-2.31.1.1.1.11.1 = 1692
+2023-11-10 16:31:04,979 [INFO] - Supervision de l'équipement : Rw
+2023-11-10 16:31:05,068 [INFO] - Réponse de la sonde SNMP à 192.168.141.174: SNMPv2-SMI::mib-2.31.1.1.1.11.1 = 1692
+2023-11-10 16:31:05,069 [INFO] - Résultats de supervision : [{'name': 'Routeur1', 'value': '56857'}, {'name': 'Routeur2', 'value': '1692'}, {'name': 'Rw', 'value': '1692'}]
+2023-11-10 16:31:05,070 [INFO] - 127.0.0.1 - - [10/Nov/2023 16:31:05] "GET /interoger HTTP/1.1" 200 -
+2023-11-10 16:31:13,189 [INFO] - 127.0.0.1 - - [10/Nov/2023 16:31:13] "GET /logs HTTP/1.1" 200 -
+2023-11-10 16:31:20,017 [INFO] - Scheduler has been shut down
+2023-11-10 16:31:20,018 [DEBUG] - Looking for jobs to run
+2023-11-10 16:31:20,018 [DEBUG] - No jobs; waiting until a job is added
+2023-11-10 16:31:20,018 [INFO] - 127.0.0.1 - - [10/Nov/2023 16:31:20] "[32mPOST /arreter_supervision HTTP/1.1[0m" 302 -
+2023-11-10 16:31:20,022 [INFO] - 127.0.0.1 - - [10/Nov/2023 16:31:20] "GET / HTTP/1.1" 200 -
+2023-11-10 16:32:28,959 [INFO] - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5001
+2023-11-10 16:32:28,959 [INFO] - [33mPress CTRL+C to quit[0m
+2023-11-10 16:32:28,961 [INFO] -  * Restarting with stat
+2023-11-10 16:34:13,146 [INFO] - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-11-10 16:34:13,146 [INFO] - [33mPress CTRL+C to quit[0m
+2023-11-10 16:34:15,578 [INFO] - 127.0.0.1 - - [10/Nov/2023 16:34:15] "GET / HTTP/1.1" 200 -
+2023-11-10 16:34:17,266 [INFO] - Supervision de l'équipement : Routeur1
+2023-11-10 16:34:17,374 [INFO] - Réponse de la sonde SNMP à 192.168.141.174: SNMPv2-SMI::mib-2.31.1.1.1.11.3 = 58281
+2023-11-10 16:34:17,375 [INFO] - Supervision de l'équipement : Routeur2
+2023-11-10 16:34:17,479 [INFO] - Réponse de la sonde SNMP à 192.168.141.179: SNMPv2-SMI::mib-2.31.1.1.1.11.1 = 1792
+2023-11-10 16:34:17,481 [INFO] - Supervision de l'équipement : Rw
+2023-11-10 16:34:17,568 [INFO] - Réponse de la sonde SNMP à 192.168.141.174: SNMPv2-SMI::mib-2.31.1.1.1.11.1 = 1792
+2023-11-10 16:34:17,569 [INFO] - Résultats de supervision : [{'name': 'Routeur1', 'value': '58281'}, {'name': 'Routeur2', 'value': '1792'}, {'name': 'Rw', 'value': '1792'}]
+2023-11-10 16:34:17,570 [INFO] - 127.0.0.1 - - [10/Nov/2023 16:34:17] "GET /interoger HTTP/1.1" 200 -
+2023-11-10 16:34:18,137 [DEBUG] - Looking for jobs to run
+2023-11-10 16:34:18,138 [INFO] - Running job "supervise_periodiquement (trigger: interval[0:00:05], next run at: 2023-11-10 16:34:18 CET)" (scheduled at 2023-11-10 16:34:18.136354+01:00)
+2023-11-10 16:34:18,138 [DEBUG] - Next wakeup is due at 2023-11-10 16:34:23.136354+01:00 (in 4.997418 seconds)
+2023-11-10 16:34:18,139 [INFO] - Supervision de l'équipement : Routeur1
+2023-11-10 16:34:18,243 [INFO] - Réponse de la sonde SNMP à 192.168.141.174: SNMPv2-SMI::mib-2.31.1.1.1.11.3 = 58281
+2023-11-10 16:34:18,245 [INFO] - Supervision de l'équipement : Routeur2
+2023-11-10 16:34:18,335 [INFO] - Réponse de la sonde SNMP à 192.168.141.179: SNMPv2-SMI::mib-2.31.1.1.1.11.1 = 1792
+2023-11-10 16:34:18,336 [INFO] - Supervision de l'équipement : Rw
+2023-11-10 16:34:18,429 [INFO] - Réponse de la sonde SNMP à 192.168.141.174: SNMPv2-SMI::mib-2.31.1.1.1.11.1 = 1792
+2023-11-10 16:34:18,429 [INFO] - Résultats de supervision : [{'name': 'Routeur1', 'value': '58281'}, {'name': 'Routeur2', 'value': '1792'}, {'name': 'Rw', 'value': '1792'}]
+2023-11-10 16:34:18,435 [ERROR] - Job "supervise_periodiquement (trigger: interval[0:00:05], next run at: 2023-11-10 16:34:23 CET)" raised an exception
+Traceback (most recent call last):
+  File "C:\Users\sybin\AppData\Local\Programs\Python\Python39\lib\site-packages\apscheduler\executors\base.py", line 125, in run_job
+    retval = job.func(*job.args, **job.kwargs)
+  File "C:\Users\sybin\Desktop\flaskr_bilal\flaskr.py", line 143, in supervise_periodiquement
+    interoger_snmp()
+  File "C:\Users\sybin\Desktop\flaskr_bilal\flaskr.py", line 127, in interoger_snmp
+    return render_template('index.html', supervised_results=supervised_results)
+  File "C:\Users\sybin\AppData\Local\Programs\Python\Python39\lib\site-packages\flask\templating.py", line 150, in render_template
+    app = current_app._get_current_object()  # type: ignore[attr-defined]
+  File "C:\Users\sybin\AppData\Local\Programs\Python\Python39\lib\site-packages\werkzeug\local.py", line 508, in _get_current_object
+    raise RuntimeError(unbound_message) from None
+RuntimeError: Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+2023-11-10 16:34:23,138 [DEBUG] - Looking for jobs to run
+2023-11-10 16:34:23,138 [DEBUG] - Next wakeup is due at 2023-11-10 16:34:28.136354+01:00 (in 4.998007 seconds)
+2023-11-10 16:34:23,139 [INFO] - Running job "supervise_periodiquement (trigger: interval[0:00:05], next run at: 2023-11-10 16:34:28 CET)" (scheduled at 2023-11-10 16:34:23.136354+01:00)
+2023-11-10 16:34:23,139 [INFO] - Supervision de l'équipement : Routeur1
+2023-11-10 16:34:23,297 [INFO] - Réponse de la sonde SNMP à 192.168.141.174: SNMPv2-SMI::mib-2.31.1.1.1.11.3 = 58311
+2023-11-10 16:34:23,298 [INFO] - Supervision de l'équipement : Routeur2
+2023-11-10 16:34:23,486 [INFO] - Réponse de la sonde SNMP à 192.168.141.179: SNMPv2-SMI::mib-2.31.1.1.1.11.1 = 1797
+2023-11-10 16:34:23,487 [INFO] - Supervision de l'équipement : Rw
+2023-11-10 16:34:23,621 [INFO] - Réponse de la sonde SNMP à 192.168.141.174: SNMPv2-SMI::mib-2.31.1.1.1.11.1 = 1797
+2023-11-10 16:34:23,622 [INFO] - Résultats de supervision : [{'name': 'Routeur1', 'value': '58311'}, {'name': 'Routeur2', 'value': '1797'}, {'name': 'Rw', 'value': '1797'}]
+2023-11-10 16:34:23,622 [ERROR] - Job "supervise_periodiquement (trigger: interval[0:00:05], next run at: 2023-11-10 16:34:28 CET)" raised an exception
+Traceback (most recent call last):
+  File "C:\Users\sybin\AppData\Local\Programs\Python\Python39\lib\site-packages\apscheduler\executors\base.py", line 125, in run_job
+    retval = job.func(*job.args, **job.kwargs)
+  File "C:\Users\sybin\Desktop\flaskr_bilal\flaskr.py", line 143, in supervise_periodiquement
+    interoger_snmp()
+  File "C:\Users\sybin\Desktop\flaskr_bilal\flaskr.py", line 127, in interoger_snmp
+    return render_template('index.html', supervised_results=supervised_results)
+  File "C:\Users\sybin\AppData\Local\Programs\Python\Python39\lib\site-packages\flask\templating.py", line 150, in render_template
+    app = current_app._get_current_object()  # type: ignore[attr-defined]
+  File "C:\Users\sybin\AppData\Local\Programs\Python\Python39\lib\site-packages\werkzeug\local.py", line 508, in _get_current_object
+    raise RuntimeError(unbound_message) from None
+RuntimeError: Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+2023-11-10 16:34:24,958 [INFO] - 127.0.0.1 - - [10/Nov/2023 16:34:24] "GET /logs HTTP/1.1" 200 -
+2023-11-10 16:34:28,139 [DEBUG] - Looking for jobs to run
+2023-11-10 16:34:28,139 [DEBUG] - Next wakeup is due at 2023-11-10 16:34:33.136354+01:00 (in 4.997105 seconds)
+2023-11-10 16:34:28,140 [INFO] - Running job "supervise_periodiquement (trigger: interval[0:00:05], next run at: 2023-11-10 16:34:33 CET)" (scheduled at 2023-11-10 16:34:28.136354+01:00)
+2023-11-10 16:34:28,140 [INFO] - Supervision de l'équipement : Routeur1
+2023-11-10 16:34:28,280 [INFO] - Réponse de la sonde SNMP à 192.168.141.174: SNMPv2-SMI::mib-2.31.1.1.1.11.3 = 58351
+2023-11-10 16:34:28,281 [INFO] - Supervision de l'équipement : Routeur2
+2023-11-10 16:34:28,456 [INFO] - Réponse de la sonde SNMP à 192.168.141.179: SNMPv2-SMI::mib-2.31.1.1.1.11.1 = 1798
+2023-11-10 16:34:28,457 [INFO] - Supervision de l'équipement : Rw
+2023-11-10 16:34:28,614 [INFO] - Réponse de la sonde SNMP à 192.168.141.174: SNMPv2-SMI::mib-2.31.1.1.1.11.1 = 1798
+2023-11-10 16:34:28,615 [INFO] - Résultats de supervision : [{'name': 'Routeur1', 'value': '58351'}, {'name': 'Routeur2', 'value': '1798'}, {'name': 'Rw', 'value': '1798'}]
+2023-11-10 16:34:28,615 [ERROR] - Job "supervise_periodiquement (trigger: interval[0:00:05], next run at: 2023-11-10 16:34:33 CET)" raised an exception
+Traceback (most recent call last):
+  File "C:\Users\sybin\AppData\Local\Programs\Python\Python39\lib\site-packages\apscheduler\executors\base.py", line 125, in run_job
+    retval = job.func(*job.args, **job.kwargs)
+  File "C:\Users\sybin\Desktop\flaskr_bilal\flaskr.py", line 143, in supervise_periodiquement
+    interoger_snmp()
+  File "C:\Users\sybin\Desktop\flaskr_bilal\flaskr.py", line 127, in interoger_snmp
+    return render_template('index.html', supervised_results=supervised_results)
+  File "C:\Users\sybin\AppData\Local\Programs\Python\Python39\lib\site-packages\flask\templating.py", line 150, in render_template
+    app = current_app._get_current_object()  # type: ignore[attr-defined]
+  File "C:\Users\sybin\AppData\Local\Programs\Python\Python39\lib\site-packages\werkzeug\local.py", line 508, in _get_current_object
+    raise RuntimeError(unbound_message) from None
+RuntimeError: Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+2023-11-10 16:34:33,138 [DEBUG] - Looking for jobs to run
+2023-11-10 16:34:33,138 [DEBUG] - Next wakeup is due at 2023-11-10 16:34:38.136354+01:00 (in 4.997727 seconds)
+2023-11-10 16:34:33,138 [INFO] - Running job "supervise_periodiquement (trigger: interval[0:00:05], next run at: 2023-11-10 16:34:38 CET)" (scheduled at 2023-11-10 16:34:33.136354+01:00)
+2023-11-10 16:34:33,139 [INFO] - Supervision de l'équipement : Routeur1
+2023-11-10 16:34:33,288 [INFO] - Réponse de la sonde SNMP à 192.168.141.174: SNMPv2-SMI::mib-2.31.1.1.1.11.3 = 58390
+2023-11-10 16:34:33,290 [INFO] - Supervision de l'équipement : Routeur2
+2023-11-10 16:34:33,475 [INFO] - Réponse de la sonde SNMP à 192.168.141.179: SNMPv2-SMI::mib-2.31.1.1.1.11.1 = 1798
+2023-11-10 16:34:33,476 [INFO] - Supervision de l'équipement : Rw
+2023-11-10 16:34:33,642 [INFO] - Réponse de la sonde SNMP à 192.168.141.174: SNMPv2-SMI::mib-2.31.1.1.1.11.1 = 1798
+2023-11-10 16:34:33,644 [INFO] - Résultats de supervision : [{'name': 'Routeur1', 'value': '58390'}, {'name': 'Routeur2', 'value': '1798'}, {'name': 'Rw', 'value': '1798'}]
+2023-11-10 16:34:33,645 [ERROR] - Job "supervise_periodiquement (trigger: interval[0:00:05], next run at: 2023-11-10 16:34:38 CET)" raised an exception
+Traceback (most recent call last):
+  File "C:\Users\sybin\AppData\Local\Programs\Python\Python39\lib\site-packages\apscheduler\executors\base.py", line 125, in run_job
+    retval = job.func(*job.args, **job.kwargs)
+  File "C:\Users\sybin\Desktop\flaskr_bilal\flaskr.py", line 143, in supervise_periodiquement
+    interoger_snmp()
+  File "C:\Users\sybin\Desktop\flaskr_bilal\flaskr.py", line 127, in interoger_snmp
+    return render_template('index.html', supervised_results=supervised_results)
+  File "C:\Users\sybin\AppData\Local\Programs\Python\Python39\lib\site-packages\flask\templating.py", line 150, in render_template
+    app = current_app._get_current_object()  # type: ignore[attr-defined]
+  File "C:\Users\sybin\AppData\Local\Programs\Python\Python39\lib\site-packages\werkzeug\local.py", line 508, in _get_current_object
+    raise RuntimeError(unbound_message) from None
+RuntimeError: Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+2023-11-10 16:34:38,138 [DEBUG] - Looking for jobs to run
+2023-11-10 16:34:38,138 [DEBUG] - Next wakeup is due at 2023-11-10 16:34:43.136354+01:00 (in 4.998154 seconds)
+2023-11-10 16:34:38,138 [INFO] - Running job "supervise_periodiquement (trigger: interval[0:00:05], next run at: 2023-11-10 16:34:43 CET)" (scheduled at 2023-11-10 16:34:38.136354+01:00)
+2023-11-10 16:34:38,139 [INFO] - Supervision de l'équipement : Routeur1
+2023-11-10 16:34:38,225 [INFO] - Réponse de la sonde SNMP à 192.168.141.174: SNMPv2-SMI::mib-2.31.1.1.1.11.3 = 58427
+2023-11-10 16:34:38,225 [INFO] - Supervision de l'équipement : Routeur2
+2023-11-10 16:34:38,305 [INFO] - Réponse de la sonde SNMP à 192.168.141.179: SNMPv2-SMI::mib-2.31.1.1.1.11.1 = 1799
+2023-11-10 16:34:38,306 [INFO] - Supervision de l'équipement : Rw
+2023-11-10 16:34:38,405 [INFO] - Réponse de la sonde SNMP à 192.168.141.174: SNMPv2-SMI::mib-2.31.1.1.1.11.1 = 1799
+2023-11-10 16:34:38,406 [INFO] - Résultats de supervision : [{'name': 'Routeur1', 'value': '58427'}, {'name': 'Routeur2', 'value': '1799'}, {'name': 'Rw', 'value': '1799'}]
+2023-11-10 16:34:38,407 [ERROR] - Job "supervise_periodiquement (trigger: interval[0:00:05], next run at: 2023-11-10 16:34:43 CET)" raised an exception
+Traceback (most recent call last):
+  File "C:\Users\sybin\AppData\Local\Programs\Python\Python39\lib\site-packages\apscheduler\executors\base.py", line 125, in run_job
+    retval = job.func(*job.args, **job.kwargs)
+  File "C:\Users\sybin\Desktop\flaskr_bilal\flaskr.py", line 143, in supervise_periodiquement
+    interoger_snmp()
+  File "C:\Users\sybin\Desktop\flaskr_bilal\flaskr.py", line 127, in interoger_snmp
+    return render_template('index.html', supervised_results=supervised_results)
+  File "C:\Users\sybin\AppData\Local\Programs\Python\Python39\lib\site-packages\flask\templating.py", line 150, in render_template
+    app = current_app._get_current_object()  # type: ignore[attr-defined]
+  File "C:\Users\sybin\AppData\Local\Programs\Python\Python39\lib\site-packages\werkzeug\local.py", line 508, in _get_current_object
+    raise RuntimeError(unbound_message) from None
+RuntimeError: Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+2023-11-10 16:34:43,138 [DEBUG] - Looking for jobs to run
+2023-11-10 16:34:43,138 [DEBUG] - Next wakeup is due at 2023-11-10 16:34:48.136354+01:00 (in 4.997442 seconds)
+2023-11-10 16:34:43,139 [INFO] - Running job "supervise_periodiquement (trigger: interval[0:00:05], next run at: 2023-11-10 16:34:48 CET)" (scheduled at 2023-11-10 16:34:43.136354+01:00)
+2023-11-10 16:34:43,139 [INFO] - Supervision de l'équipement : Routeur1
+2023-11-10 16:34:43,249 [INFO] - Réponse de la sonde SNMP à 192.168.141.174: SNMPv2-SMI::mib-2.31.1.1.1.11.3 = 58464
+2023-11-10 16:34:43,250 [INFO] - Supervision de l'équipement : Routeur2
+2023-11-10 16:34:43,351 [INFO] - Réponse de la sonde SNMP à 192.168.141.179: SNMPv2-SMI::mib-2.31.1.1.1.11.1 = 1805
+2023-11-10 16:34:43,352 [INFO] - Supervision de l'équipement : Rw
+2023-11-10 16:34:43,473 [INFO] - Réponse de la sonde SNMP à 192.168.141.174: SNMPv2-SMI::mib-2.31.1.1.1.11.1 = 1805
+2023-11-10 16:34:43,474 [INFO] - Résultats de supervision : [{'name': 'Routeur1', 'value': '58464'}, {'name': 'Routeur2', 'value': '1805'}, {'name': 'Rw', 'value': '1805'}]
+2023-11-10 16:34:43,475 [ERROR] - Job "supervise_periodiquement (trigger: interval[0:00:05], next run at: 2023-11-10 16:34:48 CET)" raised an exception
+Traceback (most recent call last):
+  File "C:\Users\sybin\AppData\Local\Programs\Python\Python39\lib\site-packages\apscheduler\executors\base.py", line 125, in run_job
+    retval = job.func(*job.args, **job.kwargs)
+  File "C:\Users\sybin\Desktop\flaskr_bilal\flaskr.py", line 143, in supervise_periodiquement
+    interoger_snmp()
+  File "C:\Users\sybin\Desktop\flaskr_bilal\flaskr.py", line 127, in interoger_snmp
+    return render_template('index.html', supervised_results=supervised_results)
+  File "C:\Users\sybin\AppData\Local\Programs\Python\Python39\lib\site-packages\flask\templating.py", line 150, in render_template
+    app = current_app._get_current_object()  # type: ignore[attr-defined]
+  File "C:\Users\sybin\AppData\Local\Programs\Python\Python39\lib\site-packages\werkzeug\local.py", line 508, in _get_current_object
+    raise RuntimeError(unbound_message) from None
+RuntimeError: Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+2023-11-10 16:34:48,138 [DEBUG] - Looking for jobs to run
+2023-11-10 16:34:48,138 [DEBUG] - Next wakeup is due at 2023-11-10 16:34:53.136354+01:00 (in 4.997969 seconds)
+2023-11-10 16:34:48,139 [INFO] - Running job "supervise_periodiquement (trigger: interval[0:00:05], next run at: 2023-11-10 16:34:53 CET)" (scheduled at 2023-11-10 16:34:48.136354+01:00)
+2023-11-10 16:34:48,139 [INFO] - Supervision de l'équipement : Routeur1
+2023-11-10 16:34:48,227 [INFO] - Réponse de la sonde SNMP à 192.168.141.174: SNMPv2-SMI::mib-2.31.1.1.1.11.3 = 58502
+2023-11-10 16:34:48,229 [INFO] - Supervision de l'équipement : Routeur2
+2023-11-10 16:34:48,321 [INFO] - Réponse de la sonde SNMP à 192.168.141.179: SNMPv2-SMI::mib-2.31.1.1.1.11.1 = 1806
+2023-11-10 16:34:48,322 [INFO] - Supervision de l'équipement : Rw
+2023-11-10 16:34:48,413 [INFO] - Réponse de la sonde SNMP à 192.168.141.174: SNMPv2-SMI::mib-2.31.1.1.1.11.1 = 1806
+2023-11-10 16:34:48,414 [INFO] - Résultats de supervision : [{'name': 'Routeur1', 'value': '58502'}, {'name': 'Routeur2', 'value': '1806'}, {'name': 'Rw', 'value': '1806'}]
+2023-11-10 16:34:48,415 [ERROR] - Job "supervise_periodiquement (trigger: interval[0:00:05], next run at: 2023-11-10 16:34:53 CET)" raised an exception
+Traceback (most recent call last):
+  File "C:\Users\sybin\AppData\Local\Programs\Python\Python39\lib\site-packages\apscheduler\executors\base.py", line 125, in run_job
+    retval = job.func(*job.args, **job.kwargs)
+  File "C:\Users\sybin\Desktop\flaskr_bilal\flaskr.py", line 143, in supervise_periodiquement
+    interoger_snmp()
+  File "C:\Users\sybin\Desktop\flaskr_bilal\flaskr.py", line 127, in interoger_snmp
+    return render_template('index.html', supervised_results=supervised_results)
+  File "C:\Users\sybin\AppData\Local\Programs\Python\Python39\lib\site-packages\flask\templating.py", line 150, in render_template
+    app = current_app._get_current_object()  # type: ignore[attr-defined]
+  File "C:\Users\sybin\AppData\Local\Programs\Python\Python39\lib\site-packages\werkzeug\local.py", line 508, in _get_current_object
+    raise RuntimeError(unbound_message) from None
+RuntimeError: Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+2023-11-10 16:34:53,137 [DEBUG] - Looking for jobs to run
+2023-11-10 16:34:53,137 [DEBUG] - Next wakeup is due at 2023-11-10 16:34:58.136354+01:00 (in 4.998696 seconds)
+2023-11-10 16:34:53,138 [INFO] - Running job "supervise_periodiquement (trigger: interval[0:00:05], next run at: 2023-11-10 16:34:58 CET)" (scheduled at 2023-11-10 16:34:53.136354+01:00)
+2023-11-10 16:34:53,138 [INFO] - Supervision de l'équipement : Routeur1
+2023-11-10 16:34:53,251 [INFO] - Réponse de la sonde SNMP à 192.168.141.174: SNMPv2-SMI::mib-2.31.1.1.1.11.3 = 58538
+2023-11-10 16:34:53,253 [INFO] - Supervision de l'équipement : Routeur2
+2023-11-10 16:34:53,344 [INFO] - Réponse de la sonde SNMP à 192.168.141.179: SNMPv2-SMI::mib-2.31.1.1.1.11.1 = 1806
+2023-11-10 16:34:53,345 [INFO] - Supervision de l'équipement : Rw
+2023-11-10 16:34:53,436 [INFO] - Réponse de la sonde SNMP à 192.168.141.174: SNMPv2-SMI::mib-2.31.1.1.1.11.1 = 1806
+2023-11-10 16:34:53,437 [INFO] - Résultats de supervision : [{'name': 'Routeur1', 'value': '58538'}, {'name': 'Routeur2', 'value': '1806'}, {'name': 'Rw', 'value': '1806'}]
+2023-11-10 16:34:53,438 [ERROR] - Job "supervise_periodiquement (trigger: interval[0:00:05], next run at: 2023-11-10 16:34:58 CET)" raised an exception
+Traceback (most recent call last):
+  File "C:\Users\sybin\AppData\Local\Programs\Python\Python39\lib\site-packages\apscheduler\executors\base.py", line 125, in run_job
+    retval = job.func(*job.args, **job.kwargs)
+  File "C:\Users\sybin\Desktop\flaskr_bilal\flaskr.py", line 143, in supervise_periodiquement
+    interoger_snmp()
+  File "C:\Users\sybin\Desktop\flaskr_bilal\flaskr.py", line 127, in interoger_snmp
+    return render_template('index.html', supervised_results=supervised_results)
+  File "C:\Users\sybin\AppData\Local\Programs\Python\Python39\lib\site-packages\flask\templating.py", line 150, in render_template
+    app = current_app._get_current_object()  # type: ignore[attr-defined]
+  File "C:\Users\sybin\AppData\Local\Programs\Python\Python39\lib\site-packages\werkzeug\local.py", line 508, in _get_current_object
+    raise RuntimeError(unbound_message) from None
+RuntimeError: Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+2023-11-10 16:34:58,138 [DEBUG] - Looking for jobs to run
+2023-11-10 16:34:58,138 [DEBUG] - Next wakeup is due at 2023-11-10 16:35:03.136354+01:00 (in 4.998121 seconds)
+2023-11-10 16:34:58,138 [INFO] - Running job "supervise_periodiquement (trigger: interval[0:00:05], next run at: 2023-11-10 16:35:03 CET)" (scheduled at 2023-11-10 16:34:58.136354+01:00)
+2023-11-10 16:34:58,139 [INFO] - Supervision de l'équipement : Routeur1
+2023-11-10 16:34:58,254 [INFO] - Réponse de la sonde SNMP à 192.168.141.174: SNMPv2-SMI::mib-2.31.1.1.1.11.3 = 58580
+2023-11-10 16:34:58,255 [INFO] - Supervision de l'équipement : Routeur2
+2023-11-10 16:34:58,354 [INFO] - Réponse de la sonde SNMP à 192.168.141.179: SNMPv2-SMI::mib-2.31.1.1.1.11.1 = 1812
+2023-11-10 16:34:58,355 [INFO] - Supervision de l'équipement : Rw
+2023-11-10 16:34:58,458 [INFO] - Réponse de la sonde SNMP à 192.168.141.174: SNMPv2-SMI::mib-2.31.1.1.1.11.1 = 1812
+2023-11-10 16:34:58,459 [INFO] - Résultats de supervision : [{'name': 'Routeur1', 'value': '58580'}, {'name': 'Routeur2', 'value': '1812'}, {'name': 'Rw', 'value': '1812'}]
+2023-11-10 16:34:58,459 [ERROR] - Job "supervise_periodiquement (trigger: interval[0:00:05], next run at: 2023-11-10 16:35:03 CET)" raised an exception
+Traceback (most recent call last):
+  File "C:\Users\sybin\AppData\Local\Programs\Python\Python39\lib\site-packages\apscheduler\executors\base.py", line 125, in run_job
+    retval = job.func(*job.args, **job.kwargs)
+  File "C:\Users\sybin\Desktop\flaskr_bilal\flaskr.py", line 143, in supervise_periodiquement
+    interoger_snmp()
+  File "C:\Users\sybin\Desktop\flaskr_bilal\flaskr.py", line 127, in interoger_snmp
+    return render_template('index.html', supervised_results=supervised_results)
+  File "C:\Users\sybin\AppData\Local\Programs\Python\Python39\lib\site-packages\flask\templating.py", line 150, in render_template
+    app = current_app._get_current_object()  # type: ignore[attr-defined]
+  File "C:\Users\sybin\AppData\Local\Programs\Python\Python39\lib\site-packages\werkzeug\local.py", line 508, in _get_current_object
+    raise RuntimeError(unbound_message) from None
+RuntimeError: Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+2023-11-10 16:35:02,854 [INFO] - 127.0.0.1 - - [10/Nov/2023 16:35:02] "GET / HTTP/1.1" 200 -
+2023-11-10 16:35:03,138 [DEBUG] - Looking for jobs to run
+2023-11-10 16:35:03,138 [DEBUG] - Next wakeup is due at 2023-11-10 16:35:08.136354+01:00 (in 4.998087 seconds)
+2023-11-10 16:35:03,138 [INFO] - Running job "supervise_periodiquement (trigger: interval[0:00:05], next run at: 2023-11-10 16:35:08 CET)" (scheduled at 2023-11-10 16:35:03.136354+01:00)
+2023-11-10 16:35:03,139 [INFO] - Supervision de l'équipement : Routeur1
+2023-11-10 16:35:03,236 [INFO] - Réponse de la sonde SNMP à 192.168.141.174: SNMPv2-SMI::mib-2.31.1.1.1.11.3 = 58623
+2023-11-10 16:35:03,237 [INFO] - Supervision de l'équipement : Routeur2
+2023-11-10 16:35:03,360 [INFO] - Réponse de la sonde SNMP à 192.168.141.179: SNMPv2-SMI::mib-2.31.1.1.1.11.1 = 1812
+2023-11-10 16:35:03,361 [INFO] - Supervision de l'équipement : Rw
+2023-11-10 16:35:03,464 [INFO] - Réponse de la sonde SNMP à 192.168.141.174: SNMPv2-SMI::mib-2.31.1.1.1.11.1 = 1812
+2023-11-10 16:35:03,466 [INFO] - Résultats de supervision : [{'name': 'Routeur1', 'value': '58623'}, {'name': 'Routeur2', 'value': '1812'}, {'name': 'Rw', 'value': '1812'}]
+2023-11-10 16:35:03,466 [ERROR] - Job "supervise_periodiquement (trigger: interval[0:00:05], next run at: 2023-11-10 16:35:08 CET)" raised an exception
+Traceback (most recent call last):
+  File "C:\Users\sybin\AppData\Local\Programs\Python\Python39\lib\site-packages\apscheduler\executors\base.py", line 125, in run_job
+    retval = job.func(*job.args, **job.kwargs)
+  File "C:\Users\sybin\Desktop\flaskr_bilal\flaskr.py", line 143, in supervise_periodiquement
+    interoger_snmp()
+  File "C:\Users\sybin\Desktop\flaskr_bilal\flaskr.py", line 127, in interoger_snmp
+    return render_template('index.html', supervised_results=supervised_results)
+  File "C:\Users\sybin\AppData\Local\Programs\Python\Python39\lib\site-packages\flask\templating.py", line 150, in render_template
+    app = current_app._get_current_object()  # type: ignore[attr-defined]
+  File "C:\Users\sybin\AppData\Local\Programs\Python\Python39\lib\site-packages\werkzeug\local.py", line 508, in _get_current_object
+    raise RuntimeError(unbound_message) from None
+RuntimeError: Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+2023-11-10 16:35:04,639 [INFO] - Supervision de l'équipement : Routeur1
+2023-11-10 16:35:04,803 [INFO] - Réponse de la sonde SNMP à 192.168.141.174: SNMPv2-SMI::mib-2.31.1.1.1.11.3 = 58640
+2023-11-10 16:35:04,804 [INFO] - Supervision de l'équipement : Routeur2
+2023-11-10 16:35:04,972 [INFO] - Réponse de la sonde SNMP à 192.168.141.179: SNMPv2-SMI::mib-2.31.1.1.1.11.1 = 1813
+2023-11-10 16:35:04,973 [INFO] - Supervision de l'équipement : Rw
+2023-11-10 16:35:05,150 [INFO] - Réponse de la sonde SNMP à 192.168.141.174: SNMPv2-SMI::mib-2.31.1.1.1.11.1 = 1813
+2023-11-10 16:35:05,151 [INFO] - Résultats de supervision : [{'name': 'Routeur1', 'value': '58640'}, {'name': 'Routeur2', 'value': '1813'}, {'name': 'Rw', 'value': '1813'}]
+2023-11-10 16:35:05,152 [INFO] - 127.0.0.1 - - [10/Nov/2023 16:35:05] "GET /interoger HTTP/1.1" 200 -
+2023-11-10 16:35:07,261 [INFO] - Scheduler has been shut down
+2023-11-10 16:35:07,261 [DEBUG] - Looking for jobs to run
+2023-11-10 16:35:07,261 [DEBUG] - No jobs; waiting until a job is added
+2023-11-10 16:35:07,263 [INFO] - 127.0.0.1 - - [10/Nov/2023 16:35:07] "[32mPOST /arreter_supervision HTTP/1.1[0m" 302 -
+2023-11-10 16:35:07,268 [INFO] - 127.0.0.1 - - [10/Nov/2023 16:35:07] "GET / HTTP/1.1" 200 -
+2023-11-10 16:35:11,620 [INFO] - 127.0.0.1 - - [10/Nov/2023 16:35:11] "GET /logs HTTP/1.1" 200 -
+2023-11-10 16:35:37,641 [INFO] - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5001
+2023-11-10 16:35:37,641 [INFO] - [33mPress CTRL+C to quit[0m
+2023-11-10 16:35:37,642 [INFO] -  * Restarting with stat
+2023-11-10 16:35:40,121 [INFO] - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-11-10 16:35:40,122 [INFO] - [33mPress CTRL+C to quit[0m
+2023-11-10 16:35:41,635 [INFO] - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5001
+2023-11-10 16:35:41,636 [INFO] - [33mPress CTRL+C to quit[0m
+2023-11-10 16:35:41,638 [INFO] -  * Restarting with stat
+2023-11-10 16:35:47,069 [DEBUG] - Looking for jobs to run
+2023-11-10 16:35:47,070 [INFO] - Running job "supervise_periodiquement (trigger: interval[0:00:05], next run at: 2023-11-10 16:35:47 CET)" (scheduled at 2023-11-10 16:35:47.068007+01:00)
+2023-11-10 16:35:47,070 [DEBUG] - Next wakeup is due at 2023-11-10 16:35:52.068007+01:00 (in 4.997058 seconds)
+2023-11-10 16:35:47,070 [INFO] - Supervision de l'équipement : Routeur1
+2023-11-10 16:35:47,181 [INFO] - Réponse de la sonde SNMP à 192.168.141.174: SNMPv2-SMI::mib-2.31.1.1.1.11.3 = 58940
+2023-11-10 16:35:47,182 [INFO] - Supervision de l'équipement : Routeur2
+2023-11-10 16:35:47,280 [INFO] - Réponse de la sonde SNMP à 192.168.141.179: SNMPv2-SMI::mib-2.31.1.1.1.11.1 = 1836
+2023-11-10 16:35:47,281 [INFO] - Supervision de l'équipement : Rw
+2023-11-10 16:35:47,379 [INFO] - Réponse de la sonde SNMP à 192.168.141.174: SNMPv2-SMI::mib-2.31.1.1.1.11.1 = 1836
+2023-11-10 16:35:47,380 [INFO] - Résultats de supervision : [{'name': 'Routeur1', 'value': '58940'}, {'name': 'Routeur2', 'value': '1836'}, {'name': 'Rw', 'value': '1836'}]
+2023-11-10 16:35:47,381 [ERROR] - Job "supervise_periodiquement (trigger: interval[0:00:05], next run at: 2023-11-10 16:35:52 CET)" raised an exception
+Traceback (most recent call last):
+  File "C:\Users\sybin\AppData\Local\Programs\Python\Python39\lib\site-packages\apscheduler\executors\base.py", line 125, in run_job
+    retval = job.func(*job.args, **job.kwargs)
+  File "C:\Users\sybin\Desktop\flaskr_bilal\flaskr.py", line 143, in supervise_periodiquement
+    interoger_snmp()
+  File "C:\Users\sybin\Desktop\flaskr_bilal\flaskr.py", line 127, in interoger_snmp
+    return render_template('index.html', supervised_results=supervised_results)
+  File "C:\Users\sybin\AppData\Local\Programs\Python\Python39\lib\site-packages\flask\templating.py", line 150, in render_template
+    app = current_app._get_current_object()  # type: ignore[attr-defined]
+  File "C:\Users\sybin\AppData\Local\Programs\Python\Python39\lib\site-packages\werkzeug\local.py", line 508, in _get_current_object
+    raise RuntimeError(unbound_message) from None
+RuntimeError: Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+2023-11-10 16:35:52,070 [DEBUG] - Looking for jobs to run
+2023-11-10 16:35:52,070 [DEBUG] - Next wakeup is due at 2023-11-10 16:35:57.068007+01:00 (in 4.997496 seconds)
+2023-11-10 16:35:52,070 [INFO] - Running job "supervise_periodiquement (trigger: interval[0:00:05], next run at: 2023-11-10 16:35:57 CET)" (scheduled at 2023-11-10 16:35:52.068007+01:00)
+2023-11-10 16:35:52,071 [INFO] - Supervision de l'équipement : Routeur1
+2023-11-10 16:35:52,182 [INFO] - Réponse de la sonde SNMP à 192.168.141.174: SNMPv2-SMI::mib-2.31.1.1.1.11.3 = 58976
+2023-11-10 16:35:52,183 [INFO] - Supervision de l'équipement : Routeur2
+2023-11-10 16:35:52,271 [INFO] - Réponse de la sonde SNMP à 192.168.141.179: SNMPv2-SMI::mib-2.31.1.1.1.11.1 = 1836
+2023-11-10 16:35:52,272 [INFO] - Supervision de l'équipement : Rw
+2023-11-10 16:35:52,366 [INFO] - Réponse de la sonde SNMP à 192.168.141.174: SNMPv2-SMI::mib-2.31.1.1.1.11.1 = 1836
+2023-11-10 16:35:52,368 [INFO] - Résultats de supervision : [{'name': 'Routeur1', 'value': '58976'}, {'name': 'Routeur2', 'value': '1836'}, {'name': 'Rw', 'value': '1836'}]
+2023-11-10 16:35:52,368 [ERROR] - Job "supervise_periodiquement (trigger: interval[0:00:05], next run at: 2023-11-10 16:35:57 CET)" raised an exception
+Traceback (most recent call last):
+  File "C:\Users\sybin\AppData\Local\Programs\Python\Python39\lib\site-packages\apscheduler\executors\base.py", line 125, in run_job
+    retval = job.func(*job.args, **job.kwargs)
+  File "C:\Users\sybin\Desktop\flaskr_bilal\flaskr.py", line 143, in supervise_periodiquement
+    interoger_snmp()
+  File "C:\Users\sybin\Desktop\flaskr_bilal\flaskr.py", line 127, in interoger_snmp
+    return render_template('index.html', supervised_results=supervised_results)
+  File "C:\Users\sybin\AppData\Local\Programs\Python\Python39\lib\site-packages\flask\templating.py", line 150, in render_template
+    app = current_app._get_current_object()  # type: ignore[attr-defined]
+  File "C:\Users\sybin\AppData\Local\Programs\Python\Python39\lib\site-packages\werkzeug\local.py", line 508, in _get_current_object
+    raise RuntimeError(unbound_message) from None
+RuntimeError: Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+2023-11-10 16:35:57,069 [DEBUG] - Looking for jobs to run
+2023-11-10 16:35:57,069 [DEBUG] - Next wakeup is due at 2023-11-10 16:36:02.068007+01:00 (in 4.998930 seconds)
+2023-11-10 16:35:57,069 [INFO] - Running job "supervise_periodiquement (trigger: interval[0:00:05], next run at: 2023-11-10 16:36:02 CET)" (scheduled at 2023-11-10 16:35:57.068007+01:00)
+2023-11-10 16:35:57,070 [INFO] - Supervision de l'équipement : Routeur1
+2023-11-10 16:35:57,168 [INFO] - Réponse de la sonde SNMP à 192.168.141.174: SNMPv2-SMI::mib-2.31.1.1.1.11.3 = 59021
+2023-11-10 16:35:57,169 [INFO] - Supervision de l'équipement : Routeur2
+2023-11-10 16:35:57,296 [INFO] - Réponse de la sonde SNMP à 192.168.141.179: SNMPv2-SMI::mib-2.31.1.1.1.11.1 = 1837
+2023-11-10 16:35:57,297 [INFO] - Supervision de l'équipement : Rw
+2023-11-10 16:35:57,385 [INFO] - Réponse de la sonde SNMP à 192.168.141.174: SNMPv2-SMI::mib-2.31.1.1.1.11.1 = 1837
+2023-11-10 16:35:57,386 [INFO] - Résultats de supervision : [{'name': 'Routeur1', 'value': '59021'}, {'name': 'Routeur2', 'value': '1837'}, {'name': 'Rw', 'value': '1837'}]
+2023-11-10 16:35:57,387 [ERROR] - Job "supervise_periodiquement (trigger: interval[0:00:05], next run at: 2023-11-10 16:36:02 CET)" raised an exception
+Traceback (most recent call last):
+  File "C:\Users\sybin\AppData\Local\Programs\Python\Python39\lib\site-packages\apscheduler\executors\base.py", line 125, in run_job
+    retval = job.func(*job.args, **job.kwargs)
+  File "C:\Users\sybin\Desktop\flaskr_bilal\flaskr.py", line 143, in supervise_periodiquement
+    interoger_snmp()
+  File "C:\Users\sybin\Desktop\flaskr_bilal\flaskr.py", line 127, in interoger_snmp
+    return render_template('index.html', supervised_results=supervised_results)
+  File "C:\Users\sybin\AppData\Local\Programs\Python\Python39\lib\site-packages\flask\templating.py", line 150, in render_template
+    app = current_app._get_current_object()  # type: ignore[attr-defined]
+  File "C:\Users\sybin\AppData\Local\Programs\Python\Python39\lib\site-packages\werkzeug\local.py", line 508, in _get_current_object
+    raise RuntimeError(unbound_message) from None
+RuntimeError: Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+2023-11-10 16:36:02,069 [DEBUG] - Looking for jobs to run
+2023-11-10 16:36:02,069 [DEBUG] - Next wakeup is due at 2023-11-10 16:36:07.068007+01:00 (in 4.998969 seconds)
+2023-11-10 16:36:02,070 [INFO] - Running job "supervise_periodiquement (trigger: interval[0:00:05], next run at: 2023-11-10 16:36:07 CET)" (scheduled at 2023-11-10 16:36:02.068007+01:00)
+2023-11-10 16:36:02,070 [INFO] - Supervision de l'équipement : Routeur1
+2023-11-10 16:36:02,157 [INFO] - Réponse de la sonde SNMP à 192.168.141.174: SNMPv2-SMI::mib-2.31.1.1.1.11.3 = 59063
+2023-11-10 16:36:02,158 [INFO] - Supervision de l'équipement : Routeur2
+2023-11-10 16:36:02,266 [INFO] - Réponse de la sonde SNMP à 192.168.141.179: SNMPv2-SMI::mib-2.31.1.1.1.11.1 = 1842
+2023-11-10 16:36:02,267 [INFO] - Supervision de l'équipement : Rw
+2023-11-10 16:36:02,358 [INFO] - Réponse de la sonde SNMP à 192.168.141.174: SNMPv2-SMI::mib-2.31.1.1.1.11.1 = 1842
+2023-11-10 16:36:02,359 [INFO] - Résultats de supervision : [{'name': 'Routeur1', 'value': '59063'}, {'name': 'Routeur2', 'value': '1842'}, {'name': 'Rw', 'value': '1842'}]
+2023-11-10 16:36:02,360 [ERROR] - Job "supervise_periodiquement (trigger: interval[0:00:05], next run at: 2023-11-10 16:36:07 CET)" raised an exception
+Traceback (most recent call last):
+  File "C:\Users\sybin\AppData\Local\Programs\Python\Python39\lib\site-packages\apscheduler\executors\base.py", line 125, in run_job
+    retval = job.func(*job.args, **job.kwargs)
+  File "C:\Users\sybin\Desktop\flaskr_bilal\flaskr.py", line 143, in supervise_periodiquement
+    interoger_snmp()
+  File "C:\Users\sybin\Desktop\flaskr_bilal\flaskr.py", line 127, in interoger_snmp
+    return render_template('index.html', supervised_results=supervised_results)
+  File "C:\Users\sybin\AppData\Local\Programs\Python\Python39\lib\site-packages\flask\templating.py", line 150, in render_template
+    app = current_app._get_current_object()  # type: ignore[attr-defined]
+  File "C:\Users\sybin\AppData\Local\Programs\Python\Python39\lib\site-packages\werkzeug\local.py", line 508, in _get_current_object
+    raise RuntimeError(unbound_message) from None
+RuntimeError: Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+2023-11-10 16:36:07,069 [DEBUG] - Looking for jobs to run
+2023-11-10 16:36:07,070 [DEBUG] - Next wakeup is due at 2023-11-10 16:36:12.068007+01:00 (in 4.997663 seconds)
+2023-11-10 16:36:07,070 [INFO] - Running job "supervise_periodiquement (trigger: interval[0:00:05], next run at: 2023-11-10 16:36:12 CET)" (scheduled at 2023-11-10 16:36:07.068007+01:00)
+2023-11-10 16:36:07,071 [INFO] - Supervision de l'équipement : Routeur1
+2023-11-10 16:36:07,163 [INFO] - Réponse de la sonde SNMP à 192.168.141.174: SNMPv2-SMI::mib-2.31.1.1.1.11.3 = 59101
+2023-11-10 16:36:07,164 [INFO] - Supervision de l'équipement : Routeur2
+2023-11-10 16:36:07,278 [INFO] - Réponse de la sonde SNMP à 192.168.141.179: SNMPv2-SMI::mib-2.31.1.1.1.11.1 = 1843
+2023-11-10 16:36:07,279 [INFO] - Supervision de l'équipement : Rw
+2023-11-10 16:36:07,372 [INFO] - Réponse de la sonde SNMP à 192.168.141.174: SNMPv2-SMI::mib-2.31.1.1.1.11.1 = 1843
+2023-11-10 16:36:07,373 [INFO] - Résultats de supervision : [{'name': 'Routeur1', 'value': '59101'}, {'name': 'Routeur2', 'value': '1843'}, {'name': 'Rw', 'value': '1843'}]
+2023-11-10 16:36:07,373 [ERROR] - Job "supervise_periodiquement (trigger: interval[0:00:05], next run at: 2023-11-10 16:36:12 CET)" raised an exception
+Traceback (most recent call last):
+  File "C:\Users\sybin\AppData\Local\Programs\Python\Python39\lib\site-packages\apscheduler\executors\base.py", line 125, in run_job
+    retval = job.func(*job.args, **job.kwargs)
+  File "C:\Users\sybin\Desktop\flaskr_bilal\flaskr.py", line 143, in supervise_periodiquement
+    interoger_snmp()
+  File "C:\Users\sybin\Desktop\flaskr_bilal\flaskr.py", line 127, in interoger_snmp
+    return render_template('index.html', supervised_results=supervised_results)
+  File "C:\Users\sybin\AppData\Local\Programs\Python\Python39\lib\site-packages\flask\templating.py", line 150, in render_template
+    app = current_app._get_current_object()  # type: ignore[attr-defined]
+  File "C:\Users\sybin\AppData\Local\Programs\Python\Python39\lib\site-packages\werkzeug\local.py", line 508, in _get_current_object
+    raise RuntimeError(unbound_message) from None
+RuntimeError: Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+2023-11-10 16:36:11,581 [INFO] - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-11-10 16:36:11,581 [INFO] - [33mPress CTRL+C to quit[0m
+2023-11-10 16:36:12,068 [DEBUG] - Looking for jobs to run
+2023-11-10 16:36:12,069 [DEBUG] - Next wakeup is due at 2023-11-10 16:36:17.068007+01:00 (in 4.998375 seconds)
+2023-11-10 16:36:12,069 [INFO] - Running job "supervise_periodiquement (trigger: interval[0:00:05], next run at: 2023-11-10 16:36:17 CET)" (scheduled at 2023-11-10 16:36:12.068007+01:00)
+2023-11-10 16:36:12,070 [INFO] - Supervision de l'équipement : Routeur1
+2023-11-10 16:36:12,159 [INFO] - Réponse de la sonde SNMP à 192.168.141.174: SNMPv2-SMI::mib-2.31.1.1.1.11.3 = 59137
+2023-11-10 16:36:12,160 [INFO] - Supervision de l'équipement : Routeur2
+2023-11-10 16:36:12,246 [INFO] - Réponse de la sonde SNMP à 192.168.141.179: SNMPv2-SMI::mib-2.31.1.1.1.11.1 = 1843
+2023-11-10 16:36:12,247 [INFO] - Supervision de l'équipement : Rw
+2023-11-10 16:36:12,353 [INFO] - Réponse de la sonde SNMP à 192.168.141.174: SNMPv2-SMI::mib-2.31.1.1.1.11.1 = 1843
+2023-11-10 16:36:12,354 [INFO] - Résultats de supervision : [{'name': 'Routeur1', 'value': '59137'}, {'name': 'Routeur2', 'value': '1843'}, {'name': 'Rw', 'value': '1843'}]
+2023-11-10 16:36:12,354 [ERROR] - Job "supervise_periodiquement (trigger: interval[0:00:05], next run at: 2023-11-10 16:36:17 CET)" raised an exception
+Traceback (most recent call last):
+  File "C:\Users\sybin\AppData\Local\Programs\Python\Python39\lib\site-packages\apscheduler\executors\base.py", line 125, in run_job
+    retval = job.func(*job.args, **job.kwargs)
+  File "C:\Users\sybin\Desktop\flaskr_bilal\flaskr.py", line 143, in supervise_periodiquement
+    interoger_snmp()
+  File "C:\Users\sybin\Desktop\flaskr_bilal\flaskr.py", line 127, in interoger_snmp
+    return render_template('index.html', supervised_results=supervised_results)
+  File "C:\Users\sybin\AppData\Local\Programs\Python\Python39\lib\site-packages\flask\templating.py", line 150, in render_template
+    app = current_app._get_current_object()  # type: ignore[attr-defined]
+  File "C:\Users\sybin\AppData\Local\Programs\Python\Python39\lib\site-packages\werkzeug\local.py", line 508, in _get_current_object
+    raise RuntimeError(unbound_message) from None
+RuntimeError: Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+2023-11-10 16:36:16,573 [DEBUG] - Looking for jobs to run
+2023-11-10 16:36:16,574 [INFO] - Running job "supervise_periodiquement (trigger: interval[0:00:05], next run at: 2023-11-10 16:36:16 CET)" (scheduled at 2023-11-10 16:36:16.572315+01:00)
+2023-11-10 16:36:16,574 [DEBUG] - Next wakeup is due at 2023-11-10 16:36:21.572315+01:00 (in 4.997475 seconds)
+2023-11-10 16:36:16,574 [INFO] - Supervision de l'équipement : Routeur1
+2023-11-10 16:36:16,688 [INFO] - Réponse de la sonde SNMP à 192.168.141.174: SNMPv2-SMI::mib-2.31.1.1.1.11.3 = 59180
+2023-11-10 16:36:16,689 [INFO] - Supervision de l'équipement : Routeur2
+2023-11-10 16:36:16,781 [INFO] - Réponse de la sonde SNMP à 192.168.141.179: SNMPv2-SMI::mib-2.31.1.1.1.11.1 = 1848
+2023-11-10 16:36:16,781 [INFO] - Supervision de l'équipement : Rw
+2023-11-10 16:36:16,871 [INFO] - Réponse de la sonde SNMP à 192.168.141.174: SNMPv2-SMI::mib-2.31.1.1.1.11.1 = 1848
+2023-11-10 16:36:16,872 [INFO] - Résultats de supervision : [{'name': 'Routeur1', 'value': '59180'}, {'name': 'Routeur2', 'value': '1848'}, {'name': 'Rw', 'value': '1848'}]
+2023-11-10 16:36:16,873 [ERROR] - Job "supervise_periodiquement (trigger: interval[0:00:05], next run at: 2023-11-10 16:36:21 CET)" raised an exception
+Traceback (most recent call last):
+  File "C:\Users\sybin\AppData\Local\Programs\Python\Python39\lib\site-packages\apscheduler\executors\base.py", line 125, in run_job
+    retval = job.func(*job.args, **job.kwargs)
+  File "C:\Users\sybin\Desktop\flaskr_bilal\flaskr.py", line 143, in supervise_periodiquement
+    interoger_snmp()
+  File "C:\Users\sybin\Desktop\flaskr_bilal\flaskr.py", line 127, in interoger_snmp
+    return render_template('index.html', supervised_results=supervised_results)
+  File "C:\Users\sybin\AppData\Local\Programs\Python\Python39\lib\site-packages\flask\templating.py", line 150, in render_template
+    app = current_app._get_current_object()  # type: ignore[attr-defined]
+  File "C:\Users\sybin\AppData\Local\Programs\Python\Python39\lib\site-packages\werkzeug\local.py", line 508, in _get_current_object
+    raise RuntimeError(unbound_message) from None
+RuntimeError: Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+2023-11-10 16:36:17,069 [DEBUG] - Looking for jobs to run
+2023-11-10 16:36:17,069 [DEBUG] - Next wakeup is due at 2023-11-10 16:36:22.068007+01:00 (in 4.998044 seconds)
+2023-11-10 16:36:17,069 [INFO] - Running job "supervise_periodiquement (trigger: interval[0:00:05], next run at: 2023-11-10 16:36:22 CET)" (scheduled at 2023-11-10 16:36:17.068007+01:00)
+2023-11-10 16:36:17,070 [INFO] - Supervision de l'équipement : Routeur1
+2023-11-10 16:36:17,164 [INFO] - Réponse de la sonde SNMP à 192.168.141.174: SNMPv2-SMI::mib-2.31.1.1.1.11.3 = 59180
+2023-11-10 16:36:17,165 [INFO] - Supervision de l'équipement : Routeur2
+2023-11-10 16:36:17,255 [INFO] - Réponse de la sonde SNMP à 192.168.141.179: SNMPv2-SMI::mib-2.31.1.1.1.11.1 = 1848
+2023-11-10 16:36:17,256 [INFO] - Supervision de l'équipement : Rw
+2023-11-10 16:36:17,372 [INFO] - Réponse de la sonde SNMP à 192.168.141.174: SNMPv2-SMI::mib-2.31.1.1.1.11.1 = 1853
+2023-11-10 16:36:17,373 [INFO] - Résultats de supervision : [{'name': 'Routeur1', 'value': '59180'}, {'name': 'Routeur2', 'value': '1848'}, {'name': 'Rw', 'value': '1853'}]
+2023-11-10 16:36:17,373 [ERROR] - Job "supervise_periodiquement (trigger: interval[0:00:05], next run at: 2023-11-10 16:36:22 CET)" raised an exception
+Traceback (most recent call last):
+  File "C:\Users\sybin\AppData\Local\Programs\Python\Python39\lib\site-packages\apscheduler\executors\base.py", line 125, in run_job
+    retval = job.func(*job.args, **job.kwargs)
+  File "C:\Users\sybin\Desktop\flaskr_bilal\flaskr.py", line 143, in supervise_periodiquement
+    interoger_snmp()
+  File "C:\Users\sybin\Desktop\flaskr_bilal\flaskr.py", line 127, in interoger_snmp
+    return render_template('index.html', supervised_results=supervised_results)
+  File "C:\Users\sybin\AppData\Local\Programs\Python\Python39\lib\site-packages\flask\templating.py", line 150, in render_template
+    app = current_app._get_current_object()  # type: ignore[attr-defined]
+  File "C:\Users\sybin\AppData\Local\Programs\Python\Python39\lib\site-packages\werkzeug\local.py", line 508, in _get_current_object
+    raise RuntimeError(unbound_message) from None
+RuntimeError: Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+2023-11-10 16:36:21,573 [DEBUG] - Looking for jobs to run
+2023-11-10 16:36:21,574 [DEBUG] - Next wakeup is due at 2023-11-10 16:36:26.572315+01:00 (in 4.997481 seconds)
+2023-11-10 16:36:21,574 [INFO] - Running job "supervise_periodiquement (trigger: interval[0:00:05], next run at: 2023-11-10 16:36:26 CET)" (scheduled at 2023-11-10 16:36:21.572315+01:00)
+2023-11-10 16:36:21,575 [INFO] - Supervision de l'équipement : Routeur1
+2023-11-10 16:36:21,684 [INFO] - Réponse de la sonde SNMP à 192.168.141.174: SNMPv2-SMI::mib-2.31.1.1.1.11.3 = 59220
+2023-11-10 16:36:21,685 [INFO] - Supervision de l'équipement : Routeur2
+2023-11-10 16:36:21,775 [INFO] - Réponse de la sonde SNMP à 192.168.141.179: SNMPv2-SMI::mib-2.31.1.1.1.11.1 = 1858
+2023-11-10 16:36:21,777 [INFO] - Supervision de l'équipement : Rw
+2023-11-10 16:36:21,866 [INFO] - Réponse de la sonde SNMP à 192.168.141.174: SNMPv2-SMI::mib-2.31.1.1.1.11.1 = 1858
+2023-11-10 16:36:21,868 [INFO] - Résultats de supervision : [{'name': 'Routeur1', 'value': '59220'}, {'name': 'Routeur2', 'value': '1858'}, {'name': 'Rw', 'value': '1858'}]
+2023-11-10 16:36:21,868 [ERROR] - Job "supervise_periodiquement (trigger: interval[0:00:05], next run at: 2023-11-10 16:36:26 CET)" raised an exception
+Traceback (most recent call last):
+  File "C:\Users\sybin\AppData\Local\Programs\Python\Python39\lib\site-packages\apscheduler\executors\base.py", line 125, in run_job
+    retval = job.func(*job.args, **job.kwargs)
+  File "C:\Users\sybin\Desktop\flaskr_bilal\flaskr.py", line 143, in supervise_periodiquement
+    interoger_snmp()
+  File "C:\Users\sybin\Desktop\flaskr_bilal\flaskr.py", line 127, in interoger_snmp
+    return render_template('index.html', supervised_results=supervised_results)
+  File "C:\Users\sybin\AppData\Local\Programs\Python\Python39\lib\site-packages\flask\templating.py", line 150, in render_template
+    app = current_app._get_current_object()  # type: ignore[attr-defined]
+  File "C:\Users\sybin\AppData\Local\Programs\Python\Python39\lib\site-packages\werkzeug\local.py", line 508, in _get_current_object
+    raise RuntimeError(unbound_message) from None
+RuntimeError: Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+2023-11-10 16:36:22,070 [DEBUG] - Looking for jobs to run
+2023-11-10 16:36:22,070 [DEBUG] - Next wakeup is due at 2023-11-10 16:36:27.068007+01:00 (in 4.997780 seconds)
+2023-11-10 16:36:22,071 [INFO] - Running job "supervise_periodiquement (trigger: interval[0:00:05], next run at: 2023-11-10 16:36:27 CET)" (scheduled at 2023-11-10 16:36:22.068007+01:00)
+2023-11-10 16:36:22,072 [INFO] - Supervision de l'équipement : Routeur1
+2023-11-10 16:36:22,161 [INFO] - Réponse de la sonde SNMP à 192.168.141.174: SNMPv2-SMI::mib-2.31.1.1.1.11.3 = 59220
+2023-11-10 16:36:22,162 [INFO] - Supervision de l'équipement : Routeur2
+2023-11-10 16:36:22,251 [INFO] - Réponse de la sonde SNMP à 192.168.141.179: SNMPv2-SMI::mib-2.31.1.1.1.11.1 = 1858
+2023-11-10 16:36:22,252 [INFO] - Supervision de l'équipement : Rw
+2023-11-10 16:36:22,346 [INFO] - Réponse de la sonde SNMP à 192.168.141.174: SNMPv2-SMI::mib-2.31.1.1.1.11.1 = 1858
+2023-11-10 16:36:22,347 [INFO] - Résultats de supervision : [{'name': 'Routeur1', 'value': '59220'}, {'name': 'Routeur2', 'value': '1858'}, {'name': 'Rw', 'value': '1858'}]
+2023-11-10 16:36:22,348 [ERROR] - Job "supervise_periodiquement (trigger: interval[0:00:05], next run at: 2023-11-10 16:36:27 CET)" raised an exception
+Traceback (most recent call last):
+  File "C:\Users\sybin\AppData\Local\Programs\Python\Python39\lib\site-packages\apscheduler\executors\base.py", line 125, in run_job
+    retval = job.func(*job.args, **job.kwargs)
+  File "C:\Users\sybin\Desktop\flaskr_bilal\flaskr.py", line 143, in supervise_periodiquement
+    interoger_snmp()
+  File "C:\Users\sybin\Desktop\flaskr_bilal\flaskr.py", line 127, in interoger_snmp
+    return render_template('index.html', supervised_results=supervised_results)
+  File "C:\Users\sybin\AppData\Local\Programs\Python\Python39\lib\site-packages\flask\templating.py", line 150, in render_template
+    app = current_app._get_current_object()  # type: ignore[attr-defined]
+  File "C:\Users\sybin\AppData\Local\Programs\Python\Python39\lib\site-packages\werkzeug\local.py", line 508, in _get_current_object
+    raise RuntimeError(unbound_message) from None
+RuntimeError: Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+2023-11-10 16:36:26,573 [DEBUG] - Looking for jobs to run
+2023-11-10 16:36:26,574 [DEBUG] - Next wakeup is due at 2023-11-10 16:36:31.572315+01:00 (in 4.997422 seconds)
+2023-11-10 16:36:26,574 [INFO] - Running job "supervise_periodiquement (trigger: interval[0:00:05], next run at: 2023-11-10 16:36:31 CET)" (scheduled at 2023-11-10 16:36:26.572315+01:00)
+2023-11-10 16:36:26,575 [INFO] - Supervision de l'équipement : Routeur1
+2023-11-10 16:36:26,668 [INFO] - Réponse de la sonde SNMP à 192.168.141.174: SNMPv2-SMI::mib-2.31.1.1.1.11.3 = 59260
+2023-11-10 16:36:26,669 [INFO] - Supervision de l'équipement : Routeur2
+2023-11-10 16:36:26,781 [INFO] - Réponse de la sonde SNMP à 192.168.141.179: SNMPv2-SMI::mib-2.31.1.1.1.11.1 = 1859
+2023-11-10 16:36:26,782 [INFO] - Supervision de l'équipement : Rw
+2023-11-10 16:36:26,873 [INFO] - Réponse de la sonde SNMP à 192.168.141.174: SNMPv2-SMI::mib-2.31.1.1.1.11.1 = 1859
+2023-11-10 16:36:26,874 [INFO] - Résultats de supervision : [{'name': 'Routeur1', 'value': '59260'}, {'name': 'Routeur2', 'value': '1859'}, {'name': 'Rw', 'value': '1859'}]
+2023-11-10 16:36:26,875 [ERROR] - Job "supervise_periodiquement (trigger: interval[0:00:05], next run at: 2023-11-10 16:36:31 CET)" raised an exception
+Traceback (most recent call last):
+  File "C:\Users\sybin\AppData\Local\Programs\Python\Python39\lib\site-packages\apscheduler\executors\base.py", line 125, in run_job
+    retval = job.func(*job.args, **job.kwargs)
+  File "C:\Users\sybin\Desktop\flaskr_bilal\flaskr.py", line 143, in supervise_periodiquement
+    interoger_snmp()
+  File "C:\Users\sybin\Desktop\flaskr_bilal\flaskr.py", line 127, in interoger_snmp
+    return render_template('index.html', supervised_results=supervised_results)
+  File "C:\Users\sybin\AppData\Local\Programs\Python\Python39\lib\site-packages\flask\templating.py", line 150, in render_template
+    app = current_app._get_current_object()  # type: ignore[attr-defined]
+  File "C:\Users\sybin\AppData\Local\Programs\Python\Python39\lib\site-packages\werkzeug\local.py", line 508, in _get_current_object
+    raise RuntimeError(unbound_message) from None
+RuntimeError: Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+2023-11-10 16:36:27,069 [DEBUG] - Looking for jobs to run
+2023-11-10 16:36:27,070 [DEBUG] - Next wakeup is due at 2023-11-10 16:36:32.068007+01:00 (in 4.997611 seconds)
+2023-11-10 16:36:27,070 [INFO] - Running job "supervise_periodiquement (trigger: interval[0:00:05], next run at: 2023-11-10 16:36:32 CET)" (scheduled at 2023-11-10 16:36:27.068007+01:00)
+2023-11-10 16:36:27,071 [INFO] - Supervision de l'équipement : Routeur1
+2023-11-10 16:36:27,190 [INFO] - Réponse de la sonde SNMP à 192.168.141.174: SNMPv2-SMI::mib-2.31.1.1.1.11.3 = 59260
+2023-11-10 16:36:27,192 [INFO] - Supervision de l'équipement : Routeur2
+2023-11-10 16:36:27,287 [INFO] - Réponse de la sonde SNMP à 192.168.141.179: SNMPv2-SMI::mib-2.31.1.1.1.11.1 = 1859
+2023-11-10 16:36:27,288 [INFO] - Supervision de l'équipement : Rw
+2023-11-10 16:36:27,378 [INFO] - Réponse de la sonde SNMP à 192.168.141.174: SNMPv2-SMI::mib-2.31.1.1.1.11.1 = 1859
+2023-11-10 16:36:27,379 [INFO] - Résultats de supervision : [{'name': 'Routeur1', 'value': '59260'}, {'name': 'Routeur2', 'value': '1859'}, {'name': 'Rw', 'value': '1859'}]
+2023-11-10 16:36:27,380 [ERROR] - Job "supervise_periodiquement (trigger: interval[0:00:05], next run at: 2023-11-10 16:36:32 CET)" raised an exception
+Traceback (most recent call last):
+  File "C:\Users\sybin\AppData\Local\Programs\Python\Python39\lib\site-packages\apscheduler\executors\base.py", line 125, in run_job
+    retval = job.func(*job.args, **job.kwargs)
+  File "C:\Users\sybin\Desktop\flaskr_bilal\flaskr.py", line 143, in supervise_periodiquement
+    interoger_snmp()
+  File "C:\Users\sybin\Desktop\flaskr_bilal\flaskr.py", line 127, in interoger_snmp
+    return render_template('index.html', supervised_results=supervised_results)
+  File "C:\Users\sybin\AppData\Local\Programs\Python\Python39\lib\site-packages\flask\templating.py", line 150, in render_template
+    app = current_app._get_current_object()  # type: ignore[attr-defined]
+  File "C:\Users\sybin\AppData\Local\Programs\Python\Python39\lib\site-packages\werkzeug\local.py", line 508, in _get_current_object
+    raise RuntimeError(unbound_message) from None
+RuntimeError: Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+2023-11-10 16:36:31,574 [DEBUG] - Looking for jobs to run
+2023-11-10 16:36:31,575 [DEBUG] - Next wakeup is due at 2023-11-10 16:36:36.572315+01:00 (in 4.996557 seconds)
+2023-11-10 16:36:31,575 [INFO] - Running job "supervise_periodiquement (trigger: interval[0:00:05], next run at: 2023-11-10 16:36:36 CET)" (scheduled at 2023-11-10 16:36:31.572315+01:00)
+2023-11-10 16:36:31,576 [INFO] - Supervision de l'équipement : Routeur1
+2023-11-10 16:36:31,672 [INFO] - Réponse de la sonde SNMP à 192.168.141.174: SNMPv2-SMI::mib-2.31.1.1.1.11.3 = 59292
+2023-11-10 16:36:31,673 [INFO] - Supervision de l'équipement : Routeur2
+2023-11-10 16:36:31,791 [INFO] - Réponse de la sonde SNMP à 192.168.141.179: SNMPv2-SMI::mib-2.31.1.1.1.11.1 = 1859
+2023-11-10 16:36:31,792 [INFO] - Supervision de l'équipement : Rw
+2023-11-10 16:36:31,890 [INFO] - Réponse de la sonde SNMP à 192.168.141.174: SNMPv2-SMI::mib-2.31.1.1.1.11.1 = 1859
+2023-11-10 16:36:31,890 [INFO] - Résultats de supervision : [{'name': 'Routeur1', 'value': '59292'}, {'name': 'Routeur2', 'value': '1859'}, {'name': 'Rw', 'value': '1859'}]
+2023-11-10 16:36:31,890 [ERROR] - Job "supervise_periodiquement (trigger: interval[0:00:05], next run at: 2023-11-10 16:36:36 CET)" raised an exception
+Traceback (most recent call last):
+  File "C:\Users\sybin\AppData\Local\Programs\Python\Python39\lib\site-packages\apscheduler\executors\base.py", line 125, in run_job
+    retval = job.func(*job.args, **job.kwargs)
+  File "C:\Users\sybin\Desktop\flaskr_bilal\flaskr.py", line 143, in supervise_periodiquement
+    interoger_snmp()
+  File "C:\Users\sybin\Desktop\flaskr_bilal\flaskr.py", line 127, in interoger_snmp
+    return render_template('index.html', supervised_results=supervised_results)
+  File "C:\Users\sybin\AppData\Local\Programs\Python\Python39\lib\site-packages\flask\templating.py", line 150, in render_template
+    app = current_app._get_current_object()  # type: ignore[attr-defined]
+  File "C:\Users\sybin\AppData\Local\Programs\Python\Python39\lib\site-packages\werkzeug\local.py", line 508, in _get_current_object
+    raise RuntimeError(unbound_message) from None
+RuntimeError: Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+2023-11-10 16:36:32,070 [DEBUG] - Looking for jobs to run
+2023-11-10 16:36:32,070 [DEBUG] - Next wakeup is due at 2023-11-10 16:36:37.068007+01:00 (in 4.997686 seconds)
+2023-11-10 16:36:32,070 [INFO] - Running job "supervise_periodiquement (trigger: interval[0:00:05], next run at: 2023-11-10 16:36:37 CET)" (scheduled at 2023-11-10 16:36:32.068007+01:00)
+2023-11-10 16:36:32,071 [INFO] - Supervision de l'équipement : Routeur1
+2023-11-10 16:36:32,190 [INFO] - Réponse de la sonde SNMP à 192.168.141.174: SNMPv2-SMI::mib-2.31.1.1.1.11.3 = 59292
+2023-11-10 16:36:32,191 [INFO] - Supervision de l'équipement : Routeur2
+2023-11-10 16:36:32,284 [INFO] - Réponse de la sonde SNMP à 192.168.141.179: SNMPv2-SMI::mib-2.31.1.1.1.11.1 = 1859
+2023-11-10 16:36:32,285 [INFO] - Supervision de l'équipement : Rw
+2023-11-10 16:36:32,386 [INFO] - Réponse de la sonde SNMP à 192.168.141.174: SNMPv2-SMI::mib-2.31.1.1.1.11.1 = 1859
+2023-11-10 16:36:32,387 [INFO] - Résultats de supervision : [{'name': 'Routeur1', 'value': '59292'}, {'name': 'Routeur2', 'value': '1859'}, {'name': 'Rw', 'value': '1859'}]
+2023-11-10 16:36:32,388 [ERROR] - Job "supervise_periodiquement (trigger: interval[0:00:05], next run at: 2023-11-10 16:36:37 CET)" raised an exception
+Traceback (most recent call last):
+  File "C:\Users\sybin\AppData\Local\Programs\Python\Python39\lib\site-packages\apscheduler\executors\base.py", line 125, in run_job
+    retval = job.func(*job.args, **job.kwargs)
+  File "C:\Users\sybin\Desktop\flaskr_bilal\flaskr.py", line 143, in supervise_periodiquement
+    interoger_snmp()
+  File "C:\Users\sybin\Desktop\flaskr_bilal\flaskr.py", line 127, in interoger_snmp
+    return render_template('index.html', supervised_results=supervised_results)
+  File "C:\Users\sybin\AppData\Local\Programs\Python\Python39\lib\site-packages\flask\templating.py", line 150, in render_template
+    app = current_app._get_current_object()  # type: ignore[attr-defined]
+  File "C:\Users\sybin\AppData\Local\Programs\Python\Python39\lib\site-packages\werkzeug\local.py", line 508, in _get_current_object
+    raise RuntimeError(unbound_message) from None
+RuntimeError: Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+2023-11-10 16:36:36,573 [DEBUG] - Looking for jobs to run
+2023-11-10 16:36:36,574 [DEBUG] - Next wakeup is due at 2023-11-10 16:36:41.572315+01:00 (in 4.997701 seconds)
+2023-11-10 16:36:36,574 [INFO] - Running job "supervise_periodiquement (trigger: interval[0:00:05], next run at: 2023-11-10 16:36:41 CET)" (scheduled at 2023-11-10 16:36:36.572315+01:00)
+2023-11-10 16:36:36,575 [INFO] - Supervision de l'équipement : Routeur1
+2023-11-10 16:36:36,665 [INFO] - Réponse de la sonde SNMP à 192.168.141.174: SNMPv2-SMI::mib-2.31.1.1.1.11.3 = 59331
+2023-11-10 16:36:36,665 [WARNING] -  * Debugger is active!
+2023-11-10 16:36:36,665 [INFO] - Supervision de l'équipement : Routeur2
+2023-11-10 16:36:36,669 [INFO] -  * Debugger PIN: 884-336-623
+2023-11-10 16:36:36,820 [INFO] - Réponse de la sonde SNMP à 192.168.141.179: SNMPv2-SMI::mib-2.31.1.1.1.11.1 = 1860
+2023-11-10 16:36:36,821 [INFO] - Supervision de l'équipement : Rw
+2023-11-10 16:36:36,916 [INFO] - Réponse de la sonde SNMP à 192.168.141.174: SNMPv2-SMI::mib-2.31.1.1.1.11.1 = 1860
+2023-11-10 16:36:36,917 [INFO] - Résultats de supervision : [{'name': 'Routeur1', 'value': '59331'}, {'name': 'Routeur2', 'value': '1860'}, {'name': 'Rw', 'value': '1860'}]
+2023-11-10 16:36:36,917 [ERROR] - Job "supervise_periodiquement (trigger: interval[0:00:05], next run at: 2023-11-10 16:36:41 CET)" raised an exception
+Traceback (most recent call last):
+  File "C:\Users\sybin\AppData\Local\Programs\Python\Python39\lib\site-packages\apscheduler\executors\base.py", line 125, in run_job
+    retval = job.func(*job.args, **job.kwargs)
+  File "C:\Users\sybin\Desktop\flaskr_bilal\flaskr.py", line 143, in supervise_periodiquement
+    interoger_snmp()
+  File "C:\Users\sybin\Desktop\flaskr_bilal\flaskr.py", line 127, in interoger_snmp
+    return render_template('index.html', supervised_results=supervised_results)
+  File "C:\Users\sybin\AppData\Local\Programs\Python\Python39\lib\site-packages\flask\templating.py", line 150, in render_template
+    app = current_app._get_current_object()  # type: ignore[attr-defined]
+  File "C:\Users\sybin\AppData\Local\Programs\Python\Python39\lib\site-packages\werkzeug\local.py", line 508, in _get_current_object
+    raise RuntimeError(unbound_message) from None
+RuntimeError: Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+2023-11-10 16:51:28,021 [INFO] - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-11-10 16:51:28,021 [INFO] - [33mPress CTRL+C to quit[0m
+2023-11-10 16:51:35,045 [INFO] - 127.0.0.1 - - [10/Nov/2023 16:51:35] "GET / HTTP/1.1" 200 -
+2023-11-10 16:51:37,027 [INFO] - Supervision de l'équipement : Routeur1
+2023-11-10 16:51:38,618 [INFO] - Supervision de l'équipement : Routeur1
+2023-11-10 16:51:39,503 [INFO] - Supervision de l'équipement : Routeur1
+2023-11-10 16:51:42,722 [INFO] - 127.0.0.1 - - [10/Nov/2023 16:51:42] "GET /logs HTTP/1.1" 200 -
+2023-11-10 16:51:43,127 [ERROR] - Erreur lors de l'interrogation de la sonde SNMP à 192.168.141.174: No SNMP response received before timeout
+2023-11-10 16:51:43,128 [INFO] - Supervision de l'équipement : Routeur2
+2023-11-10 16:51:44,700 [ERROR] - Erreur lors de l'interrogation de la sonde SNMP à 192.168.141.174: No SNMP response received before timeout
+2023-11-10 16:51:44,701 [INFO] - Supervision de l'équipement : Routeur2
+2023-11-10 16:51:45,587 [ERROR] - Erreur lors de l'interrogation de la sonde SNMP à 192.168.141.174: No SNMP response received before timeout
+2023-11-10 16:51:45,588 [INFO] - Supervision de l'équipement : Routeur2
+2023-11-10 16:51:49,271 [ERROR] - Erreur lors de l'interrogation de la sonde SNMP à 192.168.141.179: No SNMP response received before timeout
+2023-11-10 16:51:49,272 [INFO] - Supervision de l'équipement : Rw
+2023-11-10 16:51:50,848 [ERROR] - Erreur lors de l'interrogation de la sonde SNMP à 192.168.141.179: No SNMP response received before timeout
+2023-11-10 16:51:50,849 [INFO] - Supervision de l'équipement : Rw
+2023-11-10 16:51:51,731 [ERROR] - Erreur lors de l'interrogation de la sonde SNMP à 192.168.141.179: No SNMP response received before timeout
+2023-11-10 16:51:51,732 [INFO] - Supervision de l'équipement : Rw
+2023-11-10 16:51:55,418 [ERROR] - Erreur lors de l'interrogation de la sonde SNMP à 192.168.141.174: No SNMP response received before timeout
+2023-11-10 16:51:55,419 [INFO] - Résultats de supervision : [{'name': 'Routeur1', 'value': None}, {'name': 'Routeur2', 'value': None}, {'name': 'Rw', 'value': None}]
+2023-11-10 16:51:55,421 [INFO] - 127.0.0.1 - - [10/Nov/2023 16:51:55] "GET /interoger HTTP/1.1" 200 -
+2023-11-10 16:51:56,999 [ERROR] - Erreur lors de l'interrogation de la sonde SNMP à 192.168.141.174: No SNMP response received before timeout
+2023-11-10 16:51:57,000 [INFO] - Résultats de supervision : [{'name': 'Routeur1', 'value': None}, {'name': 'Routeur2', 'value': None}, {'name': 'Rw', 'value': None}]
+2023-11-10 16:51:57,002 [INFO] - 127.0.0.1 - - [10/Nov/2023 16:51:57] "GET /interoger HTTP/1.1" 200 -
+2023-11-10 16:51:57,867 [ERROR] - Erreur lors de l'interrogation de la sonde SNMP à 192.168.141.174: No SNMP response received before timeout
+2023-11-10 16:51:57,868 [INFO] - Résultats de supervision : [{'name': 'Routeur1', 'value': None}, {'name': 'Routeur2', 'value': None}, {'name': 'Rw', 'value': None}]
+2023-11-10 16:51:57,869 [INFO] - 127.0.0.1 - - [10/Nov/2023 16:51:57] "GET /interoger HTTP/1.1" 200 -
+2023-11-10 17:06:00,746 [INFO] - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5001
+2023-11-10 17:06:00,747 [INFO] - [33mPress CTRL+C to quit[0m
+2023-11-10 17:06:00,750 [INFO] -  * Restarting with stat
+2023-11-10 17:06:04,648 [INFO] - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-11-10 17:06:04,648 [INFO] - [33mPress CTRL+C to quit[0m
+2023-11-10 17:06:08,819 [INFO] - 127.0.0.1 - - [10/Nov/2023 17:06:08] "GET / HTTP/1.1" 200 -
+2023-11-10 17:06:09,110 [INFO] - 127.0.0.1 - - [10/Nov/2023 17:06:09] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2023-11-10 17:06:13,873 [INFO] - Supervision de l'équipement : Routeur1
+2023-11-10 17:06:16,643 [INFO] - 127.0.0.1 - - [10/Nov/2023 17:06:16] "GET /logs HTTP/1.1" 200 -
+2023-11-10 17:06:20,079 [ERROR] - Erreur lors de l'interrogation de la sonde SNMP à 192.168.141.174: No SNMP response received before timeout
+2023-11-10 17:06:20,080 [INFO] - Supervision de l'équipement : Routeur2
+2023-11-10 17:06:26,329 [ERROR] - Erreur lors de l'interrogation de la sonde SNMP à 192.168.141.179: No SNMP response received before timeout
+2023-11-10 17:06:26,331 [INFO] - Supervision de l'équipement : Rw
+2023-11-10 17:06:26,597 [INFO] - 127.0.0.1 - - [10/Nov/2023 17:06:26] "GET /equipements HTTP/1.1" 200 -
+2023-11-10 17:06:30,905 [INFO] - 127.0.0.1 - - [10/Nov/2023 17:06:30] "GET /equipements/Rw/edit HTTP/1.1" 200 -
+2023-11-10 17:06:32,516 [ERROR] - Erreur lors de l'interrogation de la sonde SNMP à 192.168.141.174: No SNMP response received before timeout
+2023-11-10 17:06:32,518 [INFO] - Résultats de supervision : [{'name': 'Routeur1', 'value': None}, {'name': 'Routeur2', 'value': None}, {'name': 'Rw', 'value': None}]
+2023-11-10 17:06:32,520 [INFO] - 127.0.0.1 - - [10/Nov/2023 17:06:32] "GET /interoger HTTP/1.1" 200 -
+2023-11-10 17:07:12,551 [INFO] - 127.0.0.1 - - [10/Nov/2023 17:07:12] "[32mPOST /equipements/Rw/edit HTTP/1.1[0m" 302 -
+2023-11-10 17:07:12,557 [INFO] - 127.0.0.1 - - [10/Nov/2023 17:07:12] "GET /equipements HTTP/1.1" 200 -
+2023-11-10 17:07:24,393 [INFO] - 127.0.0.1 - - [10/Nov/2023 17:07:24] "GET /equipements/Routeur1/edit HTTP/1.1" 200 -
+2023-11-10 17:07:47,378 [INFO] - 127.0.0.1 - - [10/Nov/2023 17:07:47] "GET /equipements/Routeur1/edit HTTP/1.1" 200 -
+2023-11-10 17:08:12,763 [INFO] - 127.0.0.1 - - [10/Nov/2023 17:08:12] "[32mPOST /equipements/Routeur1/edit HTTP/1.1[0m" 302 -
+2023-11-10 17:08:12,768 [INFO] - 127.0.0.1 - - [10/Nov/2023 17:08:12] "GET /equipements HTTP/1.1" 200 -
+2023-11-10 17:08:19,049 [INFO] - 127.0.0.1 - - [10/Nov/2023 17:08:19] "GET / HTTP/1.1" 200 -
+2023-11-10 17:08:20,022 [INFO] - Supervision de l'équipement : Routeur1
+2023-11-10 17:08:20,120 [INFO] - Réponse de la sonde SNMP à 192.168.176.2: SNMPv2-SMI::dod = No Such Object currently exists at this OID
+2023-11-10 17:08:20,121 [INFO] - Supervision de l'équipement : Routeur2
+2023-11-10 17:08:21,696 [INFO] - 127.0.0.1 - - [10/Nov/2023 17:08:21] "GET /logs HTTP/1.1" 200 -
+2023-11-10 17:08:26,281 [ERROR] - Erreur lors de l'interrogation de la sonde SNMP à 192.168.141.179: No SNMP response received before timeout
+2023-11-10 17:08:26,283 [INFO] - Supervision de l'équipement : Rw
+2023-11-10 17:08:32,416 [ERROR] - Erreur lors de l'interrogation de la sonde SNMP à 192.168.140.140: No SNMP response received before timeout
+2023-11-10 17:08:32,418 [INFO] - Résultats de supervision : [{'name': 'Routeur1', 'value': 'No Such Object currently exists at this OID'}, {'name': 'Routeur2', 'value': None}, {'name': 'Rw', 'value': None}]
+2023-11-10 17:08:32,420 [INFO] - 127.0.0.1 - - [10/Nov/2023 17:08:32] "GET /interoger HTTP/1.1" 200 -
+2023-11-10 17:09:15,001 [INFO] - 127.0.0.1 - - [10/Nov/2023 17:09:15] "GET / HTTP/1.1" 200 -
+2023-11-10 17:09:17,631 [INFO] - 127.0.0.1 - - [10/Nov/2023 17:09:17] "GET /equipements HTTP/1.1" 200 -
+2023-11-10 17:09:19,768 [INFO] - 127.0.0.1 - - [10/Nov/2023 17:09:19] "GET /equipements/Routeur1/edit HTTP/1.1" 200 -
+2023-11-10 17:09:52,645 [INFO] - 127.0.0.1 - - [10/Nov/2023 17:09:52] "[32mPOST /equipements/Routeur1/edit HTTP/1.1[0m" 302 -
+2023-11-10 17:09:52,651 [INFO] - 127.0.0.1 - - [10/Nov/2023 17:09:52] "GET /equipements HTTP/1.1" 200 -
+2023-11-10 17:09:54,211 [INFO] - 127.0.0.1 - - [10/Nov/2023 17:09:54] "GET / HTTP/1.1" 200 -
+2023-11-10 17:09:55,364 [INFO] - Supervision de l'équipement : Routeur1
+2023-11-10 17:09:55,498 [INFO] - Réponse de la sonde SNMP à 192.168.176.2: SNMPv2-SMI::mib-2.2.2.1.22 = No Such Instance currently exists at this OID
+2023-11-10 17:09:55,499 [INFO] - Supervision de l'équipement : Routeur2
+2023-11-10 17:09:56,993 [INFO] - 127.0.0.1 - - [10/Nov/2023 17:09:56] "GET /logs HTTP/1.1" 200 -
+2023-11-10 17:10:01,697 [ERROR] - Erreur lors de l'interrogation de la sonde SNMP à 192.168.141.179: No SNMP response received before timeout
+2023-11-10 17:10:01,698 [INFO] - Supervision de l'équipement : Rw
+2023-11-10 17:10:07,883 [ERROR] - Erreur lors de l'interrogation de la sonde SNMP à 192.168.140.140: No SNMP response received before timeout
+2023-11-10 17:10:07,884 [INFO] - Résultats de supervision : [{'name': 'Routeur1', 'value': 'No Such Instance currently exists at this OID'}, {'name': 'Routeur2', 'value': None}, {'name': 'Rw', 'value': None}]
+2023-11-10 17:10:07,884 [INFO] - 127.0.0.1 - - [10/Nov/2023 17:10:07] "GET /interoger HTTP/1.1" 200 -
+2023-11-10 17:10:09,306 [INFO] - 127.0.0.1 - - [10/Nov/2023 17:10:09] "GET /equipements HTTP/1.1" 200 -
+2023-11-10 17:10:25,748 [INFO] - 127.0.0.1 - - [10/Nov/2023 17:10:25] "GET /equipements/Routeur1/edit HTTP/1.1" 200 -
+2023-11-10 17:10:30,628 [INFO] - 127.0.0.1 - - [10/Nov/2023 17:10:30] "[32mPOST /equipements/Routeur1/edit HTTP/1.1[0m" 302 -
+2023-11-10 17:10:30,634 [INFO] - 127.0.0.1 - - [10/Nov/2023 17:10:30] "GET /equipements HTTP/1.1" 200 -
+2023-11-10 17:10:37,053 [INFO] - 127.0.0.1 - - [10/Nov/2023 17:10:37] "GET / HTTP/1.1" 200 -
+2023-11-10 17:10:38,597 [INFO] - Supervision de l'équipement : Routeur1
+2023-11-10 17:10:38,712 [INFO] - Réponse de la sonde SNMP à 192.168.176.2: SNMPv2-SMI::mib-2.2.2 = No Such Object currently exists at this OID
+2023-11-10 17:10:38,713 [INFO] - Supervision de l'équipement : Routeur2
+2023-11-10 17:10:39,950 [INFO] - 127.0.0.1 - - [10/Nov/2023 17:10:39] "GET /logs HTTP/1.1" 200 -
+2023-11-10 17:10:43,130 [INFO] - 127.0.0.1 - - [10/Nov/2023 17:10:43] "GET / HTTP/1.1" 200 -
+2023-11-10 17:10:44,151 [INFO] - 127.0.0.1 - - [10/Nov/2023 17:10:44] "GET /equipements HTTP/1.1" 200 -
+2023-11-10 17:10:44,980 [ERROR] - Erreur lors de l'interrogation de la sonde SNMP à 192.168.141.179: No SNMP response received before timeout
+2023-11-10 17:10:44,981 [INFO] - Supervision de l'équipement : Rw
+2023-11-10 17:10:45,382 [INFO] - 127.0.0.1 - - [10/Nov/2023 17:10:45] "GET /equipements/Routeur1/edit HTTP/1.1" 200 -
+2023-11-10 17:10:49,119 [INFO] - 127.0.0.1 - - [10/Nov/2023 17:10:49] "[32mPOST /equipements/Routeur1/edit HTTP/1.1[0m" 302 -
+2023-11-10 17:10:49,124 [INFO] - 127.0.0.1 - - [10/Nov/2023 17:10:49] "GET /equipements HTTP/1.1" 200 -
+2023-11-10 17:10:50,716 [INFO] - 127.0.0.1 - - [10/Nov/2023 17:10:50] "GET / HTTP/1.1" 200 -
+2023-11-10 17:10:51,200 [ERROR] - Erreur lors de l'interrogation de la sonde SNMP à 192.168.140.140: No SNMP response received before timeout
+2023-11-10 17:10:51,201 [INFO] - Résultats de supervision : [{'name': 'Routeur1', 'value': 'No Such Object currently exists at this OID'}, {'name': 'Routeur2', 'value': None}, {'name': 'Rw', 'value': None}]
+2023-11-10 17:10:51,203 [INFO] - 127.0.0.1 - - [10/Nov/2023 17:10:51] "GET /interoger HTTP/1.1" 200 -
+2023-11-10 17:10:51,951 [INFO] - Supervision de l'équipement : Routeur1
+2023-11-10 17:10:52,080 [INFO] - Réponse de la sonde SNMP à 192.168.176.2: SNMPv2-SMI::mib-2.2.2 = No Such Object currently exists at this OID
+2023-11-10 17:10:52,082 [INFO] - Supervision de l'équipement : Routeur2
+2023-11-10 17:10:53,393 [INFO] - 127.0.0.1 - - [10/Nov/2023 17:10:53] "GET /logs HTTP/1.1" 200 -
+2023-11-10 17:10:58,253 [ERROR] - Erreur lors de l'interrogation de la sonde SNMP à 192.168.141.179: No SNMP response received before timeout
+2023-11-10 17:10:58,255 [INFO] - Supervision de l'équipement : Rw
+2023-11-10 17:11:04,438 [ERROR] - Erreur lors de l'interrogation de la sonde SNMP à 192.168.140.140: No SNMP response received before timeout
+2023-11-10 17:11:04,440 [INFO] - Résultats de supervision : [{'name': 'Routeur1', 'value': 'No Such Object currently exists at this OID'}, {'name': 'Routeur2', 'value': None}, {'name': 'Rw', 'value': None}]
+2023-11-10 17:11:04,441 [INFO] - 127.0.0.1 - - [10/Nov/2023 17:11:04] "GET /interoger HTTP/1.1" 200 -
+2023-11-10 17:11:19,373 [INFO] - 127.0.0.1 - - [10/Nov/2023 17:11:19] "GET /equipements HTTP/1.1" 200 -
+2023-11-10 17:11:21,481 [INFO] - 127.0.0.1 - - [10/Nov/2023 17:11:21] "GET /equipements/Routeur1/edit HTTP/1.1" 200 -
+2023-11-10 17:11:38,671 [INFO] - 127.0.0.1 - - [10/Nov/2023 17:11:38] "[32mPOST /equipements/Routeur1/edit HTTP/1.1[0m" 302 -
+2023-11-10 17:11:38,676 [INFO] - 127.0.0.1 - - [10/Nov/2023 17:11:38] "GET /equipements HTTP/1.1" 200 -
+2023-11-10 17:11:40,941 [INFO] - 127.0.0.1 - - [10/Nov/2023 17:11:40] "GET / HTTP/1.1" 200 -
+2023-11-10 17:11:42,072 [INFO] - Supervision de l'équipement : Routeur1
+2023-11-10 17:11:42,224 [INFO] - Réponse de la sonde SNMP à 192.168.176.2: SNMPv2-MIB::sysName = No Such Instance currently exists at this OID
+2023-11-10 17:11:42,225 [INFO] - Supervision de l'équipement : Routeur2
+2023-11-10 17:11:43,285 [INFO] - 127.0.0.1 - - [10/Nov/2023 17:11:43] "GET /logs HTTP/1.1" 200 -
+2023-11-10 17:11:47,987 [INFO] - 127.0.0.1 - - [10/Nov/2023 17:11:47] "GET / HTTP/1.1" 200 -
+2023-11-10 17:11:48,410 [ERROR] - Erreur lors de l'interrogation de la sonde SNMP à 192.168.141.179: No SNMP response received before timeout
+2023-11-10 17:11:48,411 [INFO] - Supervision de l'équipement : Rw
+2023-11-10 17:11:50,745 [INFO] - 127.0.0.1 - - [10/Nov/2023 17:11:50] "GET /logs HTTP/1.1" 200 -
+2023-11-10 17:11:52,347 [INFO] - 127.0.0.1 - - [10/Nov/2023 17:11:52] "GET / HTTP/1.1" 200 -
+2023-11-10 17:11:53,142 [INFO] - 127.0.0.1 - - [10/Nov/2023 17:11:53] "GET /equipements HTTP/1.1" 200 -
+2023-11-10 17:11:54,611 [ERROR] - Erreur lors de l'interrogation de la sonde SNMP à 192.168.140.140: No SNMP response received before timeout
+2023-11-10 17:11:54,612 [INFO] - Résultats de supervision : [{'name': 'Routeur1', 'value': 'No Such Instance currently exists at this OID'}, {'name': 'Routeur2', 'value': None}, {'name': 'Rw', 'value': None}]
+2023-11-10 17:11:54,614 [INFO] - 127.0.0.1 - - [10/Nov/2023 17:11:54] "GET /interoger HTTP/1.1" 200 -
+2023-11-10 17:11:55,742 [INFO] - 127.0.0.1 - - [10/Nov/2023 17:11:55] "GET /equipements/Routeur1/edit HTTP/1.1" 200 -
+2023-11-10 17:11:59,913 [INFO] - 127.0.0.1 - - [10/Nov/2023 17:11:59] "[32mPOST /equipements/Routeur1/edit HTTP/1.1[0m" 302 -
+2023-11-10 17:11:59,919 [INFO] - 127.0.0.1 - - [10/Nov/2023 17:11:59] "GET /equipements HTTP/1.1" 200 -
+2023-11-10 17:12:01,390 [INFO] - 127.0.0.1 - - [10/Nov/2023 17:12:01] "GET / HTTP/1.1" 200 -
+2023-11-10 17:12:02,354 [INFO] - Supervision de l'équipement : Routeur1
+2023-11-10 17:12:02,483 [INFO] - Réponse de la sonde SNMP à 192.168.176.2: SNMPv2-MIB::sysName = No Such Instance currently exists at this OID
+2023-11-10 17:12:02,484 [INFO] - Supervision de l'équipement : Routeur2
+2023-11-10 17:12:03,679 [INFO] - 127.0.0.1 - - [10/Nov/2023 17:12:03] "GET /logs HTTP/1.1" 200 -
+2023-11-10 17:12:08,679 [ERROR] - Erreur lors de l'interrogation de la sonde SNMP à 192.168.141.179: No SNMP response received before timeout
+2023-11-10 17:12:08,680 [INFO] - Supervision de l'équipement : Rw
+2023-11-10 17:12:14,893 [ERROR] - Erreur lors de l'interrogation de la sonde SNMP à 192.168.140.140: No SNMP response received before timeout
+2023-11-10 17:12:14,895 [INFO] - Résultats de supervision : [{'name': 'Routeur1', 'value': 'No Such Instance currently exists at this OID'}, {'name': 'Routeur2', 'value': None}, {'name': 'Rw', 'value': None}]
+2023-11-10 17:12:14,897 [INFO] - 127.0.0.1 - - [10/Nov/2023 17:12:14] "GET /interoger HTTP/1.1" 200 -
+2023-11-10 17:12:58,361 [INFO] - 127.0.0.1 - - [10/Nov/2023 17:12:58] "GET /equipements HTTP/1.1" 200 -
+2023-11-10 17:13:29,017 [INFO] - 127.0.0.1 - - [10/Nov/2023 17:13:29] "GET /logs HTTP/1.1" 200 -
+2023-11-10 17:13:42,510 [INFO] - 127.0.0.1 - - [10/Nov/2023 17:13:42] "GET / HTTP/1.1" 200 -
+2023-11-10 17:13:44,624 [INFO] - 127.0.0.1 - - [10/Nov/2023 17:13:44] "GET /equipements HTTP/1.1" 200 -
+2023-11-10 17:13:46,935 [INFO] - 127.0.0.1 - - [10/Nov/2023 17:13:46] "GET / HTTP/1.1" 200 -
+2023-11-10 17:13:47,955 [INFO] - Supervision de l'équipement : Routeur1
+2023-11-10 17:13:48,171 [INFO] - Réponse de la sonde SNMP à 192.168.176.2: SNMPv2-MIB::sysName = No Such Instance currently exists at this OID
+2023-11-10 17:13:48,173 [INFO] - Supervision de l'équipement : Routeur2
+2023-11-10 17:13:54,387 [ERROR] - Erreur lors de l'interrogation de la sonde SNMP à 192.168.141.179: No SNMP response received before timeout
+2023-11-10 17:13:54,388 [INFO] - Supervision de l'équipement : Rw
+2023-11-10 17:14:00,563 [ERROR] - Erreur lors de l'interrogation de la sonde SNMP à 192.168.140.140: No SNMP response received before timeout
+2023-11-10 17:14:00,565 [INFO] - Résultats de supervision : [{'name': 'Routeur1', 'value': 'No Such Instance currently exists at this OID'}, {'name': 'Routeur2', 'value': None}, {'name': 'Rw', 'value': None}]
+2023-11-10 17:14:00,566 [INFO] - 127.0.0.1 - - [10/Nov/2023 17:14:00] "GET /interoger HTTP/1.1" 200 -
+2023-11-10 17:14:09,722 [INFO] - 127.0.0.1 - - [10/Nov/2023 17:14:09] "GET /equipements HTTP/1.1" 200 -
+2023-11-10 17:14:11,515 [INFO] - 127.0.0.1 - - [10/Nov/2023 17:14:11] "GET /equipements/Routeur1/edit HTTP/1.1" 200 -
+2023-11-10 17:14:41,113 [INFO] - 127.0.0.1 - - [10/Nov/2023 17:14:41] "[32mPOST /equipements/Routeur1/edit HTTP/1.1[0m" 302 -
+2023-11-10 17:14:41,118 [INFO] - 127.0.0.1 - - [10/Nov/2023 17:14:41] "GET /equipements HTTP/1.1" 200 -
+2023-11-10 17:14:43,480 [INFO] - 127.0.0.1 - - [10/Nov/2023 17:14:43] "GET /logs HTTP/1.1" 200 -
+2023-11-10 17:14:45,221 [INFO] - 127.0.0.1 - - [10/Nov/2023 17:14:45] "GET / HTTP/1.1" 200 -
+2023-11-10 17:14:46,181 [INFO] - Supervision de l'équipement : Routeur1
+2023-11-10 17:14:46,338 [INFO] - Réponse de la sonde SNMP à 192.168.176.2: SNMPv2-MIB::sysName = No Such Instance currently exists at this OID
+2023-11-10 17:14:46,339 [INFO] - Supervision de l'équipement : Routeur2
+2023-11-10 17:14:48,307 [INFO] - 127.0.0.1 - - [10/Nov/2023 17:14:48] "GET /logs HTTP/1.1" 200 -
+2023-11-10 17:14:52,542 [ERROR] - Erreur lors de l'interrogation de la sonde SNMP à 192.168.141.179: No SNMP response received before timeout
+2023-11-10 17:14:52,543 [INFO] - Supervision de l'équipement : Rw
+2023-11-10 17:14:58,773 [ERROR] - Erreur lors de l'interrogation de la sonde SNMP à 192.168.140.140: No SNMP response received before timeout
+2023-11-10 17:14:58,774 [INFO] - Résultats de supervision : [{'name': 'Routeur1', 'value': 'No Such Instance currently exists at this OID'}, {'name': 'Routeur2', 'value': None}, {'name': 'Rw', 'value': None}]
+2023-11-10 17:14:58,776 [INFO] - 127.0.0.1 - - [10/Nov/2023 17:14:58] "GET /interoger HTTP/1.1" 200 -
+2023-11-10 17:15:21,156 [INFO] - 127.0.0.1 - - [10/Nov/2023 17:15:21] "GET /equipements HTTP/1.1" 200 -
+2023-11-10 17:15:23,332 [INFO] - 127.0.0.1 - - [10/Nov/2023 17:15:23] "GET /equipements/Routeur1/edit HTTP/1.1" 200 -
+2023-11-10 17:16:03,285 [INFO] - 127.0.0.1 - - [10/Nov/2023 17:16:03] "[32mPOST /equipements/Routeur1/edit HTTP/1.1[0m" 302 -
+2023-11-10 17:16:03,293 [INFO] - 127.0.0.1 - - [10/Nov/2023 17:16:03] "GET /equipements HTTP/1.1" 200 -
+2023-11-10 17:16:05,918 [INFO] - 127.0.0.1 - - [10/Nov/2023 17:16:05] "GET / HTTP/1.1" 200 -
+2023-11-10 17:16:07,045 [INFO] - Supervision de l'équipement : Routeur1
+2023-11-10 17:16:07,197 [INFO] - Réponse de la sonde SNMP à 192.168.176.2: SNMPv2-SMI::mib-2.4.1 = No Such Instance currently exists at this OID
+2023-11-10 17:16:07,199 [INFO] - Supervision de l'équipement : Routeur2
+2023-11-10 17:16:08,393 [INFO] - 127.0.0.1 - - [10/Nov/2023 17:16:08] "GET /logs HTTP/1.1" 200 -
+2023-11-10 17:16:13,417 [ERROR] - Erreur lors de l'interrogation de la sonde SNMP à 192.168.141.179: No SNMP response received before timeout
+2023-11-10 17:16:13,418 [INFO] - Supervision de l'équipement : Rw
+2023-11-10 17:16:19,678 [ERROR] - Erreur lors de l'interrogation de la sonde SNMP à 192.168.140.140: No SNMP response received before timeout
+2023-11-10 17:16:19,679 [INFO] - Résultats de supervision : [{'name': 'Routeur1', 'value': 'No Such Instance currently exists at this OID'}, {'name': 'Routeur2', 'value': None}, {'name': 'Rw', 'value': None}]
+2023-11-10 17:16:19,679 [INFO] - 127.0.0.1 - - [10/Nov/2023 17:16:19] "GET /interoger HTTP/1.1" 200 -
+2023-11-10 17:21:43,384 [INFO] - 127.0.0.1 - - [10/Nov/2023 17:21:43] "GET /logs HTTP/1.1" 200 -
+2023-11-10 17:21:47,518 [INFO] - 127.0.0.1 - - [10/Nov/2023 17:21:47] "GET /equipements HTTP/1.1" 200 -
+2023-11-10 17:21:50,049 [INFO] - 127.0.0.1 - - [10/Nov/2023 17:21:50] "GET /equipements/Routeur1/edit HTTP/1.1" 200 -
+2023-11-10 17:22:02,612 [INFO] - 127.0.0.1 - - [10/Nov/2023 17:22:02] "[32mPOST /equipements/Routeur1/edit HTTP/1.1[0m" 302 -
+2023-11-10 17:22:02,619 [INFO] - 127.0.0.1 - - [10/Nov/2023 17:22:02] "GET /equipements HTTP/1.1" 200 -
+2023-11-10 17:22:04,076 [INFO] - 127.0.0.1 - - [10/Nov/2023 17:22:04] "GET / HTTP/1.1" 200 -
+2023-11-10 17:22:05,379 [INFO] - Supervision de l'équipement : Routeur1
+2023-11-10 17:22:05,497 [INFO] - Réponse de la sonde SNMP à 192.168.176.2: SNMPv2-SMI::mib-2.4.1 = No Such Instance currently exists at this OID
+2023-11-10 17:22:05,498 [INFO] - Supervision de l'équipement : Routeur2
+2023-11-10 17:22:06,710 [INFO] - 127.0.0.1 - - [10/Nov/2023 17:22:06] "GET /logs HTTP/1.1" 200 -
+2023-11-10 17:22:11,656 [ERROR] - Erreur lors de l'interrogation de la sonde SNMP à 192.168.141.179: No SNMP response received before timeout
+2023-11-10 17:22:11,657 [INFO] - Supervision de l'équipement : Rw
+2023-11-10 17:22:17,805 [ERROR] - Erreur lors de l'interrogation de la sonde SNMP à 192.168.140.140: No SNMP response received before timeout
+2023-11-10 17:22:17,806 [INFO] - Résultats de supervision : [{'name': 'Routeur1', 'value': 'No Such Instance currently exists at this OID'}, {'name': 'Routeur2', 'value': None}, {'name': 'Rw', 'value': None}]
+2023-11-10 17:22:17,807 [INFO] - 127.0.0.1 - - [10/Nov/2023 17:22:17] "GET /interoger HTTP/1.1" 200 -

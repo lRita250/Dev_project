@@ -1,0 +1,23 @@
+[
+    {
+        "nom_equipement": "Routeur1",
+        "adresse_ip": "192.168.176.2",
+        "communaute_snmp": "passprojet",
+        "interface": "eth1",
+        "oid": ".1.3.6.1.2.1.4.1"
+    },
+    {
+        "nom_equipement": "Routeur2",
+        "adresse_ip": "192.168.141.179",
+        "communaute_snmp": "public",
+        "interface": "ether3",
+        "oid": ".1.3.6.1.2.1.31.1.1.1.11.1"
+    },
+    {
+        "nom_equipement": "Rw",
+        "adresse_ip": "192.168.140.140",
+        "communaute_snmp": "passprojet",
+        "interface": "eth5",
+        "oid": ".1.3.6.1.2"
+    }
+]

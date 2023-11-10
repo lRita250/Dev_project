@@ -1,0 +1,5 @@
+2023-11-01 16:47:33,594 [INFO] -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2023-11-01 16:47:43,765 [INFO] - 127.0.0.1 - - [01/Nov/2023 16:47:43] "GET /equipements/Switch2/edit HTTP/1.1" 200 -
+2023-11-01 16:47:54,235 [INFO] - 127.0.0.1 - - [01/Nov/2023 16:47:54] "GET /equipements HTTP/1.1" 200 -
+2023-11-01 16:47:56,733 [INFO] - 127.0.0.1 - - [01/Nov/2023 16:47:56] "GET /equipements/add HTTP/1.1" 200 -
+2023-11-01 16:47:59,048 [INFO] - 127.0.0.1 - - [01/Nov/2023 16:47:59] "GET /equipements/Router2/edit HTTP/1.1" 200 -

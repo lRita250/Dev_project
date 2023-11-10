@@ -1,0 +1,30 @@
+{% extends "layout.html" %}
+
+
+
+{% block content %}
+
+    <div class="container">
+        <h1 class="mt-2 mb-4"> Accueil </h1>
+
+        <div class="mb-4">
+            <a href="/interoger" class="btn btn-primary"> Superviser </a>
+            <!--<button type="button" class="btn btn-danger"> Arreter </button> -->
+        </div>
+        
+        <div class="alert alert-primary" role="alert">
+            <div>
+                <h2>Résultats de Supervision</h2>
+                {% for result in supervised_results %}
+                    <p>Équipement: {{ result.name }}, Valeur: {{ result.value }}</p>
+                {% endfor %}
+            </div>
+            
+        </div>
+
+        <form action="/arreter_supervision" method="post">
+            <button type="submit">Arrêter la Supervision</button>
+        </form>
+        
+    </div>
+{% endblock %}
