@@ -3,7 +3,7 @@ import logging
 from pysnmp.hlapi import *
 from equiepement_class import Equipement
 import os
-from flask import Flask, render_template, request, redirect, url_for, flash
+from flask import Flask, render_template, request, redirect, url_for, flash,  jsonify
 from datetime import datetime
 import atexit
 import time
@@ -11,9 +11,11 @@ import time
 from interoger_sonde import *
 from apscheduler.schedulers.background import BackgroundScheduler
 
+
 app = Flask(__name__)
-
-
+supervised_results = []
+scheduler = BackgroundScheduler()
+scheduler.start()
 equipements = []
 app.secret_key = 'toto'
 CONFIG_FILE_NAME = "equipment_data.json"
@@ -23,11 +25,11 @@ Equipement.load_from_json(CONFIG_FILE_NAME)
 equipment_list = Equipement.equipements_list
 
 
-
 @app.route('/')
 def index():
     # Supposons que vous souhaitiez afficher la liste des équipements sur la page d'accueil.
-    return render_template('index.html', equipements=equipements)
+    return render_template('index.html', equipements=equipements, supervised_results=supervised_results)
+
 
 
 ###########################################################################
@@ -114,7 +116,9 @@ def read_top_10_log_lines(log_file, ligne=10, newest=True):
 
 @app.route('/interoger')
 def interoger_snmp():
-    supervised_results = []
+    
+    global supervised_results
+    supervised_results.clear()
     for equipement in equipment_list:
         logger.info(f"Supervision de l'équipement : {equipement.nom_equipement}")
         valeur_supervision = interroger_sonde(equipement)
@@ -124,34 +128,27 @@ def interoger_snmp():
         print(valeur_supervision)
     
     logger.info(f"Résultats de supervision : {supervised_results}")
-    return render_template('index.html', supervised_results=supervised_results)
+ #   #return render_template('index.html', supervised_results=supervised_results)
 
 
+@app.route('/demarrer_supervision', methods=['POST'])
+def demarrer_supervision():
+    if not scheduler.get_job('SupervisionJob'):
+        scheduler.add_job(id='SupervisionJob', func=interoger_snmp, trigger='interval', seconds=15)
+    return redirect(url_for('index'))
 
 @app.route('/arreter_supervision', methods=['POST'])
 def arreter_supervision():
-    scheduler.shutdown(wait=False)
+    if scheduler.get_job('SupervisionJob'):
+        scheduler.remove_job('SupervisionJob')
     return redirect(url_for('index'))
 
 
-
-scheduler = BackgroundScheduler()
-
-@app.route('/interoger')
-def supervise_periodiquement():
-    # Appeler la fonction de supervision ici
-    interoger_snmp()
-    return
-
-
-@app.route('/interoger', methods=['POST'])
-def demarrer_supervision():
-    if not scheduler.running:
-        scheduler.add_job(supervise_periodiquement, 'interval', seconds=5)
-        scheduler.start()
-    return redirect(url_for('index'))
-
-
+@app.route('/get_supervised_results')
+def get_supervised_results():
+    if not scheduler.get_job('SupervisionJob'):
+        return jsonify([])  # Aucun travail de supervision en cours, renvoyer une liste vide
+    return jsonify(supervised_results)
 
 # Register a function to save data to the JSON file on script exit
 atexit.register(Equipement.save_to_json, 'equipment_data.json')
@@ -159,5 +156,11 @@ atexit.register(Equipement.save_to_json, 'equipment_data.json')
 # Configuration de la journalisation
 logging.basicConfig(level=logging.DEBUG,format='%(asctime)s [%(levelname)s] - %(message)s',handlers=[logging.FileHandler("app.log", 'a', 'utf-8'), logging.StreamHandler()])
 logger = logging.getLogger()
+
+
+
+
+
+
 
 app.run()
