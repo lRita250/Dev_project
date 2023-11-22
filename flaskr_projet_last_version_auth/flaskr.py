@@ -3,13 +3,18 @@ import logging
 from pysnmp.hlapi import *
 from equiepement_class import Equipement
 import os
-from flask import Flask, render_template, request, redirect, url_for, flash,  jsonify
+from flask import Flask, render_template, request, redirect, url_for, flash,  jsonify, session, flash
 from datetime import datetime
 import atexit
 import time
 
 from interoger_sonde import *
 from apscheduler.schedulers.background import BackgroundScheduler
+
+from werkzeug.security import check_password_hash, generate_password_hash
+import json
+
+
 
 
 app = Flask(__name__)
@@ -23,13 +28,73 @@ CONFIG_FILE_NAME = "equipment_data.json"
 Equipement.load_from_json(CONFIG_FILE_NAME)
 # Retrieve the list of equipment instances
 equipment_list = Equipement.equipements_list
+##########################################################################################################################################################
+################################################       Authentification                #################################################################
+##########################################################################################################################################################
 
 
+
+hashed_password = generate_password_hash('admin')
+print(hashed_password)  # Vous utiliserez cette valeur hachée dans votre fichier users.json
+
+
+# Route pour la page de connexion
+@app.route('/login', methods=['GET', 'POST'])
+def login():
+    print("Tentative de connexion")  # Pour confirmer que la route est atteinte
+
+    if request.method == 'POST':
+        username = request.form['username']
+        password = request.form['password']
+
+        print(f"Nom d'utilisateur: {username}")  # Afficher le nom d'utilisateur saisi
+        print(f"Mot de passe: {password}")  # Afficher le mot de passe saisi (Attention à la sécurité ici)
+
+        # Vérification des identifiants
+        if check_credentials(username, password):
+            print("Identifiants valides")  # Confirmer que les identifiants sont valides
+            session['username'] = username
+            return redirect(url_for('index'))  # Assurez-vous que 'home' est la route de votre page d'accueil
+        else:
+            print("Identifiants invalides")  # Indiquer que les identifiants sont invalides
+            #flash('Nom d\'utilisateur ou mot de passe incorrect')
+            flash('Les informations saisies sont incorrectes', 'error')  # Envoie un message d'erreur
+
+    return render_template('login.html')
+
+
+# Route pour la déconnexion
+@app.route('/logout', methods=['POST', 'GET'])
+def logout():
+    # Supprimer l'utilisateur de la session
+    session.pop('username', None)
+    # Rediriger vers la page de connexion
+    return redirect(url_for('login'))
+
+# Fonction pour vérifier les identifiants d'utilisateur
+def check_credentials(username, password):
+    with open('users.json') as users_file:
+        users = json.load(users_file)
+        user_hashed_password = users.get(username)
+
+    if user_hashed_password and check_password_hash(user_hashed_password, password):
+        return True
+    else:
+        return False
+
+#########################################################################################################################################################
+""" 
 @app.route('/')
 def index():
     # Supposons que vous souhaitiez afficher la liste des équipements sur la page d'accueil.
     return render_template('index.html', equipements=equipements, supervised_results=supervised_results)
+ """
 
+@app.route('/')
+def index():
+    if 'username' not in session:
+        return redirect(url_for('login'))
+    return render_template('index.html')
 
 
 ###########################################################################

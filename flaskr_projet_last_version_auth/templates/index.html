@@ -43,11 +43,20 @@
                         });
                     }
                 }
+            })
+            .fail(function() {
+                console.error("Erreur lors de la récupération des résultats supervisés.");
             });
-        }, 5000); // Rafraîchir toutes les 5 secondes
+        }, 10000); // Rafraîchir toutes les 5 secondes
     </script>
     
 
+
+    <form action="{{ url_for('logout') }}" method="post">
+        <input type="submit" value="Déconnexion">
+    </form>
+    
+    
 
 
 {% endblock %}
