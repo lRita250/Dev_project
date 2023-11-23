@@ -1,0 +1,39 @@
+{% extends "layout.html" %}
+{% block title %} Modifier Equipement {% endblock %}
+
+{% block content %}
+
+
+<div class="container">
+
+    <form method="POST" action="/equipements/{{equipement.nom_equipement}}/edit" class="mt-4">
+  
+      <div class="mb-3">
+        <label for="formGroupExampleInput" class="form-label">Nom de l'équipement</label>
+        <input type="text" class="form-control", name="nom_equipement" id="formGroupExampleInput" value="{{ equipement.nom_equipement }}" disabled>
+      </div>
+      <div class="mb-3">
+        <label for="formGroupExampleInput2" class="form-label">Adresse IP</label>
+        <input type="text" class="form-control" name="adresse_ip" id="formGroupExampleInput2" value="{{ equipement.adresse_ip }}" required>
+      </div>
+      <div class="mb-3">
+        <label for="formGroupExampleInput2" class="form-label">Communauté SNMP</label>
+        <input type="text" class="form-control" name="communaute_snmp" id="formGroupExampleInput2" value="{{ equipement.communaute_snmp }}">
+      </div>
+      <div class="mb-3">
+        <label for="formGroupExampleInput2" class="form-label">Nom de l'interface</label>
+        <input type="text" class="form-control" name="interface" id="formGroupExampleInput2" value="{{ equipement.interface }}">
+      </div>
+      <div class="mb-3">
+        <label for="formGroupExampleInput2" class="form-label">OID</label>
+        <input type="text" class="form-control" name="oid" id="formGroupExampleInput2" value="{{ equipement.oid }}">
+      </div>
+      
+      <button type="submit" class="btn btn-primary" value="Ajouter équipement"> Mis à jour </button>
+    
+    </form>
+  </div>
+
+
+{% endblock %}
+
