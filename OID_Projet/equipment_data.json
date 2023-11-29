@@ -1,0 +1,30 @@
+[
+    {
+        "nom_equipement": "Routeur1",
+        "adresse_ip": "172.20.10.7",
+        "communaute_snmp": "public",
+        "interface": "eth1",
+        "oid": ".1.3.6.1.2.1.31.1.1.1.6.1"
+    },
+    {
+        "nom_equipement": "Routeur2",
+        "adresse_ip": "172.20.10.8",
+        "communaute_snmp": "public",
+        "interface": "ether3",
+        "oid": ".1.3.6.1.2.1.31.1.1.1.6.2"
+    },
+    {
+        "nom_equipement": "Routeur3",
+        "adresse_ip": "172.20.10.9",
+        "communaute_snmp": "public",
+        "interface": "eth3",
+        "oid": ".1.3.6.1.2.1.31.1.1.1.6.3"
+    },
+    {
+        "nom_equipement": "Routeur4",
+        "adresse_ip": "172.20.10.10",
+        "communaute_snmp": "public",
+        "interface": "eth4",
+        "oid": ".1.3.6.1.2.1.31.1.1.1.6.4"
+    }
+]

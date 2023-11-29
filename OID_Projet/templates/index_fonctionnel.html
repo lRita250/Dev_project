@@ -1,0 +1,174 @@
+{% extends "layout.html" %}
+
+{% block content %}
+
+    <div class="container">
+        <h1 class="mt-2 mb-4"> Accueil </h1>
+        
+        <div class="mb-4">
+            <!-- Formulaire pour démarrer la supervision -->
+            <form action="/demarrer_supervision" method="post">
+                <button type="submit" class="btn btn-primary">Superviser</button>
+            </form>
+        </div>
+
+        <div class="alert alert-primary" role="alert">
+            <div id="supervised-results">
+                <h2>Résultats de Supervision</h2>
+                
+                {% if results %}
+                <table class="table">
+                    <thead>
+                        <tr>
+                            <th>Nom de l'Équipement</th>
+                            <th>Valeur</th>
+                            <th>Temps</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <!-- Boucle sur chaque résultat et affichage -->
+                        {% for result in results %}
+                            <tr>
+                                <td>{{ result.name }}</td>
+                                <td>{{ result.value }}</td>
+                                <td>{{ result.Temps }}</td>
+                            </tr>
+                        {% endfor %}
+                    </tbody>
+                </table>
+            {% else %}
+                <p>Aucun résultat à afficher.</p>
+            {% endif %}
+
+            </div>
+        </div>
+
+        <form action="/arreter_supervision" method="post">
+            <button type="submit" class="btn btn-danger">Arrêter la Supervision</button>
+        </form>
+        
+    </div>
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+
+<script>
+    var refreshIntervalId;  // Stocker l'identifiant de l'intervalle 
+    var supervisedResults = [];  // Liste globale pour stocker les résultats supervisés
+    function stopSupervision() {
+    $.ajax({
+        url: '/arreter_supervision',
+        type: 'POST',
+        success: function(data) {
+            var resultsDiv = $('#supervised-results');
+            if (data.length === 0) {
+                resultsDiv.html('<h2>Résultats de Supervision</h2>'); // Réinitialiser à l'état initial
+            } else {
+                resultsDiv.empty(); // Efface les résultats existants
+                data.forEach(function(result) {
+                    resultsDiv.append('<p>Équipement: ' + result.name + ', Valeur: ' + result.value + ', Temps: ' + result.Temps + '</p>');
+                });
+            }
+        }
+    })
+    .fail(function() {
+        console.error("Erreur lors de l'arrêt de la supervision.");
+    });
+}
+
+    function updateSupervisedResults(newResults) {
+        var resultsDiv = $('#supervised-results');
+        resultsDiv.empty(); // Efface les résultats existants
+        if (newResults.length > 0) {
+            newResults.forEach(function(result) {
+                resultsDiv.append('<p>Équipement: ' + result.name + ', Valeur: ' + result.value + ', Temps: ' +result.Temps +  '</p>');
+            });
+        } else {
+            resultsDiv.html('<h2>Résultats de Supervision</h2>'); // Réinitialiser à l'état initial
+        }
+    }
+    
+
+    setInterval(function() {
+        $.ajax({
+            url: '/get_supervised_results',
+            type: 'GET',
+            success: function(data) {
+                supervisedResults = data;  // Mettre à jour la liste globale avec les nouveaux résultats
+                updateSupervisedResults(supervisedResults);
+            }
+        })
+        .fail(function() {
+            console.error("Erreur lors de la récupération des résultats supervisés.");
+        });
+    }, 10000); // Rafraîchir toutes les 10 secondes
+
+    // Rafraîchir la liste des résultats au chargement de la page
+    $(document).ready(function() {
+        startSupervision();
+
+        // Soumettre le formulaire d'arrêt de la supervision
+        $('#stopSupervisionForm').submit(function(event) {
+            event.preventDefault();
+            stopSupervision();
+            clearInterval(refreshIntervalId);  // Arrêter l'intervalle de rafraîchissement
+        });
+    });
+
+
+</script>
+
+
+<script>
+    $(document).ready(function() {
+        $('#stopSupervisionForm').submit(function(event) {
+            event.preventDefault();
+            stopSupervision();
+        });
+    });
+</script>
+
+<!-- Inclusion de Chart.js -->
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+
+<!-- Élément Canvas pour le graphique -->
+<canvas id="myChart" width="400" height="200"></canvas>
+
+<script>
+// Une fonction pour mettre à jour le graphique, appelée chaque fois que vous recevez de nouvelles données
+function updateChart(newResults) {
+    var ctx = document.getElementById('myChart').getContext('2d');
+    var timestamps = newResults.map(function(result) { return result.Temps; });
+    var values = newResults.map(function(result) { return result.value; });
+
+    var myChart = new Chart(ctx, {
+        type: 'line',
+        data: {
+            labels: timestamps, // Les temps des résultats de supervision
+            datasets: [{
+                label: 'Valeur de supervision',
+                data: values, // Les valeurs de supervision
+                backgroundColor: 'rgba(255, 99, 132, 0.2)',
+                borderColor: 'rgba(255, 99, 132, 1)',
+                borderWidth: 1
+            }]
+        },
+        options: {
+            scales: {
+                y: {
+                    beginAtZero: false
+                }
+            }
+        }
+    });
+}
+</script>
+
+
+    <form action="{{ url_for('logout') }}" method="post">
+        <input type="submit" value="Déconnexion">
+    </form>
+    
+    
+
+
+{% endblock %}

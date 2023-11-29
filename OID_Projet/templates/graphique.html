@@ -1,0 +1,235 @@
+{% extends "layout.html" %}
+
+{% block content %}
+
+    <div class="container">
+        <h1 class="mt-2 mb-4"> Graphique </h1>
+        
+    </div>
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+
+<script>
+    var refreshIntervalId;  // Stocker l'identifiant de l'intervalle 
+    var supervisedResults = [];  // Liste globale pour stocker les résultats supervisés
+    function stopSupervision() {
+    $.ajax({
+        url: '/arreter_supervision',
+        type: 'POST',
+        success: function(data) {
+            var resultsDiv = $('#supervised-results');
+            if (data.length === 0) {
+                resultsDiv.html('<h2>Résultats de Supervision</h2>'); // Réinitialiser à l'état initial
+            } else {
+                resultsDiv.empty(); // Efface les résultats existants
+                data.forEach(function(result) {
+                    resultsDiv.append('<p>Équipement: ' + result.name + ', Valeur: ' + result.value + ', Temps: ' + result.Temps + '</p>');
+                });
+            }
+        }
+    })
+    .fail(function() {
+        console.error("Erreur lors de l'arrêt de la supervision.");
+    });
+}
+
+
+
+    function updateSupervisedResults(newResults) {
+        
+        var resultsDiv = $('#supervised-results');
+        resultsDiv.empty(); // Efface les résultats existants
+        if (newResults.length > 0) {
+            newResults.forEach(function(result) {
+                resultsDiv.append('<p>Équipement: ' + result.name + ', Valeur: ' + result.value + ', Temps: ' +result.Temps +  '</p>');
+            });
+        } else {
+            resultsDiv.html('<h2>Résultats de Supervision</h2>'); // Réinitialiser à l'état initial
+        }
+        createChart(newResults); // Mettez à jour le graphique ici
+    }
+    
+
+    setInterval(function() {
+        $.ajax({
+            url: '/get_supervised_results',
+            type: 'GET',
+            success: function(data) {
+                supervisedResults = data;  // Mettre à jour la liste globale avec les nouveaux résultats
+                updateSupervisedResults(supervisedResults);
+            }
+        })
+        .fail(function() {
+            console.error("Erreur lors de la récupération des résultats supervisés.");
+        });
+    }, 10000); // Rafraîchir toutes les 10 secondes
+
+    // Rafraîchir la liste des résultats au chargement de la page
+    $(document).ready(function() {
+        startSupervision();
+
+        // Soumettre le formulaire d'arrêt de la supervision
+        $('#stopSupervisionForm').submit(function(event) {
+            event.preventDefault();
+            stopSupervision();
+            clearInterval(refreshIntervalId);  // Arrêter l'intervalle de rafraîchissement
+        });
+    });
+
+
+</script>
+
+
+<script>
+    $(document).ready(function() {
+        $('#stopSupervisionForm').submit(function(event) {
+            event.preventDefault();
+            stopSupervision();
+        });
+    });
+</script>
+
+<canvas id="equipmentChart" width="400" height="400"></canvas>
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+
+<script>
+    // ... (après votre code AJAX existant)
+    function createChart(data) {
+    var ctx = document.getElementById('equipmentChart').getContext('2d');
+    
+    // Grouper les données par nom d'équipement
+    var datasets = {};
+    data.forEach(function(result) {
+        var color = getColorForEquipment(result.name);
+        if (!datasets[result.name]) {
+            datasets[result.name] = {
+                label: result.name,
+                data: [],
+                timestamps: [],
+                borderColor: color, // Fonction pour générer une couleur aléatoire
+                fill: false
+                
+            };
+        }
+        datasets[result.name].data.push(result.value);
+        datasets[result.name].timestamps.push(result.Temps);
+    });
+
+    var chartData = {
+        labels: [],
+        datasets: []
+    };
+
+
+        for (var name in datasets) {
+        if (datasets.hasOwnProperty(name)) {
+            var existingDataset = chartData.datasets.find(function(dataset) {
+                return dataset.label === name;
+            });
+
+            if (existingDataset) {
+                // Si l'ensemble de données existe déjà, ajoutez simplement les nouvelles valeurs
+                existingDataset.data = datasets[name].data;
+            } else {
+                // Sinon, créez un nouvel ensemble de données
+                chartData.datasets.push({
+                    label: datasets[name].label,
+                    data: datasets[name].data,
+                    borderColor: datasets[name].borderColor,
+                    fill: datasets[name].fill,
+                    tension : 0.4
+                });
+            }
+
+            
+            if (chartData.labels.length < datasets[name].timestamps.length) {
+                chartData.labels = datasets[name].timestamps;
+            }
+        }
+    }
+
+    // Créer le graphique avec plusieurs courbes
+    var myChart = new Chart(ctx, {
+        
+        type: 'line',
+
+        data: chartData,
+        options: {
+    scales: {
+        y: {
+            beginAtZero: true,
+            title: {
+                display: true,
+                text: 'Bytes in' // Nom de l'axe Y
+            }
+        },
+        x: {
+            title: {
+                display: true,
+                text: 'Time' // Nom de l'axe X
+            }
+        }
+    }
+    // Autres options...
+}
+
+    });
+}
+
+// Fonction pour générer une couleur 
+
+
+var predefinedColors = [
+    '#E6194B', // Rouge
+    '#3CB44B', // Vert
+    '#FFE119', // Jaune
+    '#4363D8', // Bleu
+    '#F58231', // Orange
+    '#911EB4', // Violet
+    '#46F0F0', // Cyan
+    '#F032E6', // Magenta
+    '#BCF60C', // Lime
+    '#FABEBE', // Rose
+    '#008080', // Teal
+    '#E6BEFF', // Lavande
+    '#9A6324', // Brun
+    '#FFFAC8', // Beige
+    '#800000', // Marron
+    '#AAFFC3', // Menthe
+    '#808000', // Olive
+    '#FFD8B1', // Corail
+    '#000075', // Bleu Marine
+    '#808080', // Gris
+];
+
+var equipmentColorMapping = {};
+
+function getColorForEquipment(equipmentName) {
+    if (!equipmentColorMapping[equipmentName]) {
+        // Attribuer une couleur non utilisée de predefinedColors
+        var unusedColors = predefinedColors.filter(color => !Object.values(equipmentColorMapping).includes(color));
+        
+        if (unusedColors.length > 0) {
+            equipmentColorMapping[equipmentName] = unusedColors[0]; // Utiliser la première couleur disponible
+        } else {
+            // Toutes les couleurs prédéfinies sont utilisées, renvoyer une couleur par défaut
+            console.warn("Toutes les couleurs prédéfinies sont utilisées. Attribuer une couleur par défaut.");
+            equipmentColorMapping[equipmentName] = '#000000'; // Noir ou une autre couleur par défaut
+        }
+    }
+    return equipmentColorMapping[equipmentName];
+}
+
+
+
+
+    </script>
+    <form action="{{ url_for('logout') }}" method="post">
+        <input type="submit" value="Déconnexion">
+    </form>
+    
+    
+
+
+{% endblock %}
+

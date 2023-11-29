@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Connexion - Visualisateur SNMP</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+</head>
+<body>
+    <div class="login-container">
+        {% with messages = get_flashed_messages(category_filter=["error"]) %}
+          {% if messages %}
+            <div class="flash-messages">
+              {% for message in messages %}
+                <p class="error">{{ message }}</p>
+              {% endfor %}
+            </div>
+          {% endif %}
+        {% endwith %}
+
+        <h2>Connexion au Visualisateur SNMP</h2>
+        <p>Réalisé par Bineta et Rita</p>
+        <form method="post" class="login-form">
+            Nom d'utilisateur: <input type="text" name="username"><br>
+            Mot de passe: <input type="password" name="password"><br>
+            <input type="submit" value="Connexion">
+        </form>
+    </div>
+</body>
+</html>
